@@ -1,0 +1,1652 @@
+[
+  {
+    "doi": "10.1016/j.eurpolymj.2024.113289",
+    "title": "Advancing sustainable shape memory polymers through 4D printing of polylactic acid-polybutylene adipate terephthalate blends",
+    "year": 2024,
+    "type": "article",
+    "journal": "European Polymer Journal",
+    "issn_l": "0014-3057",
+    "authors": [
+      {
+        "name": "Davood Rahmatabadi",
+        "position": "first"
+      },
+      {
+        "name": "Mahdi Khajepour",
+        "position": "middle"
+      },
+      {
+        "name": "Abbas Bayati",
+        "position": "middle"
+      },
+      {
+        "name": "Kiandokht Mirasadi",
+        "position": "middle"
+      },
+      {
+        "name": "Mohammad Amin Yousefi",
+        "position": "middle"
+      },
+      {
+        "name": "Atefeh Shegeft",
+        "position": "middle"
+      },
+      {
+        "name": "Ismaeil Ghasemi",
+        "position": "middle"
+      },
+      {
+        "name": "Majid Baniassadi",
+        "position": "middle"
+      },
+      {
+        "name": "Karen Abrinia",
+        "position": "middle"
+      },
+      {
+        "name": "Mahdi Bodaghi",
+        "position": "middle"
+      },
+      {
+        "name": "Mostafa Baghani",
+        "position": "last"
+      }
+    ],
+    "volume": "216",
+    "issue": "",
+    "first_page": "113289",
+    "last_page": "113289",
+    "cited_by_count": 235,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.eurpolymj.2024.113289",
+    "landing_page_url": "https://doi.org/10.1016/j.eurpolymj.2024.113289",
+    "abstract": "One of the major challenges in 4D printed Shape Memory Polymers (SMPs) is their slow response to thermal stimuli. Synthetic carbon fillers have been introduced to address this issue; however, their use comes with environmental concerns. On the other hand, Polylactic Acid (PLA) is commonly used for 3D/4D printing of SMPs, but it requires softening to achieve large deformations. This research paper introduces a sustainable solution through blending PLA with Polybutylene Adipate Terephthalate (PBAT) that not only addresses these challenges but also possesses environmental eco-friendliness due to PBAT’s high biodegradability rate. PBAT with weight percentages of 15 %, 30 %, and 45 % is utilized to soften PLA, and their composites are successfully 4D printed. Mechanical properties, shape memory effects, morphology, and thermal behaviors are comprehensively investigated. The results show that blending PLA with 45 % PBAT weight results in excellent features such as 220 % elongation and 93 % shape recovery in just a few seconds. The other two PLA-PBAT blends achieve complete shape recovery in less than 8 s. The PLA-PBAT contains 15 % PBAT, in addition to high strength (40 MPa), has 17 % elongation. This, coupled with the low melting temperature of PBAT, drives the high shape recovery rate. Scanning electron microscopy images finally confirm the high printability of all three blends, with the PLA-PBAT composite containing 30 % PBAT exhibiting the best quality in layer interfaces and the least porosity.",
+    "score": 11,
+    "tags": [
+      "pla",
+      "sme",
+      "fiber"
+    ],
+    "openalex_id": "https://openalex.org/W4400454524"
+  },
+  {
+    "doi": "10.1016/j.jcomc.2022.100271",
+    "title": "A Review of 3D/4D Printing of Poly-Lactic Acid Composites with Bio-Derived Reinforcements",
+    "year": 2022,
+    "type": "article",
+    "journal": "Composites Part C Open Access",
+    "issn_l": "2666-6820",
+    "authors": [
+      {
+        "name": "Lakshmi Priya Muthe",
+        "position": "first"
+      },
+      {
+        "name": "Kim Louise Pickering",
+        "position": "middle"
+      },
+      {
+        "name": "Christian Gauss",
+        "position": "last"
+      }
+    ],
+    "volume": "8",
+    "issue": "",
+    "first_page": "100271",
+    "last_page": "100271",
+    "cited_by_count": 139,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1016/j.jcomc.2022.100271",
+    "landing_page_url": "https://doi.org/10.1016/j.jcomc.2022.100271",
+    "abstract": "Poly-lactic acid (PLA) has become a commonly used polymer for additive manufacturing because of its bio-derived nature, useful mechanical properties, and excellent processability. Reinforcing PLA with bio-derived materials has been shown to improve the physical, mechanical, and thermal properties of 3D printed composites and, in some cases, to produce active materials for shape-changing hygromorphic structures. PLA also displays shape memory as a response to changes in temperature, making it a popular choice for 4D printing. This review aims to present an overview of the current state of 3D/4D printing PLA composites with bio-derived reinforcements and highlight the recent progress and future opportunities. This comprehensive overview summarises the different forms of bio-derived reinforcements for PLA used in fused deposition modelling (FDM), factors influencing the resulting printed composites’ performance, and research gaps that need addressing. The current methods used before, during, and after printing to enhance the material properties and the impending need for innovative filament production and printing technologies have been brought to attention.",
+    "score": 15,
+    "tags": [
+      "pla",
+      "sme",
+      "fiber",
+      "process",
+      "review"
+    ],
+    "openalex_id": "https://openalex.org/W4224947559"
+  },
+  {
+    "doi": "10.1016/j.jmmm.2023.170425",
+    "title": "Simultaneous FDM 4D printing and magnetizing of iron-filled polylactic acid polymers",
+    "year": 2023,
+    "type": "article",
+    "journal": "Journal of Magnetism and Magnetic Materials",
+    "issn_l": "0304-8853",
+    "authors": [
+      {
+        "name": "Mahmoud Moradi",
+        "position": "first"
+      },
+      {
+        "name": "Mohammadreza Lalegani Dezaki",
+        "position": "middle"
+      },
+      {
+        "name": "Erfan Kheyri",
+        "position": "middle"
+      },
+      {
+        "name": "Seyed Alireza Rasouli",
+        "position": "middle"
+      },
+      {
+        "name": "Milad Aghaee Attar",
+        "position": "middle"
+      },
+      {
+        "name": "Mahdi Bodaghi",
+        "position": "last"
+      }
+    ],
+    "volume": "568",
+    "issue": "",
+    "first_page": "170425",
+    "last_page": "170425",
+    "cited_by_count": 46,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.jmmm.2023.170425",
+    "landing_page_url": "https://doi.org/10.1016/j.jmmm.2023.170425",
+    "abstract": "4D printing magnetic structures with excellent strength activated with a low level of magnetic field are always desired but challenging. This work studies the influence of simultaneous magnetization on the magnetomechanical performance of 4D-printed active polymers. The main aim is to magnetise magnetic iron polylactic acid (PLA) material during 4D printing via fused deposition modelling (FDM) process. During the printing process, the magnetization of samples is performed in various magnetic field states. Specimens are printed in three states with two magnets around the printing area, magnets under the printing area, and without magnets, at three angles of 0, 45, and 90◦ to the applied magnetic field. Vibrating sample magnetometer (VSM), mechanical tests, and scanning electron microscope (SEM) are used to investigate the effects of the applied magnetic field on the magnetization with different printing conditions, mechanical properties of different printing angles, and the microstructure of printed samples. Results show that printed samples on the edge of the magnet are saturated in a higher specific magnetization compared to the printed samples with magnets around and without a magnetic field. The specific magnetization in the magnetic field in the direction of the sample deposition increases by 63.46% by applying a magnetic field. The strength increases 21.4% when a magnetic field is present, and the sample is printed at 0◦ angle along the tension direction. The printed sample has better mechanical properties when two magnets are used around the printing region rather than one under it, which is independent of the impact of the printing angle. Finally, the optimal printing mode for obtaining the appropriate magnetic and mechanical characteristics is 4D printing with magnets under the printing bed at 0◦ angle along the tension direction.",
+    "score": 13,
+    "tags": [
+      "pla",
+      "sme",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W4317528639"
+  },
+  {
+    "doi": "10.1016/j.eurpolymj.2024.112988",
+    "title": "4D printing and programming of continuous fibre-reinforced shape memory polymer composites",
+    "year": 2024,
+    "type": "article",
+    "journal": "European Polymer Journal",
+    "issn_l": "0014-3057",
+    "authors": [
+      {
+        "name": "Mohammadreza Lalegani Dezaki",
+        "position": "first"
+      },
+      {
+        "name": "Mahdi Bodaghi",
+        "position": "last"
+      }
+    ],
+    "volume": "210",
+    "issue": "",
+    "first_page": "112988",
+    "last_page": "112988",
+    "cited_by_count": 45,
+    "oa_status": "hybrid",
+    "oa_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0014305724002490-ga1_lrg.jpg",
+    "landing_page_url": "https://doi.org/10.1016/j.eurpolymj.2024.112988",
+    "abstract": "This study demonstrates the use of fused filament fabrication (FFF) 4D printing (4DP) to print programmable continuous fibre-reinforced composite (CFRC) structures with exceptional strength and eco-friendly features. This research focuses on bio-shape memory polymer composites (SMPCs) and employs experiments to fabricate lightweight CFRC parts using FFF technology. Different types of continuous fibres, including carbon fibre (CF), aramid fibre (AF), and fibreglass (FG), are incorporated into a biopolymer matrix made of biodegradable polylactic acid (PLA). The study evaluates microstructure, mechanical properties, and shape memory properties of SMPCs, employing techniques like cold and hot programming. Continuous fibres significantly enhance mechanical properties, increasing strength by over 1027.5 % in tensile tests and nearly 497.3 % in three-point bending tests. The research also addresses shape recovery and fixity ratios in 4D-printed SMPCs, finding a decrease when continuous fibres are incorporated into PLA. Notably, FGPLA specimens achieve the highest shape recovery ratio of approximately 95 ± 1 % after pure PLA. These findings highlight the potential of 4D-printed CFRCs in various applications, from human-material interaction to mechanical and biomedical fields. They contribute to sustainability by reducing material consumption and waste, demonstrated through the creation of reusable and lightweight items like hooks, lockers, finger splints, and meta-composites.",
+    "score": 12,
+    "tags": [
+      "pla",
+      "sme",
+      "fiber",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W4393237921"
+  },
+  {
+    "doi": "10.1016/j.engstruct.2024.119538",
+    "title": "Bio-inspired design and 4D Printing of Multi‐stiffness Wavy Metamaterial Energy Absorbers/Dissipators with Shape Recovery Features",
+    "year": 2025,
+    "type": "article",
+    "journal": "Engineering Structures",
+    "issn_l": "0141-0296",
+    "authors": [
+      {
+        "name": "Ramin Hamzehei",
+        "position": "first"
+      },
+      {
+        "name": "Mahdi Bodaghi",
+        "position": "middle"
+      },
+      {
+        "name": "Nan Wu",
+        "position": "last"
+      }
+    ],
+    "volume": "327",
+    "issue": "",
+    "first_page": "119538",
+    "last_page": "119538",
+    "cited_by_count": 55,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.engstruct.2024.119538",
+    "landing_page_url": "https://doi.org/10.1016/j.engstruct.2024.119538",
+    "abstract": "This study proposes a four-dimensional (4D) printing design of novel wavy metamaterials for energy absorption/dissipation applications. When designing energy absorbers (EAs), ensuring stability, high energy absorption capacity, and shape memory behavior becomes a pivotal consideration. The conventional re-entrant metamaterial is reformulated by replacing the oblique supports of the unit cells with wavy struts, and various curvatures and arrangements of these supports are analyzed for their impact on the mechanical behavior of the metamaterials. The straight horizontal beams of the lattice metamaterials are replaced with wavy connections with inspiration from the cactus fiber to further enhance the material ductility and strength before and after inner contacts, respectively. A finite element analysis (FEA) simulates the deformation patterns and shows mechanical stress distributions within the structures under quasi-static compression. Following this, the lattice structures are additively manufactured from polylactic acid (PLA) silk ultra to validate the FEA results. A good correlation is observed between the FEA and experiments. From both experiments and simulations, a direct relation between the curvature of the wavy ligaments and the stress values is noticed showing the lower the stiffness and stress concentration with the higher curvature. Due to the dependency of structural stiffness on the curvature of the wavy ligaments, multi-stiffness wavy unit cells containing different curvatures can be combined to introduce a hybrid design containing low and high-stiffness unit cells. Under quasi-static compression, the hybrid design leads to a layer-by-layer yield and corresponding multi-plateau region related to each yield on force-displacement relation. In addition, during lattice deformation, the wavy design facilitates earlier contact points and frictional interactions between the walls. These mechanisms enable stress redistribution across broader surfaces, significantly enhancing energy absorption and dissipation through contact-based mechanisms. Due to these newly introduced energy absorption and dissipation capabilities of the proposed metamaterials, multiple applications of the proposed metamaterials can be considered such as in airplane wings, crash boxes, and bio-protection devices. • Wavy metamaterials inspired by cactus fiber enhance energy dissipation property. • Adjusting cell curvatures causes earlier densification and high inner friction. • Functional graded wavy cell design leads to quasi-zero stiffness behavior. • Hybrid metamaterial design realizes stability under compression. • Fully shape-recoverable behavior was noticed via a heating-cooling process.",
+    "score": 9,
+    "tags": [
+      "pla",
+      "sme",
+      "fiber"
+    ],
+    "openalex_id": "https://openalex.org/W4406109054"
+  },
+  {
+    "doi": "10.1016/j.ijmecsci.2024.109309",
+    "title": "4D-printed reusable metamaterial via shape memory effect for energy dissipation",
+    "year": 2024,
+    "type": "article",
+    "journal": "International Journal of Mechanical Sciences",
+    "issn_l": "0020-7403",
+    "authors": [
+      {
+        "name": "Di Zhang",
+        "position": "first"
+      },
+      {
+        "name": "Meiyu Li",
+        "position": "middle"
+      },
+      {
+        "name": "Na Qiu",
+        "position": "middle"
+      },
+      {
+        "name": "Jie Yang",
+        "position": "middle"
+      },
+      {
+        "name": "Chi Wu",
+        "position": "middle"
+      },
+      {
+        "name": "Grant P. Steven",
+        "position": "middle"
+      },
+      {
+        "name": "Qing Li",
+        "position": "middle"
+      },
+      {
+        "name": "Jianguang Fang",
+        "position": "last"
+      }
+    ],
+    "volume": "275",
+    "issue": "",
+    "first_page": "109309",
+    "last_page": "109309",
+    "cited_by_count": 76,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.ijmecsci.2024.109309",
+    "landing_page_url": "https://doi.org/10.1016/j.ijmecsci.2024.109309",
+    "abstract": "The present study aims at developing reusable metamaterials fabricated by 4D printing technology. Honeycomb metamaterials were manufactured via fused deposition modeling (FDM) with shape memory polymers (SMPs). The reusability of these metamaterials was determined through cyclic cold programming experiments, where each cycle involved a loading-unloading-heating (shape recovery)-cooling process. The novelty of this paper lies not only in experimentally demonstrating the recoverability of metamaterials by reversing plastic deformation based on the shape memory effect of SMPs, but also in studying their reusability of SMP metamaterials under cyclic programming and the effect of printing materials and unit-cell types on the mechanical degradation. The results reveal that, under one single compression cycle, the polylactic acid (PLA) hexagonal honeycomb dissipated 22% more energy than the polyethylene terephthalate glycol (PETG) counterpart because the higher elastic modulus of PLA leads to a larger critical buckling load for segments in honeycomb structures. Furthermore, the PETG re-entrant honeycomb dissipated 25% more energy than the hexagonal counterpart due to its negative Poisson's ratio and the overall uniform deformation pattern. More importantly, it is found that under multiple compression cycles, the PETG hexagonal honeycomb maintained an energy dissipation capacity of 78.3% at Cycle 6, nearly 3.5 times that of the PLA counterpart as a result of the better ductility of PETG. Moreover, the PETG re-entrant honeycomb could be reused for 17 cycles, while the hexagonal counterpart could only be reused for 12 cycles. This is because the re-entrant unit cells are failure-resistant and of less concentration in plastic deformation. The results demonstrate that the constituent materials with better ductility and the unit-cells with more failure resistance can reduce mechanical degradation, thereby exhibiting better reusability of metamaterials.",
+    "score": 9,
+    "tags": [
+      "pla",
+      "sme",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W4394980180"
+  },
+  {
+    "doi": "10.1016/j.polymertesting.2023.108105",
+    "title": "Compatibilised and toughened of PLA/PCL blends via modified-chitosan linking amorphous regions: 4D printing and shape memory processes",
+    "year": 2023,
+    "type": "article",
+    "journal": "Polymer Testing",
+    "issn_l": "0142-9418",
+    "authors": [
+      {
+        "name": "Minzimo Song",
+        "position": "first"
+      },
+      {
+        "name": "Shenghua Li",
+        "position": "middle"
+      },
+      {
+        "name": "Guiyou Zhu",
+        "position": "middle"
+      },
+      {
+        "name": "Jianwei Guo",
+        "position": "last"
+      }
+    ],
+    "volume": "125",
+    "issue": "",
+    "first_page": "108105",
+    "last_page": "108105",
+    "cited_by_count": 23,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1016/j.polymertesting.2023.108105",
+    "landing_page_url": "https://doi.org/10.1016/j.polymertesting.2023.108105",
+    "abstract": "It is valuable research to improve the compatibility and toughness of PLA/PCL blends while endowing them with shape memory & 4D printing capability. In this work, lactic acid/caprolactone-modified chitosan (mCS) was used to connect the amorphous region of PLA and PCL to achieve compatibilisation, toughening and 4D printing shape memory ability. The effects of different mCS additions on the morphology, crystalline behaviour, and thermal properties of PLA/PCL blends were observed to study the mechanism of compatibilisation and toughening. Adding 0.5 g mCS into 10 g PLA/PCL blends had the best compatibilisation and toughening effect. At the same time, the blends with this addition ratio had the best shape memory performance after 4D printing. The shape fixity and shape memory ratios of the 4D printing model were as high as 100% and 94.5%, respectively. This work provides a new way to fabricate biomedical devices and bionic components with 4D printing.",
+    "score": 10,
+    "tags": [
+      "pla",
+      "sme"
+    ],
+    "openalex_id": "https://openalex.org/W4380995593"
+  },
+  {
+    "doi": "10.1016/j.addma.2022.103166",
+    "title": "Preparation and characterisation of biocomposites containing thermomechanical pulp fibres, poly(lactic acid) and poly(butylene-adipate-terephthalate) or poly(hydroxyalkanoates) for 3D and 4D printing",
+    "year": 2022,
+    "type": "article",
+    "journal": "Additive manufacturing",
+    "issn_l": "2214-7810",
+    "authors": [
+      {
+        "name": "Chiara Zarna",
+        "position": "first"
+      },
+      {
+        "name": "Sandra Rodríguez‐Fabià",
+        "position": "middle"
+      },
+      {
+        "name": "Andreas T. Echtermeyer",
+        "position": "middle"
+      },
+      {
+        "name": "Gary Chinga‐Carrasco",
+        "position": "last"
+      }
+    ],
+    "volume": "59",
+    "issue": "",
+    "first_page": "103166",
+    "last_page": "103166",
+    "cited_by_count": 39,
+    "oa_status": "hybrid",
+    "oa_url": "https://www.sciencedirect.com/science/article/pii/S2214860422005553/pdf",
+    "landing_page_url": "https://doi.org/10.1016/j.addma.2022.103166",
+    "abstract": "Wood fibres are hygroscopic and swell when immersed in water. This effect can be used to create shape-changing structures in 3D printing. Hence, wood fibre reinforced filaments have the potential to be used in four-dimensional (4D) printing. In this work, biocomposites based on granulated or milled thermomechanical pulp (TMP) fibres and poly(lactic acid) (PLA) were prepared and evaluated based on their tensile properties. Poly(hydroxyalkanoates) (PHA) or poly(butylene-adipate-terephthalate) (PBAT) were included in the biocomposite recipes to assess their effect on the melt flow index (MFI) and tensile properties. Clear effects of the TMP fibre morphology on MFI were quantified. Biocomposites containing 20 wt% PBAT turned out to be stronger and tougher than the ones containing PHA. Based on that, filaments for 3D and 4D printing were manufactured. Interestingly, the tensile strength of 3D printed specimens containing milled TMP (TMPm) fibres was about 33% higher compared to those containing TMP fibre granulate (TMPg). Using hot water as the stimulus, the 3D printed specimens containing TMPg showed a greater reactivity and shape change compared to TMPm specimens.",
+    "score": 14,
+    "tags": [
+      "pla",
+      "sme",
+      "fiber",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W4297176020"
+  },
+  {
+    "doi": "10.1016/j.polymertesting.2025.108709",
+    "title": "3D/4D printed bio-composites reinforced by bamboo charcoal and continuous flax fibres for superior mechanical strength, flame retardancy and recoverability",
+    "year": 2025,
+    "type": "article",
+    "journal": "Polymer Testing",
+    "issn_l": "0142-9418",
+    "authors": [
+      {
+        "name": "Mahdi Bodaghi",
+        "position": "first"
+      },
+      {
+        "name": "Kaveh Rahmani",
+        "position": "middle"
+      },
+      {
+        "name": "Mohammadreza Lalegani Dezaki",
+        "position": "middle"
+      },
+      {
+        "name": "Callum Branfoot",
+        "position": "middle"
+      },
+      {
+        "name": "Jon Baxendale",
+        "position": "last"
+      }
+    ],
+    "volume": "143",
+    "issue": "",
+    "first_page": "108709",
+    "last_page": "108709",
+    "cited_by_count": 47,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1016/j.polymertesting.2025.108709",
+    "landing_page_url": "https://doi.org/10.1016/j.polymertesting.2025.108709",
+    "abstract": "This study explores development and 3D/4D printing of environmentally friendly bio-composites with enhanced mechanical properties, flame retardancy, and shape memory capabilities. Composite filaments were created by incorporating polylactic acid (PLA) with bamboo charcoal (BC) and then printed using a modified printer equipped with a dual-feed system to accommodate both PLA/BC filaments and continuous flax fibres (CFF). SEM revealed strong fibre-matrix bonding with minimal voids, indicating good interfacial adhesion . Bio-composite properties were characterised through DMA , tensile, three-point bending, flammability , and shape-memory effect tests. Adding 3 wt% BC and CFF significantly increased the tensile strength by 248 % and the flexural strength by 207 % compared to pure PLA. Flame retardancy properties were notably improved, with a 50 % reduction in the burning rate, and underwriters’ laboratories (UL-94) rate and limiting oxygen index (LOI) reached to V-1 rating and 36.8%vol, respectively. DMA tests showed an increase in storage modulus , indicating improved stiffness. Shape memory tests under cold/hot programming protocols demonstrated efficient shape fixation with shape recovery ratios reaching up to 98.9 % for pure PLA and 89 % for PLA/BC/CFF for hot programming. Finally, a conceptual meta-bio-composite was 4D printed, showcasing key achievements such as quasi-zero stiffness, constant force behaviour, enhanced energy absorption/dissipation, and excellent recoverability and reusability . This highlights their potential for applications requiring durability, safety, comfort, and sustainability in sectors such as automotive, aerospace, logistics, construction, and furniture.",
+    "score": 12,
+    "tags": [
+      "pla",
+      "sme",
+      "fiber",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W4406602716"
+  },
+  {
+    "doi": "10.1016/j.polymer.2026.130199",
+    "title": "Analysis and characterization of influence of PLA printing parameters on 4D printing retention time under thermal stimulus",
+    "year": 2026,
+    "type": "article",
+    "journal": "Polymer",
+    "issn_l": "0032-3861",
+    "authors": [
+      {
+        "name": "Robsan Abebe",
+        "position": "first"
+      },
+      {
+        "name": "Hirpa Gelgele Lemu",
+        "position": "middle"
+      },
+      {
+        "name": "I. A. Palani",
+        "position": "middle"
+      },
+      {
+        "name": "Endalkachew Mosisa",
+        "position": "last"
+      }
+    ],
+    "volume": "358",
+    "issue": "",
+    "first_page": "130199",
+    "last_page": "130199",
+    "cited_by_count": 0,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.polymer.2026.130199",
+    "landing_page_url": "https://doi.org/10.1016/j.polymer.2026.130199",
+    "abstract": "The precise recovery of 4D printed smart materials to their permanent shape requires effort and time due to limitations in post-printing characterization. Several studies have used matrices of different fillers and artifact designs to address this, but these approaches restrict the potential of smart morphology. This paper focuses on combining a preprogrammed model with characterization study of different 4D printed polylactic acid (PLA) materials under thermal stimuli that can address the brittleness, toughness, and rigidity of PLA. In parallel, the study pursues the influence of predesigned printing thickness parameters for a mechanical engine thermostat valve, used as a case study. The dynamic structural behavior of PLA was first examined using a predesigned model subjected to a time-dependent thermal stimulus. The samples were prepared from pure PLA classified as Tough black, Faster white and Creality blue PLA. Independent of filament color, the investigation was intended to clarify how a layer architecture constrains deformation magnitude and application range. Mechanical tests showed that the three PLA variants achieved a tensile strength of 33.48 MPa, 29.13 MPa, and 33.45 MPa, respectively while conventional PLA has an allowable tensile strength of 60 MPa. Differential Scanning Calorimetry (DSC) analysis revealed an endothermic peak of 9.09 J/g and an exothermic peak of 6.41 J/g. The thermal actuation tests demonstrated a shape recovery of 6 mm within 2 s under thermal stimulation, confirming thermally driven rapid deformation behavior. Scanning Electron Microscopy indicated that CR-PLA possessed the highest pores/void, followed by Tough PLA. However, optical microscopy conducted after DSC thermal cycling showed interlayer erosion, particularly in Faster PLA and Tough PLA, suggesting reduced interlayer bonding after heat exposure. Overall, Faster PLA showed the best interlayer adhesion and dynamic response without post-processing, whereas CR-PLA required post-printing adjustment due to increased rigidity.",
+    "score": 11,
+    "tags": [
+      "pla",
+      "sme",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W7160957546"
+  },
+  {
+    "doi": "10.1016/j.addma.2026.105108",
+    "title": "Printing force analysis in FDM-based 4D printing of singular lines: A numerical and experimental study",
+    "year": 2026,
+    "type": "article",
+    "journal": "Additive manufacturing",
+    "issn_l": "2214-7810",
+    "authors": [
+      {
+        "name": "Ferdinand Cerbe",
+        "position": "first"
+      },
+      {
+        "name": "Felipe A. González",
+        "position": "middle"
+      },
+      {
+        "name": "Michael Sinapius",
+        "position": "middle"
+      },
+      {
+        "name": "Marek Behr",
+        "position": "middle"
+      },
+      {
+        "name": "Stefanie Elgeti",
+        "position": "last"
+      }
+    ],
+    "volume": "118",
+    "issue": "",
+    "first_page": "105108",
+    "last_page": "105108",
+    "cited_by_count": 6,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.addma.2026.105108",
+    "landing_page_url": "https://doi.org/10.1016/j.addma.2026.105108",
+    "abstract": "Fused deposition modeling (FDM)-based 4D printing (4DP) provides a low-cost pathway to fabricate programmable structures, but its broader adoption is limited by an incomplete understanding of how process conditions affect internal stress development and resulting shape change. Building on prior work linking 4DP to the shape-memory cycle, this study investigates how process parameters influence the flow and temperature fields during the deposition of a singular line. Printing force is measured in situ and compared with wall shear force from a high-fidelity thermofluid simulation. The numerical framework is calibrated using infrared thermography and a Cross–Williams–Landel–Ferry (Cross-WLF) viscosity model for polylactic acid (PLA). Sensitivity analysis identifies gap height, nozzle temperature, and volumetric flow rate as the dominant parameters governing the printing force, while printing speed serves as an effective design variable for manipulating the printing force continuously. The simulations further show that shear rates are concentrated at the nozzle exit and the deposition front, explaining heterogeneous pre-strain across the filament cross-section. Experimental and numerical trends are consistent: increasing nozzle temperature reduces the printing force, while increasing printing speed increases it. This combined experimental–numerical approach provides a methodology to improve process control by analyzing flow conditions during smart structure manufacturing.",
+    "score": 11,
+    "tags": [
+      "pla",
+      "sme",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W7127044571"
+  },
+  {
+    "doi": "10.1016/j.sna.2022.114063",
+    "title": "Magnetorheological elastomer‐based 4D printed electroactive composite actuators",
+    "year": 2022,
+    "type": "article",
+    "journal": "Sensors and Actuators A Physical",
+    "issn_l": "0924-4247",
+    "authors": [
+      {
+        "name": "Mohammadreza Lalegani Dezaki",
+        "position": "first"
+      },
+      {
+        "name": "Mahdi Bodaghi",
+        "position": "last"
+      }
+    ],
+    "volume": "349",
+    "issue": "",
+    "first_page": "114063",
+    "last_page": "114063",
+    "cited_by_count": 68,
+    "oa_status": "hybrid",
+    "oa_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0924424722006987-ga1_lrg.jpg",
+    "landing_page_url": "https://doi.org/10.1016/j.sna.2022.114063",
+    "abstract": "Magnetorheological elastomer (MRE) composite actuators are extraordinary since they can be controlled remotely, move swiftly, adapt to rough surfaces, and engage with humans in a secure manner. Despite all these advantages, pure MREs are not stable enough because of their high degree of softness. Also, a magnetic field is always required to actuate and hold them in the required position accordingly. This paper offers a new conceptual design for bi-stable MRE-based electroactive composite actuators with high performance. The idea is a combination of MRE composites and 4D printing (4DP) of conductive shape memory polymers. The silicone resins are loaded with strontium ferrite magnetic particles and a thin conductive carbon black polylactic acid (CPLA) is 4D printed and embedded as a core inside the composite. A set of parametric studies is carried out to examine the material properties, 4DP characteristics, and magnetization conditions. As an outcome, a functional, lightweight, and bi-stable composite actuator with programmable magnetic patterns is developed. This actuator can be positioned in the actuated situation without any stimuli as long as required. The shape memory behaviour, bi-directionality, and remote controlling of the composite actuator are driven by Joule heating and magnetic fields. The actuator with a weight of 1.47 g can hold and lift weights up to 200 g. Finally, experiments are conducted to demonstrate the immense potential of the developed composite actuators as mechanical and biomedical devices. Due to the absence of similar concepts and results in the specialized literature, this paper is likely to advance the state-of-the-art smart composite actuators with remotely controlled shape-memory features.",
+    "score": 11,
+    "tags": [
+      "pla",
+      "sme",
+      "fiber"
+    ],
+    "openalex_id": "https://openalex.org/W4310260965"
+  },
+  {
+    "doi": "10.1016/j.polymertesting.2025.108802",
+    "title": "Shape memory recovery in polylactic acid and thermoplastic polyurethane bi-material metamaterials fabricated by additive manufacturing under fatigue testing",
+    "year": 2025,
+    "type": "article",
+    "journal": "Polymer Testing",
+    "issn_l": "0142-9418",
+    "authors": [
+      {
+        "name": "Farzad Fereydoonpour",
+        "position": "first"
+      },
+      {
+        "name": "Shokouh Dezianian",
+        "position": "middle"
+      },
+      {
+        "name": "Mohammad Azadi",
+        "position": "last"
+      }
+    ],
+    "volume": "147",
+    "issue": "",
+    "first_page": "108802",
+    "last_page": "108802",
+    "cited_by_count": 13,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1016/j.polymertesting.2025.108802",
+    "landing_page_url": "https://doi.org/10.1016/j.polymertesting.2025.108802",
+    "abstract": "4D printing is defined as 3D printing plus the time. In this way, by applying a type of stimulus to the part fabricated by the 3D printing method and deformed, the sample returns to its original shape over time. This study advances the field of additive manufacturing by enhancing the design and functionality of shape memory polymers , enabling smarter, more adaptable materials for applications in aerospace. It can be mentioned as folding wings, solar sails, and actuator parts. In this research, the characteristics of the shape memory of the parts printed using fused deposition modeling (FDM) under fatigue loading were discussed. The printed parts comprised two types of polylactic acid polymer (PLA) and thermoplastic polyurethane (TPU). Three different percentages of the material composition were considered PLA, PLA/25TPU, and PLA/50TPU. Initially, rotary bending fatigue test was performed at a frequency of 100 Hz, but the samples delaminated. As a result, a vibration simulation was conducted using Abaqus software. The results showed that the natural frequency of the samples was very close to 100 Hz. To avoid resonance, the tests were conducted at a frequency of 20 Hz to obtain their lifetimes. Then, the shape memory recovery was implemented under fatigue (cyclic) loading by applying the time and temperature stimuli. A statistical sensitivity analysis was also done for the obtained results. Finally, the fracture surface of the specimens was evaluated by field-emission scanning electron microscopy (FE-SEM). The results of the rotary bending fatigue test showed that the fatigue lifetime decreased with the increase in the TPU percentage. In addition, the results of shape memory properties illustrated that with the addition of 25 % of TPU, the rate of deformation increased by 40 %, on average. Moreover, it was concluded that the temperature had about 64 % more influence than the time on shape memory properties. In addition, fatigue (cyclic) loading was 137 % more effective than static (monotonic) loading. The results of the statistical analysis also demonstrated that the shape memory properties increased with the enhancement of the TPU percentage. The images of the fracture surface showed the separation of layers and cavities, which were the factors of failures. Beach marks indicating the failure under fatigue loadings were also seen.",
+    "score": 13,
+    "tags": [
+      "pla",
+      "sme",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W4409247979"
+  },
+  {
+    "doi": "10.1016/j.amf.2024.200115",
+    "title": "Advances and Applications of 4D-Printed High-Strength Shape Memory Polymers",
+    "year": 2024,
+    "type": "article",
+    "journal": "Additive Manufacturing Frontiers",
+    "issn_l": "2950-4317",
+    "authors": [
+      {
+        "name": "Jing Zhang",
+        "position": "first"
+      },
+      {
+        "name": "Mingkun Xu",
+        "position": "middle"
+      },
+      {
+        "name": "Nan Zhang",
+        "position": "middle"
+      },
+      {
+        "name": "Tingmei Wang",
+        "position": "middle"
+      },
+      {
+        "name": "Yaoming Zhang",
+        "position": "middle"
+      },
+      {
+        "name": "Zenghui Yang",
+        "position": "middle"
+      },
+      {
+        "name": "Qihua Wang",
+        "position": "last"
+      }
+    ],
+    "volume": "3",
+    "issue": "1",
+    "first_page": "200115",
+    "last_page": "200115",
+    "cited_by_count": 62,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.amf.2024.200115",
+    "landing_page_url": "https://doi.org/10.1016/j.amf.2024.200115",
+    "abstract": "\"Life\" represents a distinctive attribute inherent to organisms in nature, evident in their capacity to actively adapt to changes in their environment. In contrast to the static and intricate constructs of additive manufacturing (AM), the dynamic structure of 4D printing (4DP) adeptly integrates AM technology, responsive mechanisms, and external stimuli, imbuing it with a semblance of \"life.\" This fusion significantly broadens its functional applications across biomedicine, actuators, and metamaterials. The escalating demand across diverse fields necessitates heightened criteria for 4DP, encompassing rapid response, multi-stimulus response, large shape change, and specific mechanical properties (e.g., high strength, high modulus) capable of accommodating varying environmental conditions. In recent years, shape memory polymers (SMPs) have garnered increasing attention among 4DP researchers due to their ease of design and preprogramming at the molecular level, facilitating controlled transformations along predictable pathways. However, 4DP of high-strength SMPs, as an indispensable part of the high-performance field, is full of challenges because the intrinsic properties of the raw materials are not well compatible with the printing principle and the printed configuration is not flexible enough. Consequently, this paper provides a concise overview of the response mechanisms and applications of five prominent high-strength SMPs utilized in 4DP: epoxy resin, poly(ether-ether-ketone), polyimide, polylactic acid, and polyurethane. Additionally, it delves into the associated challenges and prospects, offering researchers valuable insights into the potential value of high-strength SMPs within the domain of 4DP.",
+    "score": 9,
+    "tags": [
+      "pla",
+      "sme",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W4391247080"
+  },
+  {
+    "doi": "10.1016/j.prostr.2022.12.163",
+    "title": "Preliminary optimization of shape memory polymers geometric parameters to enhance the thermal loads' activation range",
+    "year": 2022,
+    "type": "article",
+    "journal": "Procedia Structural Integrity",
+    "issn_l": "2452-3216",
+    "authors": [
+      {
+        "name": "Francesco Cesarano",
+        "position": "first"
+      },
+      {
+        "name": "M. Maurizi",
+        "position": "middle"
+      },
+      {
+        "name": "Chao Gao",
+        "position": "middle"
+      },
+      {
+        "name": "Filippo Berto",
+        "position": "middle"
+      },
+      {
+        "name": "Francesco Penta",
+        "position": "middle"
+      },
+      {
+        "name": "Chiara Bertolin",
+        "position": "last"
+      }
+    ],
+    "volume": "42",
+    "issue": "",
+    "first_page": "1282",
+    "last_page": "1290",
+    "cited_by_count": 3,
+    "oa_status": "diamond",
+    "oa_url": "https://doi.org/10.1016/j.prostr.2022.12.163",
+    "landing_page_url": "https://doi.org/10.1016/j.prostr.2022.12.163",
+    "abstract": "Over the last decades, 3D printing has found applications in all areas of engineering, ranging from electronics to biomedical industries, due to its efficiency in the use of the material in terms of mass customization and waste reduction and its high resolution and precision during the prototyping stage. Nevertheless, while the traditional additive manufacturing industry is developing new applications or proposing some improvement of the static and inanimate 3D printed components, a novel technology, i.e., 4D printing, is arising. 4D printing adds a temporal dimension to 3D by providing vitality to the design of shape-memory materials using an external stimulus to trigger the object transformation into another designed structure. This contribution aims to improve the available information on the Polylactic Acid (PLA) shape memory polymer (SMP) behaviour under the effect of homogeneous thermal stimuli. Consequently, this study deals with a first analysis to understand the proper methodology to activate the shape memory effect (SME) and achieve a programmed deformation. The preliminary experimental results are compared with a simplified Finite Element Analysis (FEA) model to analyze and better understand the SME. This work lays the foundation for later research to understand which optimal specimens' geometric parameters may enlarge the activation range in PLA specimens, enhancing their shape capabilities of detecting temperature modification close to the glass transition temperature (Tg).",
+    "score": 10,
+    "tags": [
+      "pla",
+      "sme",
+      "fiber",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W4313422940"
+  },
+  {
+    "doi": "10.1016/j.matdes.2022.111472",
+    "title": "Design space and manufacturing of programmable 4D printed continuous flax fibre polylactic acid composite hygromorphs",
+    "year": 2022,
+    "type": "article",
+    "journal": "Materials & Design",
+    "issn_l": "0264-1275",
+    "authors": [
+      {
+        "name": "Charles  Marie Yves de Kergariou",
+        "position": "first"
+      },
+      {
+        "name": "Antoine Le Duigou",
+        "position": "middle"
+      },
+      {
+        "name": "Adam Willis Perriman",
+        "position": "middle"
+      },
+      {
+        "name": "Fabrizio L. Scarpa",
+        "position": "last"
+      }
+    ],
+    "volume": "225",
+    "issue": "",
+    "first_page": "111472",
+    "last_page": "111472",
+    "cited_by_count": 32,
+    "oa_status": "gold",
+    "oa_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0264127522010954-ga1_lrg.jpg",
+    "landing_page_url": "https://doi.org/10.1016/j.matdes.2022.111472",
+    "abstract": "The work describes the exploration of the design space by fabrication, modelling and testing of bio-based and humidity-triggered 4D printed shape-changing biocomposites. The aim is to broaden the understanding of the control actuation via printing path tailoring and unlock new potential applications for biomaterials and autonomous actuator design. The composites are made with continuous flax yarns and polylactic acid matrix filaments and exhibit moisture-induced actuation. The actuation capability is first demonstrated by printing a calla lily flower-inspired configuration subjected to 98% relative humidity. This structure did not however achieve the anticlastic double curvature and large actuation targeted. To resolve these issues, cross-ply composite architectures with bent filaments deposited in one layer have then been developed. The amplitude for curvature control ranges obtained were 1.9*10−3mm−1 and 7.9*10−3mm−1 depending on the position on the specimen. Other cross-ply hygromorphs solutions are also proposed, with the orientation of their passive layers ([0°]2) tilted by α degrees (stacking sequence: [-α,α, 90°]). The largest actuation curvature was obtained when α=40°, which increased by 0.0072 mm−1 when compared to α = 0°. The hygromorphs presented in this work are modelled using in an in–house filament scale finite element model able to capture the complexity of the printed hygromorphs architectures.",
+    "score": 14,
+    "tags": [
+      "pla",
+      "sme",
+      "fiber",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W4311278012"
+  },
+  {
+    "doi": "10.1016/j.addma.2022.103144",
+    "title": "Design of 3D and 4D printed continuous fibre composites via an evolutionary algorithm and voxel-based Finite Elements: Application to natural fibre hygromorphs",
+    "year": 2022,
+    "type": "article",
+    "journal": "Additive manufacturing",
+    "issn_l": "2214-7810",
+    "authors": [
+      {
+        "name": "Charles  Marie Yves de Kergariou",
+        "position": "first"
+      },
+      {
+        "name": "Byung Chul Kim",
+        "position": "middle"
+      },
+      {
+        "name": "Adam Willis Perriman",
+        "position": "middle"
+      },
+      {
+        "name": "Antoine Le Duigou",
+        "position": "middle"
+      },
+      {
+        "name": "Sofiane Guessasma",
+        "position": "middle"
+      },
+      {
+        "name": "Fabrizio L. Scarpa",
+        "position": "last"
+      }
+    ],
+    "volume": "59",
+    "issue": "",
+    "first_page": "103144",
+    "last_page": "103144",
+    "cited_by_count": 40,
+    "oa_status": "hybrid",
+    "oa_url": "https://ars.els-cdn.com/content/image/1-s2.0-S2214860422005334-ga1_lrg.jpg",
+    "landing_page_url": "https://doi.org/10.1016/j.addma.2022.103144",
+    "abstract": "This paper describes a novel voxel-based technique to accurately model 3D printed continuous yarns of fibre composites at printed filament scale. To cater for the constraints of continuous filament printing, the design strategy here makes use of a set of variables that fully define the printing path as input in the model. A voxel-based algorithm is developed to obtain the local orientations of the filaments and local quantities of yarns and matrix from a pixelated flat layout of the printed composite. This voxel-based representation is then translated into a Finite Element model to obtain the required structural properties. This approach simplifies and potentially shortens the design of the part, compared to other analytical techniques. The design space of the part is defined by the variables of the gcode used to print the composite. The voxel model is coupled with an evolutionary algorithm to explore the part of the design space related to the use of continuous yarns. The hygro expansion of the material was measured to determine the coefficients of moisture expansion serving as input in the model. Promising results are obtained from a test case related to a continuous flax fibres-reinforced polylactic acid (PLA) printed structure, mimicking the shape of a leaf. The proposed modelling strategy has the potential to characterise geometric, material, mechanical and actuation properties of general 3D printed structures with negligible out-of-plane (i.e., through thickness) printing.",
+    "score": 12,
+    "tags": [
+      "pla",
+      "sme",
+      "fiber",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W4296311322"
+  },
+  {
+    "doi": "10.1016/j.jcomc.2025.100632",
+    "title": "Combining hydromorphic and shape-shifting effects for programmable passive actuation in 4D-printed biocomposites",
+    "year": 2025,
+    "type": "article",
+    "journal": "Composites Part C Open Access",
+    "issn_l": "2666-6820",
+    "authors": [
+      {
+        "name": "Phil Aron Bachmann",
+        "position": "first"
+      },
+      {
+        "name": "Kim Louise Pickering",
+        "position": "middle"
+      },
+      {
+        "name": "Christian Gauss",
+        "position": "last"
+      }
+    ],
+    "volume": "18",
+    "issue": "",
+    "first_page": "100632",
+    "last_page": "100632",
+    "cited_by_count": 4,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1016/j.jcomc.2025.100632",
+    "landing_page_url": "https://doi.org/10.1016/j.jcomc.2025.100632",
+    "abstract": "• Lyocell composite was used successfully in hydromorphic structures • Combining water and heat stimuli induces greater curvature and faster shape transformation • Shape-shifting effect of PLA is more pronounced than expansion of the composite • Thick 3D-printed samples (4mm) achieve a high curvature using combined approach 4D printing involves the fabrication of structures that respond dynamically to external stimuli. While various actuation mechanisms have been extensively studied, the integration of multiple actuation effects remains relatively unexplored. This study examines the combined influence of hydromorphic and shape-shifting effects in a biocomposite containing 40 wt% cellulose fibres. The biocomposite was combined with polylactide (PLA) and processed via 3D printing to produce bi-material strips, which were then comprehensively analysed for their material properties and shape-changing behaviour. Upon immersion in water, the biocomposite expanded by 3.2 % perpendicular to the printing direction and exhibited a marked decrease in Young’s modulus with increasing water content. Bi-material strips 1 mm thick displayed pronounced hydromorphic behaviour, achieving maximum curvatures of 0.036 - 0.052 mm -1 depending on the passive-to-active layer thickness ratio. Thicker strips (4 mm) reached 0.012 mm -1 under the same conditions. When both heat and water were applied as external stimuli, the biocomposite and neat PLA layers became simultaneously active, and curvatures of up to 0.057 mm⁻¹ were obtained for 4 mm strips. This curvature surpassed the hydromorphic-only and shape-shifting-only responses by factors of 4.77 and 1.82, respectively. The results demonstrate that integrating water- and heat-induced stimuli increases achievable curvature and accelerates the response, enabling high-curvature deformations even in relatively thick structures. The approach therefore holds promise for applications that demand significant shape transformations without compromising structural integrity.",
+    "score": 12,
+    "tags": [
+      "pla",
+      "sme",
+      "fiber",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W4412999317"
+  },
+  {
+    "doi": "10.1016/j.nxmate.2026.103448",
+    "title": "Polylactic acid/cellulose nanocrystals/polyethylene glycol-based shape memory composite for a 4D printed thermoresponsive gripper system",
+    "year": 2026,
+    "type": "article",
+    "journal": "Next Materials",
+    "issn_l": "2949-8228",
+    "authors": [
+      {
+        "name": "U.G.E. Umayanga",
+        "position": "first"
+      },
+      {
+        "name": "Gayan A. Appuhamillage",
+        "position": "middle"
+      },
+      {
+        "name": "Sankalya S. Ambagaspitiya",
+        "position": "middle"
+      },
+      {
+        "name": "T.A.R.W.M.M.C.G. Bandara",
+        "position": "middle"
+      },
+      {
+        "name": "Gayan Aravinda Abeygunawardane",
+        "position": "last"
+      }
+    ],
+    "volume": "13",
+    "issue": "",
+    "first_page": "103448",
+    "last_page": "103448",
+    "cited_by_count": 0,
+    "oa_status": "gold",
+    "oa_url": "https://www.sciencedirect.com/science/article/pii/S2949822826018654/pdf",
+    "landing_page_url": "https://doi.org/10.1016/j.nxmate.2026.103448",
+    "abstract": "This work introduces a novel thermo-responsive 4D printable gripper system via polylactic acid (PLA), cellulose nanocrystals (CNC), and polyethylene glycol (PEG)-based shape memory composite. PEG, serving as a biocompatible plasticizer, and CNC, acting as a biodegradable reinforcing agent, were incorporated into PLA, a 3D printable shape memory thermoplastic matrix. Keeping CNC content the same, two series of shape memory composites (SMCs) were prepared with increasing weight percent (wt%) of PEG (1.25, 2.5, 5, 10, and 15 wt%) using PEG 40 and PEG 4000 via heat-press method. Thermal, mechanical, and shape memory properties of the as-prepared composites were analyzed with respect to neat PLA, the control. The glass transition temperature (T g ) and the activation temperature of the SMCs gradually decreased with increasing PEG content. Compared with the PEG 40 series, the PEG 4000 series exhibited a greater reduction in T g , decreasing from 49 ℃ to 40.5 ℃, accompanied by a reduction in the activation temperature from 49 ℃ to 40 ℃. Overall, an optimum balance between the mechanical and shape memory performance was achieved by the PLA/CNC/PEG(4000)-10 wt% composite. Furthermore, the composite was successfully 3D printed into a gripper w ith an activation temperature of 40.5 °C. To the best of our knowledge, this is the first reported 4D printed gripper to demonstrate excellent shape fixity and shape recovery ratios of ∼93% and ∼94%, respectively, at an activation temperature close to physiological conditions. Cyclic shape memory tests performed for the same composite evidenced ∼98% retention of the original shape recovery ratio even after the fifteenth cycle. This work paves the way for the future development of biodegradable, thermo-responsive, 4D printable shape memory devices for biomedical applications.",
+    "score": 14,
+    "tags": [
+      "pla",
+      "sme",
+      "fiber",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W7212010590"
+  },
+  {
+    "doi": "10.1016/j.matdes.2026.117160",
+    "title": "Machine learning-driven multi-objective optimisation of shape-memory programming parameters in 4D-printed PLA",
+    "year": 2026,
+    "type": "article",
+    "journal": "Materials & Design",
+    "issn_l": "0264-1275",
+    "authors": [
+      {
+        "name": "Ayhan Hacıoğlu",
+        "position": "first"
+      },
+      {
+        "name": "Meltem Eryıldız",
+        "position": "middle"
+      },
+      {
+        "name": "Erkan Caner Ozkat",
+        "position": "last"
+      }
+    ],
+    "volume": "271",
+    "issue": "",
+    "first_page": "117160",
+    "last_page": "117160",
+    "cited_by_count": 0,
+    "oa_status": "gold",
+    "oa_url": "https://www.sciencedirect.com/science/article/pii/S0264127526017363/pdf",
+    "landing_page_url": "https://doi.org/10.1016/j.matdes.2026.117160",
+    "abstract": "4D printing extends additive manufacturing by introducing time-dependent functionality through stimuli-responsive feedstocks such as shape-memory polymers (SMPs). In 4D-printed PLA, performance is governed by programming temperature, holding time, and recovery temperature, whose effects are reflected in recovery time, shape fixity ratio, and shape recovery ratio. This study combines a replicated 49-condition Latin-square design, machine-learning surrogate models, NSGA-II multi-objective optimisation, and experimental validation to identify a Pareto-optimal process window. Eight regression models were evaluated using leave-one-condition-out (LOCO) cross-validation with nested hyperparameter selection. The surrogates achieved LOCO R 2 values of 0.973 (RMSE 7.29 s) for recovery time, 0.874 (1.17 percentage points, pp) for the shape fixity ratio, and 0.975 (4.31 pp) for the shape recovery ratio. The shape fixity ratio increased from 90.2% to 98.8% between 50 and 55 °C before plateauing, with no significant additional effect of holding time. NSGA-II identified a knee point at 67.5 °C programming temperature, 2.0 min holding time, and 80.0 °C recovery temperature, predicting a recovery time of 3.14 s, shape fixity ratio of 99.72%, and shape recovery ratio of 91.70%. Across five validation points, maximum absolute deviations were 0.36 s, 0.75 pp, and 3.82 pp for recovery time, shape fixity ratio, and shape recovery ratio",
+    "score": 11,
+    "tags": [
+      "pla",
+      "sme",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W7214706412"
+  },
+  {
+    "doi": "10.1016/j.jcomc.2025.100680",
+    "title": "4D printing of bio-composite tailored for NIR-light responsivity using liquid crystal display technique and its recovery modeling using central composite design",
+    "year": 2025,
+    "type": "article",
+    "journal": "Composites Part C Open Access",
+    "issn_l": "2666-6820",
+    "authors": [
+      {
+        "name": "Ibrahim Lawan",
+        "position": "first"
+      },
+      {
+        "name": "Nuttinan Boonnao",
+        "position": "middle"
+      },
+      {
+        "name": "Cheol-Hee Ahn",
+        "position": "middle"
+      },
+      {
+        "name": "Panyawutthi Rimdusit",
+        "position": "middle"
+      },
+      {
+        "name": "Sarawut Rimdusit",
+        "position": "last"
+      }
+    ],
+    "volume": "19",
+    "issue": "",
+    "first_page": "100680",
+    "last_page": "100680",
+    "cited_by_count": 1,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1016/j.jcomc.2025.100680",
+    "landing_page_url": "https://doi.org/10.1016/j.jcomc.2025.100680",
+    "abstract": "• Bio-photopolymer resin (BPR) has been tailored to print 4D light-responsive material • 5% blend of bio-benzoxazine (BBZ) in BPR gives LCD 3D prints without thermal cracks • 1% polypyrrole (PPy) powder in BPR gives homogenous LCD 3D prints • 95%BPR, 5%BBZ, and 1%PPy of 3D printer resin used formed homogenous formulation • Robust and 4D NIR-light responsive bio-composite achieved without additional diluents This study demonstrated the development of a cleaner, renewable, and sustainable 4D bio-composite that is robust and near-infrared (NIR)-light responsive with bio-photopolymer resin (BPR), bio-based benzoxazine (BBZ) monomer, and polypyrrole (PPy) powder blends used in the liquid crystal display (LCD) technique of 3D printing. BBZ monomer was synthesized from the abundant cardanol and blended with a poly lactic acid (PLA) based BPR to improve flexibility, and the PPy was added to impact photothermal capacity in the resulting composite. Smoothed surfaced and well-cured composite samples were obtained, and the effects of NIR-light intensity, PPy amount, and thickness of the composite against the shape recovery time of the composite was optimized and defined by a model obtained using a central composite design (CCD). Interestingly, the optimized composite sample has exhibited excellent shape fixity and recovery ratios, and recovery time of 98±2%, 94±3%, and 90±2 seconds, respectively at a very low NIR-light intensity of 40 mW/cm 2 , and PPy amount of 0.3 wt.% of the total resin used in the 3D printer. Additionally, good mechanical properties were also achieved, for instance, flexural stress, modulus, and strain of: 47.4±1.7 MPa, 1.37±0.1 GPa, and 5.08±0.2% were recorded. While tensile stress, modulus, and strain of: 43.5±0.5 MPa, 1.16±0.1GPa, and 4.1±0.3% were also recorded. Thus, a robust and NIR-light responsive 4D bio-composite has been achieved without using additional diluents and photoiniators, suggesting that this study has provided solution to the challenge of low biomass content and mechanical strength peculiar to bio-based photosensitive resins.",
+    "score": 14,
+    "tags": [
+      "pla",
+      "sme",
+      "fiber",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W4416399265"
+  },
+  {
+    "doi": "10.1016/j.matdes.2025.114118",
+    "title": "Optimisation of 4D printed mortar-mini vascular networks (m-MVNs) for built heritage preservation",
+    "year": 2025,
+    "type": "article",
+    "journal": "Materials & Design",
+    "issn_l": "0264-1275",
+    "authors": [
+      {
+        "name": "Cristina De Nardi",
+        "position": "first"
+      },
+      {
+        "name": "D.R. Gardner",
+        "position": "middle"
+      },
+      {
+        "name": "J. Sweeney",
+        "position": "middle"
+      },
+      {
+        "name": "A. Akkady",
+        "position": "last"
+      }
+    ],
+    "volume": "254",
+    "issue": "",
+    "first_page": "114118",
+    "last_page": "114118",
+    "cited_by_count": 4,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1016/j.matdes.2025.114118",
+    "landing_page_url": "https://doi.org/10.1016/j.matdes.2025.114118",
+    "abstract": "• m-MVNs offer an innovative self-healing solution for repaired lime mortar joints. • Iterative process: mechanical, visual, and waterproofing tests refined the final m-MVNs design. • Adaptive slicing, improved watertightness and performance. • m-MVNs embedded in lime mortar prisms did not affect flexural strength or stiffness, indicating compatibility. • m-MVNs ruptured at designed crack width, releasing healing agent effectively. As climate change increases risks to heritage buildings, enhancing repair methods for historic masonry is essential. This paper presents the design and optimisation process for the manufacturing of a novel self-healing technology—named mortar mini-vascular networks (m-MVNs)—intended for installation in mortar joints during joint repair. m-MVNs are Fused Deposition Modelling (FDM)-printed polymer units with interconnected channels designed to store and protect healing agents. When damage in the mortar joint exceeds a threshold, the m-MVNs rupture, releasing the healing agent to initiate the self-repair process. Engineered within a 4D printing framework, the m-MVNs were optimised through iterative design refinement to protect healing agents, with fracture properties ensuring activation under specific stress conditions. The final m-MVN design, manufactured using adaptive slicing from clear polylactide acid (PLA), achieved the best performance in terms of: i) geometrical regularity, ii) mechanical compatibility with hydraulic lime-based mortars, iii) quasi-isotropy, iv) and watertightness. This breakthrough paves the way for innovative self-healing solutions in heritage conservation.",
+    "score": 9,
+    "tags": [
+      "pla",
+      "sme",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W4410495354"
+  },
+  {
+    "doi": "10.1016/j.matdes.2025.114879",
+    "title": "Optimizing shape memory performance in 4D-printed PLA hinges: An integrated study on geometry and process parameter effects",
+    "year": 2025,
+    "type": "article",
+    "journal": "Materials & Design",
+    "issn_l": "0264-1275",
+    "authors": [
+      {
+        "name": "Jiazhao Huang",
+        "position": "first"
+      },
+      {
+        "name": "Pengyu Chen",
+        "position": "middle"
+      },
+      {
+        "name": "Chu Long Tham",
+        "position": "middle"
+      },
+      {
+        "name": "Muthu Vignesh Vellayappan",
+        "position": "middle"
+      },
+      {
+        "name": "Guo Dong Goh",
+        "position": "middle"
+      },
+      {
+        "name": "Jingyi Yang",
+        "position": "middle"
+      },
+      {
+        "name": "Xiaoying Qi",
+        "position": "middle"
+      },
+      {
+        "name": "David W. Rosen",
+        "position": "middle"
+      },
+      {
+        "name": "Mui Ling Sharon Nai",
+        "position": "last"
+      }
+    ],
+    "volume": "260",
+    "issue": "",
+    "first_page": "114879",
+    "last_page": "114879",
+    "cited_by_count": 10,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1016/j.matdes.2025.114879",
+    "landing_page_url": "https://doi.org/10.1016/j.matdes.2025.114879",
+    "abstract": "• Optimized PLA hinge achieved 99.53 % recovery after first folding cycle. • Recovery ratio dropped to ∼25 % after 50 cycles at 65 °C. • Training temperature governs trade-off between actuation speed and lifespan. • Origami-inspired structure with optimized hinge design fully deployed within 8 s. 4D additive manufacturing (4D-AM) enables printed structures to undergo programmable deformations in response to external stimuli. However, the optimization of geometric and process parameters remains a key challenge in enhancing performance and reliability. This study investigates the shape memory behavior of foldable hinges made from polylactic acid (PLA) using fused deposition modeling (FDM), which are critical elements in deployable 4D structures. A Taguchi design of experiments was applied to examine the effects of hinge thickness, length, printing speed, and training temperature on the shape recovery ratio and durability. The optimal hinge configuration, with a thickness of 0.8 mm, length of 0.6 mm, printing speed of 50 mm/s, and training temperature of 65 °C, achieved an initial recovery ratio of 99.53 %. Hinges trained at higher temperatures between 75 and 85 °C exhibited faster recovery but reduced lifespan, indicating a trade-off between actuation speed and durability. An over-recovery exceeding 100 % was also observed, likely attributed to geometric nonlinearity and thermal effects near glass transition region. The optimized hinge design was successfully implemented in an origami-inspired deployable structure, achieving deployment within 8 s. These findings were expected to provide quantitative guidelines for balancing speed, fidelity, and lifespan in 4D-AM components for reconfigurable systems.",
+    "score": 12,
+    "tags": [
+      "pla",
+      "sme",
+      "fiber",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W4415071685"
+  },
+  {
+    "doi": "10.1016/j.mtadv.2026.100957",
+    "title": "Additive manufacturing of sustainable bio-based composites: Challenges and new opportunities",
+    "year": 2026,
+    "type": "article",
+    "journal": "Materials Today Advances",
+    "issn_l": "2590-0498",
+    "authors": [
+      {
+        "name": "J. Jefferson Andrew",
+        "position": "first"
+      },
+      {
+        "name": "M. Misra",
+        "position": "middle"
+      },
+      {
+        "name": "A.K. Mohanty",
+        "position": "middle"
+      },
+      {
+        "name": "Malik Hassan",
+        "position": "middle"
+      },
+      {
+        "name": "D. Gracy Paulin",
+        "position": "middle"
+      },
+      {
+        "name": "K.A. Khan",
+        "position": "middle"
+      },
+      {
+        "name": "Rehan Umer",
+        "position": "middle"
+      },
+      {
+        "name": "Hom Nath Dhakal",
+        "position": "last"
+      }
+    ],
+    "volume": "31",
+    "issue": "",
+    "first_page": "100957",
+    "last_page": "100957",
+    "cited_by_count": 0,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1016/j.mtadv.2026.100957",
+    "landing_page_url": "https://doi.org/10.1016/j.mtadv.2026.100957",
+    "abstract": "Additive manufacturing (AM) enables the fabrication of complex, customized structures with efficient material use. In parallel, the global imperative for sustainable materials has intensified interest in bio-based composite materials derived from renewable biological sources and often reinforced with natural fibers or fillers. This review critically examines the convergence of AM and bio-based composites, offering a comprehensive analysis of current advancements, technical challenges, and future directions. It explores the suitability of various AM techniques, such as material extrusion (ME), vat photopolymerization, powder-based methods, etc., for processing bio-based polymers including cellulose, lignin, chitosan (CS), polylactic acid (PLA), etc. Key challenges such as poor thermal stability, low crosslinking density, and printability limitations are discussed alongside emerging strategies for overcoming them, including chemical modification, hybrid composite design, and parameter optimization. The review further delves into the evolution of 4D printing with bio-based stimuli-responsive materials, enabling applications in soft robotics, smart packaging, regenerative medicine, etc. By synthesizing interdisciplinary advances from materials science, mechanical engineering, and environmental design, this article highlights both the promise and complexity of integrating sustainability and functionality in AM. The insights provided serve as a roadmap for developing high-performance, eco-conscious systems that align with global sustainability goals.",
+    "score": 11,
+    "tags": [
+      "pla",
+      "sme",
+      "fiber",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W7207618430"
+  },
+  {
+    "doi": "10.1016/j.engstruct.2026.123874",
+    "title": "Mechanical performance of 4D-printed honeycombs with various Poisson’s ratios under quasi-static and low-velocity compression",
+    "year": 2026,
+    "type": "article",
+    "journal": "Engineering Structures",
+    "issn_l": "0141-0296",
+    "authors": [
+      {
+        "name": "Sheng Huo",
+        "position": "first"
+      },
+      {
+        "name": "Ali Zolfagharian",
+        "position": "middle"
+      },
+      {
+        "name": "Fukun Xia",
+        "position": "middle"
+      },
+      {
+        "name": "Shanqing Xu",
+        "position": "middle"
+      },
+      {
+        "name": "Zhanyuan Gao",
+        "position": "middle"
+      },
+      {
+        "name": "Dong Ruan",
+        "position": "last"
+      }
+    ],
+    "volume": "369",
+    "issue": "",
+    "first_page": "123874",
+    "last_page": "123874",
+    "cited_by_count": 0,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.engstruct.2026.123874",
+    "landing_page_url": "https://doi.org/10.1016/j.engstruct.2026.123874",
+    "abstract": "Four-dimensional (4D) printing provides a promising route for prototyping reusable energy-absorbing metamaterials that can recover their geometry after large deformation. However, the cyclic performance of 4D-printed shape-memory honeycombs remains governed by topology, loading direction, loading rate, and cold programming history. This study investigates the rate-dependent compressive response and cyclic reusability of 4D-printed polylactic acid honeycomb metamaterials with positive, negative, and zero Poisson’s ratios. The as-printed specimens were tested along two orthogonal directions at crosshead velocities of 0.025 and 25 mm/s. The X-direction specimens were then subjected to six severe deformation–recovery cycles to evaluate cyclic mechanical retention and shape-memory recovery. The results show mechanical anisotropy, with compression along the principal cell-alignment direction yielding higher structural stiffness, plateau force, and specific energy absorption. Increasing the loading velocity enhances plateau force and energy absorption, whereas the structural-stiffness response depends on topology and loading direction. By Cycle 6, SEA retention remained at least 69.60% across all tested conditions, with the zero-Poisson’s-ratio honeycomb showing the most balanced retention across the quantified cyclic mechanical metrics. These findings provide design guidance for additively manufactured reusable shape-memory metamaterials for impact mitigation and protective applications.",
+    "score": 8,
+    "tags": [
+      "pla",
+      "sme"
+    ],
+    "openalex_id": "https://openalex.org/W7214903867"
+  },
+  {
+    "doi": "10.1016/j.mtcomm.2026.115415",
+    "title": "Shape memory performance of bio-based polyester blends 4D printed by Fused Granulate Fabrication (FGF)",
+    "year": 2026,
+    "type": "article",
+    "journal": "Materials Today Communications",
+    "issn_l": "2352-4928",
+    "authors": [
+      {
+        "name": "Alisa Ponkratenkova",
+        "position": "first"
+      },
+      {
+        "name": "Olesja Starkova",
+        "position": "middle"
+      },
+      {
+        "name": "Sergejs Beļuns",
+        "position": "middle"
+      },
+      {
+        "name": "Oskars Platnieks",
+        "position": "middle"
+      },
+      {
+        "name": "Anete Tropa",
+        "position": "middle"
+      },
+      {
+        "name": "Toms Valdemārs Eiduks",
+        "position": "middle"
+      },
+      {
+        "name": "Roland Kádár",
+        "position": "middle"
+      },
+      {
+        "name": "Sergejs Gaidukovs",
+        "position": "last"
+      }
+    ],
+    "volume": "53",
+    "issue": "",
+    "first_page": "115415",
+    "last_page": "115415",
+    "cited_by_count": 1,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.mtcomm.2026.115415",
+    "landing_page_url": "https://doi.org/10.1016/j.mtcomm.2026.115415",
+    "abstract": "With the rise of advanced manufacturing technologies such as Fused Granulate Fabrication (FGF), the influence of processing routes on the shape-memory behavior of bio-based polymers remains poorly understood. This study investigates poly(hydroxybutyrate) (PHB)/poly(lactic acid) (PLA)/poly(butylene succinate- co -adipate) (PBSA) biopolyester blends 3D-printed using FGF under varied programming conditions to establish structure–process–property relationships relevant to 4D printing. Comparing compression-molded and printed samples revealed how fabrication and printing-induced orientation affect morphology, mechanical properties, and the shape memory effect (SME) response. PLA75-PBSA25 demonstrated superior mechanical performance (strength ≈40.00 MPa, modulus ≈1.10 GPa) and SME efficiency, achieving nearly perfect shape fixity (Rf ≈ 100%) and high recovery (Rr ≈90.0%). Based on combined SME and mechanical performance, the blends can be ranked as: PLA75-PBSA25 > PHB25-PLA50-PBSA25 > PHB33-PLA33-PBSA33 > PHB50-PLA25-PBSA25 > PHB75-PBSA25. Programming temperature had a significant influence on SME: cold programming resulted in incomplete fixation, hot programming caused partial loss of recovery due to plastic deformation, while warm programming (60 °C) yielded the most balanced and repeatable performance. 3D-printed samples retained SME efficiency within 10.0% of that of compression-molded counterparts. Layers printed parallel to the deformation direction exhibited slightly higher recovery than those printed at 90°. Cyclic testing confirmed that PLA75-PBSA25 retained stable SME performance over 15 cycles, while other blends exhibited moderate fatigue. Overall, optimized phase compatibility and warm-programming conditions enabled the reliable synthesis of SME, identifying PLA75-PBSA25 as a promising material for durable 4D-printed shape memory applications.",
+    "score": 8,
+    "tags": [
+      "pla",
+      "sme"
+    ],
+    "openalex_id": "https://openalex.org/W7161778005"
+  },
+  {
+    "doi": "10.1016/j.jcomc.2026.100841",
+    "title": "3D/4D-printed dual-layer bio-composites for shape-adaptive protective gear: functional performance and life-cycle assessment",
+    "year": 2026,
+    "type": "article",
+    "journal": "Composites Part C Open Access",
+    "issn_l": "2666-6820",
+    "authors": [
+      {
+        "name": "Kaveh Rahmani",
+        "position": "first"
+      },
+      {
+        "name": "Callum Branfoot",
+        "position": "middle"
+      },
+      {
+        "name": "Marcus Crew",
+        "position": "middle"
+      },
+      {
+        "name": "Filippo Romoli",
+        "position": "middle"
+      },
+      {
+        "name": "Mahdi Bodaghi",
+        "position": "last"
+      }
+    ],
+    "volume": "21",
+    "issue": "",
+    "first_page": "100841",
+    "last_page": "100841",
+    "cited_by_count": 0,
+    "oa_status": "gold",
+    "oa_url": "https://www.sciencedirect.com/science/article/pii/S2666682026001477/pdf",
+    "landing_page_url": "https://doi.org/10.1016/j.jcomc.2026.100841",
+    "abstract": "This study presents a multifunctional bio-composite dual-layer 3D/4D printed composite system for customised protective equipment applications. It includes facial masks, forearm guards, and football shin pads classified as advanced 3D/4D printed orthoses/gear. The outer polylactic acid (PLA)/bamboo charcoal (BC)/continuous flax fibre (CFF) region provides structural reinforcement, while the flexible thermoplastic polyurethane (TPU)/BC/CFF inner region is intended to improve conformability and provide potential energy-dissipation capability. This is suitable for prolonged use in orthotic applications. All components are printed using fused filament fabrication and thermally activated above the glass transition temperature to enable 4D flexibility, energy absorption, shape programming, and multi-cycle reconfiguration directly on anatomical geometries through controlled programming using anatomical models. The mechanical, flame-retardant, and shape-recovery performance of the bio-composites are experimentally evaluated and integrated into an application-driven design framework. In addition, a cradle-to-grave and cradle-to-gate life cycle assessment is performed to evaluate the environmental footprint of the bio-composite systems and compare them with conventional petroleum-based PPE. The results demonstrate the feasibility of integrating complementary rigid and flexible bio-composite regions with thermally activated shape adaptability, while offering reduced GWP within the investigated life-cycle scenarios. As such, it represents a highly promising solution for next-generation orthoses/gear and orthotic devices.",
+    "score": 12,
+    "tags": [
+      "pla",
+      "sme",
+      "fiber",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W7223213223"
+  },
+  {
+    "doi": "10.1016/j.apmt.2024.102243",
+    "title": "Limpet-inspired design and 3D/4D printing of sustainable sandwich panels: Pioneering supreme resiliency, recoverability and repairability",
+    "year": 2024,
+    "type": "article",
+    "journal": "Applied Materials Today",
+    "issn_l": "2352-9407",
+    "authors": [
+      {
+        "name": "Saman Jolaiy",
+        "position": "first"
+      },
+      {
+        "name": "Armin Yousefi",
+        "position": "middle"
+      },
+      {
+        "name": "Mohsen Hosseini",
+        "position": "middle"
+      },
+      {
+        "name": "Ali Zolfagharian",
+        "position": "middle"
+      },
+      {
+        "name": "Frédéric Demoly",
+        "position": "middle"
+      },
+      {
+        "name": "Mahdi Bodaghi",
+        "position": "last"
+      }
+    ],
+    "volume": "38",
+    "issue": "",
+    "first_page": "102243",
+    "last_page": "102243",
+    "cited_by_count": 21,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.apmt.2024.102243",
+    "landing_page_url": "https://doi.org/10.1016/j.apmt.2024.102243",
+    "abstract": "Sandwich panels, characterized by their solid exterior and thick, soft core, find extensive applications ranging from maritime to aerospace sectors due to their exceptional resilience and energy absorption/dissipation capabilities. The natural limpet, known for its resilience to mechanical loading, serves as inspiration in the present research to introduce innovative repairable core shells. Limpet-inspired shells with elasto-plastic and brittle behaviors are designed and 3D/4D printed using polylactic acid (PLA) filaments and resins via fused filament fabrication (FFF) and liquid crystal display (LCD) techniques. While PLA filament exhibits an elasto-plastic response with a shape-recovery feature, the resin results in brittle structures for LCD-printed design. The study demonstrates that the FFF-printed PLA shell can fully recover residual plastic deformations, while the LCD-printed PLA shell exhibits a mechanical fracture behavior very similar to the natural limpet with brittle properties. A nonlinear finite element model (FEM) is also developed to replicate the large deformations of the samples under quasi-static compression with a high level of accuracy. Experimental and numerical results reveal that the samples with material, mechanical behavior, and geometry close to the natural limpet result in the maximum energy dissipation per unit mass. Two bio-inspired cores are then tessellated to introduce a new class of sustainable sandwich panels with supreme recoverability, resiliency, and repairability. A three-point bending test is numerically carried out on sandwich panels using FEM, and their energy absorption and dissipation capacities are studied. Results demonstrate that the proposed sandwich panels can achieve almost 7.33 and 1.17 times higher energy dissipation per unit mass than those developed based on a recycled thermoplastic bottle cap core. This pioneering research sets a new benchmark for structural design in terms of resiliency, recoverability, repairability, and sustainability.",
+    "score": 9,
+    "tags": [
+      "pla",
+      "sme",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W4398209545"
+  },
+  {
+    "doi": "10.1016/j.polymertesting.2026.109397",
+    "title": "Creep modeling and shape-memory performance of 4D-printed PLA/PHA cellular structures with electrospun fiber coatings",
+    "year": 2026,
+    "type": "article",
+    "journal": "Polymer Testing",
+    "issn_l": "0142-9418",
+    "authors": [
+      {
+        "name": "Kardo Khalid Abdullah",
+        "position": "first"
+      },
+      {
+        "name": "Szabolcs Krizsma",
+        "position": "middle"
+      },
+      {
+        "name": "Kolos Molnár",
+        "position": "last"
+      }
+    ],
+    "volume": "165",
+    "issue": "",
+    "first_page": "109397",
+    "last_page": "109397",
+    "cited_by_count": 0,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1016/j.polymertesting.2026.109397",
+    "landing_page_url": "https://doi.org/10.1016/j.polymertesting.2026.109397",
+    "abstract": "Shape-memory polymers (SMPs) show promise for minimally invasive biomedical applications. However, their performance depends on both material composition and scaffold architecture. In this study, we fabricated 4D-printed hybrid scaffolds. We used fused filament fabrication (FFF) to print poly(lactic acid) (PLA)/polyhydroxyalkanoate (PHA) blends (using two commercial PHA) and neat PLA into cellular structures with circular or square pores. We then deposited electrospun PHA fibers as coatings. Optical and electron microscopy confirmed high printing accuracy, well-defined pore shapes and uniform fiber coverage. Constrained recovery tests revealed that neat PLA fractured during programming, while both blends exhibited significant fixity ratios (98–100%) and recovery ratios of 78–91%, depending on composition, pore geometry and fiber coating. Both pore geometries demonstrated shape-memory functionality, with only minor variations. Finite-element simulations confirmed that the electrospun fiber coatings reduced creep deformation. Correspondingly, constrained shape-memory tests revealed that the fiber coatings maintained the high shape fixity of the two blends while slightly reducing shape recovery. These results show that highly porous 4D-printed cellular structures made from PLA/PHAS and PLA/PHI blends with electrospun fiber coatings can exhibit effective shape-memory behavior, offering useful design guidelines for adaptive biomedical scaffolds.",
+    "score": 14,
+    "tags": [
+      "pla",
+      "sme",
+      "fiber",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W7221757772"
+  },
+  {
+    "doi": "10.1016/j.mfglet.2024.11.005",
+    "title": "Simultaneous 4D printing and In-Situ foaming for tailoring shape memory behaviors in polylactic acid foams",
+    "year": 2024,
+    "type": "article",
+    "journal": "Manufacturing Letters",
+    "issn_l": "2213-8463",
+    "authors": [
+      {
+        "name": "Pedram Honari",
+        "position": "first"
+      },
+      {
+        "name": "Davood Rahmatabadi",
+        "position": "middle"
+      },
+      {
+        "name": "Abbas Bayati",
+        "position": "middle"
+      },
+      {
+        "name": "Erfan Rassi",
+        "position": "middle"
+      },
+      {
+        "name": "Ismaeil Ghasemi",
+        "position": "middle"
+      },
+      {
+        "name": "Majid Baniassadi",
+        "position": "middle"
+      },
+      {
+        "name": "Mahdi Bodaghi",
+        "position": "middle"
+      },
+      {
+        "name": "Mostafa Baghani",
+        "position": "last"
+      }
+    ],
+    "volume": "43",
+    "issue": "",
+    "first_page": "33",
+    "last_page": "36",
+    "cited_by_count": 34,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.mfglet.2024.11.005",
+    "landing_page_url": "https://doi.org/10.1016/j.mfglet.2024.11.005",
+    "abstract": "This study introduces an innovative 4D printing technique combined with in-situ foaming to enhance the shape memory properties of polylactic acid (PLA) foams. By melt mixing PLA with azodicarbonamide (AZO) below its decomposition temperature, followed by direct pellet printing, the research achieves uniform microporous structures and tailored shape memory behaviors. The findings demonstrate that higher AZO content improves shape fixity (∼96 %) but reduces shape recovery. Moreover, the programming temperature significantly influences performance, with hot programming enhancing shape fixity and cold programming boosting shape recovery. This novel approach offers potential applications in lightweight, thermally insulative, and shock-absorbing materials with programmable properties.",
+    "score": 11,
+    "tags": [
+      "pla",
+      "sme",
+      "fiber"
+    ],
+    "openalex_id": "https://openalex.org/W4405121198"
+  },
+  {
+    "doi": "10.1016/j.jcomc.2022.100331",
+    "title": "Synthesis and characterization of hematite (α-Fe2O3) reinforced polylactic acid (PLA) nanocomposites for biomedical applications",
+    "year": 2022,
+    "type": "article",
+    "journal": "Composites Part C Open Access",
+    "issn_l": "2666-6820",
+    "authors": [
+      {
+        "name": "Hamid Ikram",
+        "position": "first"
+      },
+      {
+        "name": "Ans Al Rashid",
+        "position": "middle"
+      },
+      {
+        "name": "Muammer Koç‬",
+        "position": "last"
+      }
+    ],
+    "volume": "9",
+    "issue": "",
+    "first_page": "100331",
+    "last_page": "100331",
+    "cited_by_count": 25,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1016/j.jcomc.2022.100331",
+    "landing_page_url": "https://doi.org/10.1016/j.jcomc.2022.100331",
+    "abstract": "This study presents preliminary findings on the performance of the stimuli-responsive PLA/α-Fe 2 O 3 nanocomposites under the magnetic stimulus with varying concentrations of hematite (α-Fe 2 O 3 ) nanoparticles. The effect of varying nanoparticle concentrations on the structural and thermal properties was examined using Fourier transform infrared spectroscopy (FTIR), thermogravimetric analysis (TGA), and differential scanning calorimetry (DSC). Subsequently, the magnetic field with various intensities was generated using a vibrating sample magnetometer in a controlled environment. The resulting deformation rate of the nanocomposites was observed in response to changing magnetic fields. The results revealed that the PLA/α-Fe 2 O 3 nanocomposites could be potential materials for biomedical applications, i.e., cardiovascular stents, which can provide the desired stimulus to treat post-stenting complications without the need for secondary surgical procedures. In future studies, the synthesized PLA/α-Fe 2 O 3 nanocomposites will be adopted for 3D printing (3DP) processes to develop patient-specific cardiovascular stents and to evaluate their biomechanical performance.",
+    "score": 11,
+    "tags": [
+      "pla",
+      "sme",
+      "fiber",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W4309729760"
+  },
+  {
+    "doi": "10.1016/j.eurpolymj.2023.112230",
+    "title": "Thermally-induced shape memory behavior of polylactic acid/polycaprolactone blends",
+    "year": 2023,
+    "type": "article",
+    "journal": "European Polymer Journal",
+    "issn_l": "0014-3057",
+    "authors": [
+      {
+        "name": "Brenda G. Molina",
+        "position": "first"
+      },
+      {
+        "name": "Guillermo Ocón",
+        "position": "middle"
+      },
+      {
+        "name": "Fiorella M. Silva",
+        "position": "middle"
+      },
+      {
+        "name": "José I. Iribarren",
+        "position": "middle"
+      },
+      {
+        "name": "Elaine A Armelin",
+        "position": "middle"
+      },
+      {
+        "name": "Carlos Alemán",
+        "position": "last"
+      }
+    ],
+    "volume": "196",
+    "issue": "",
+    "first_page": "112230",
+    "last_page": "112230",
+    "cited_by_count": 31,
+    "oa_status": "green",
+    "oa_url": "https://upcommons.upc.edu/bitstreams/7d4122f5-cd72-4fe9-bdf9-5fbc47929074/download",
+    "landing_page_url": "https://doi.org/10.1016/j.eurpolymj.2023.112230",
+    "abstract": "",
+    "score": 10,
+    "tags": [
+      "pla",
+      "sme"
+    ],
+    "openalex_id": "https://openalex.org/W4381952334"
+  },
+  {
+    "doi": "10.1016/j.heliyon.2023.e19363",
+    "title": "3D and 4D printing hydroxyapatite-based scaffolds for bone tissue engineering and regeneration",
+    "year": 2023,
+    "type": "review",
+    "journal": "Heliyon",
+    "issn_l": "2405-8440",
+    "authors": [
+      {
+        "name": "Sina Soleymani",
+        "position": "first"
+      },
+      {
+        "name": "Seyed Morteza Naghib",
+        "position": "last"
+      }
+    ],
+    "volume": "9",
+    "issue": "9",
+    "first_page": "e19363",
+    "last_page": "e19363",
+    "cited_by_count": 139,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1016/j.heliyon.2023.e19363",
+    "landing_page_url": "https://doi.org/10.1016/j.heliyon.2023.e19363",
+    "abstract": "The osseous tissue can be classified as a nanocomposite that encompasses a complex interweaving of organic and inorganic matrices. This intricate amalgamation consists of a collagen component and a mineral phase that are intricately arranged to form elaborate and perforated configurations. Hydroxyapatite, whether synthesized artificially or obtained from natural sources, has garnered considerable attention as a composite material in the field of bone tissue engineering due to its striking resemblance to bone in terms of structure and characteristics. Hydroxyapatite (HA) constitutes the predominant ceramic biomaterial for biomedical applications due to its ability to replicate the mineral composition of vertebrate bone. Nonetheless, it is noteworthy that the present biomimetic substance exhibits unfavorable mechanical characteristics, characterized by insufficient tensile and compressive strength, thus rendering it unsuitable for effective employment in the field of bone tissue engineering. Due to its beneficial attributes, hydroxyapatite (HA) is frequently employed in conjunction with various polymers and crosslinkers as composites to enhance mechanical properties and overall efficacy of implantable biomaterials engineered. The restoration of skeletal defects through the use of customized replacements is an effective way to replace damaged or lost bone structures. This method not only restores the bones' original functions but also reinstates their initial aesthetic appearance. The utilization of hydroxyapatite-polymer composites within 3D-printed grafts necessitates meticulous optimization of both mechanical and biological properties, in order to ensure their suitability for employment in medical devices. The utilization of 3D-printing technology represents an innovative approach in the manufacturing of HA-based scaffolds, which offers advantageous prospects for personalized bone regeneration. The expeditious prototyping method, with emphasis on the application of 3D printing, presents a viable approach in the development of bespoke prosthetic implants, grounded on healthcare data sets. 4D printing approach is an evolved form of 3D printing that utilizes programmable materials capable of altering the intended shape of printed structures, contingent upon single or dual stimulating factors. These factors include aspects such as pH level, temperature, humidity, crosslinking degree, and leaching factors.",
+    "score": 10,
+    "tags": [
+      "pla",
+      "sme",
+      "fiber",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W4386024350"
+  },
+  {
+    "doi": "10.1016/j.polymer.2024.127252",
+    "title": "4D printing of biobased shape memory sandwich structures",
+    "year": 2024,
+    "type": "article",
+    "journal": "Polymer",
+    "issn_l": "0032-3861",
+    "authors": [
+      {
+        "name": "Ava Ghalayaniesfahani",
+        "position": "first"
+      },
+      {
+        "name": "Betty Oostenbrink",
+        "position": "middle"
+      },
+      {
+        "name": "Han van Kasteren",
+        "position": "middle"
+      },
+      {
+        "name": "Ian Gibson",
+        "position": "middle"
+      },
+      {
+        "name": "Mehrshad Mehrpouya",
+        "position": "last"
+      }
+    ],
+    "volume": "307",
+    "issue": "",
+    "first_page": "127252",
+    "last_page": "127252",
+    "cited_by_count": 21,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.polymer.2024.127252",
+    "landing_page_url": "https://doi.org/10.1016/j.polymer.2024.127252",
+    "abstract": "Lightweight sandwich structures already have many applications in the aerospace, automotive, and construction sectors due to their high strength-to-weight ratio, enhanced stiffness and rigidity, and high energy and shock absorption capabilities. Additive manufacturing (AM) can provide great freedom and flexibility in the fabrication of complex sandwich structures that cannot be made by other conventional processes. The application of smart materials, like shape memory polymers (SMP), can offer the capability of dynamic transformation so that the deformed structure can recover its original shape using external stimuli, such as temperature. This study exploits the potential of this technology in the design and manufacturing of biobased smart sandwich structures with energy absorption capability and shape recovery performance. For that, a combination of recycled poly(lactic acid) (PLA)/poly(butylene succinate) (PBS) biopolymers are developed as printing filaments with shape memory properties. The designed sandwich samples are fabricated by Fused Filament Fabrication (FFF) technology. The mechanical and functional properties of the printed samples are also evaluated. The results show PLA/PBS filaments have good printability and the fabricated parts have acceptable dimensional accuracy, mechanical strength, and functional performance.",
+    "score": 9,
+    "tags": [
+      "pla",
+      "sme",
+      "process"
+    ],
+    "openalex_id": "https://openalex.org/W4399352286"
+  },
+  {
+    "doi": "10.1016/j.amf.2024.200183",
+    "title": "4D Printing of Reconfigurable Acoustic Metamaterials with Multiband Low-Frequency Absorption",
+    "year": 2024,
+    "type": "article",
+    "journal": "Additive Manufacturing Frontiers",
+    "issn_l": "2950-4317",
+    "authors": [
+      {
+        "name": "Jiajie Luo",
+        "position": "first"
+      },
+      {
+        "name": "Junxiang Fan",
+        "position": "middle"
+      },
+      {
+        "name": "Bo Song",
+        "position": "middle"
+      },
+      {
+        "name": "Yintang Wen",
+        "position": "middle"
+      },
+      {
+        "name": "Xiaobo Wang",
+        "position": "middle"
+      },
+      {
+        "name": "Lei Zhang",
+        "position": "middle"
+      },
+      {
+        "name": "Yonggang Yao",
+        "position": "middle"
+      },
+      {
+        "name": "Xiao Xiang",
+        "position": "middle"
+      },
+      {
+        "name": "Xuefeng Zhu",
+        "position": "middle"
+      },
+      {
+        "name": "Yusheng Shi",
+        "position": "last"
+      }
+    ],
+    "volume": "4",
+    "issue": "1",
+    "first_page": "200183",
+    "last_page": "200183",
+    "cited_by_count": 19,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.amf.2024.200183",
+    "landing_page_url": "https://doi.org/10.1016/j.amf.2024.200183",
+    "abstract": "Controlling low-frequency noise presents a significant challenge for traditional sound absorption materials, such as foams and fibrous substances. Recently developed acoustic absorption metamaterials, which rely on local resonance can effectively balance the volume occupation and low-frequency absorption performance. However, these materials often exhibit a very narrow and fixed absorption band. Inspired by Helmholtz resonators and bistable structures, we propose bistable reconfigurable acoustic metamaterials (BRAMs) that offer multiband low-frequency absorption. These BRAMs are fabricated using shape-memory polylactic acid (SM-PLA) via four-dimension (4D) printing technology. Consequently, the geometry and absorption performance of the BRAMs can be adjusted by applying thermal stimuli (at 55 °C) to switch between two stable states. The BRAMs demonstrate excellent low-frequency absorption with multiband characteristics, achieving an absorption coefficient of 0.981 at 136 Hz and 0.998 at 230 Hz for stable state I, and coefficients of 0.984 at 156 Hz and 0.961 at 542 Hz for stable state II. It was found that the BRAMs with different inclined plate angles had linear recovery stages, and the recovery speeds range from 0.75 mm/s to 1.1 mm/s. By combining a rational structural design and 4D printing, the reported reconfigurable acoustic metamaterials will inspire further studies on the design of dynamic and broadband absorption devices.",
+    "score": 8,
+    "tags": [
+      "pla",
+      "sme"
+    ],
+    "openalex_id": "https://openalex.org/W4405674407"
+  }
+]
