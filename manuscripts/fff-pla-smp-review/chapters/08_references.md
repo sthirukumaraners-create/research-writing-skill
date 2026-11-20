@@ -1,0 +1,127 @@
+# References
+
+Aghabarari, R., Alizadeh, R., & Fernández-Blázquez, J. P. (2025). Review: 4D printing of PLA and its blends/composites: Technologies, mechanisms, characterization, and applications. *Journal of Materials Science*, *60*(47), 24155–24187. https://doi.org/10.1007/s10853-025-11854-x
+
+Aljanabi, A. A. T., Rahmatabadi, D., Baghani, M., Baniassadi, M., & Riasi, A. (2026). 3D/4D printing of PETG-PLA blends: Mechanical, thermal, morphological and shape memory properties. *Materials Today Communications*, *53*, 115417. https://doi.org/10.1016/j.mtcomm.2026.115417
+
+Angili, S. N., Morovvati, M., Vatandoust, Y., Fotouhi, M., & Bodaghi, M. (2025). Investigating mechanical enhancement and vibrational response of additive manufactured PLA scaffolds with carbon nanotube and graphene oxide: Fabrication and multi-scale simulation. *Composite Structures*, *369*, 119320. https://doi.org/10.1016/j.compstruct.2025.119320
+
+Arrieta, S., Cicero, S., Sánchez, M., & Calderón, J. G. (2025). Comparing approaches for predicting critical loads in 3D printed graphene-reinforced PLA plates containing notches. *Procedia Structural Integrity*, *72*, 97-104. https://doi.org/10.1016/j.prostr.2025.08.079
+
+Baharlou, E., & Ma, J. (2025). Effect of raster orientation on large-scale robotic 3D printing of short carbon fiber-reinforced PLA composites. *Additive Manufacturing Letters*, *13*, 100276. https://doi.org/10.1016/j.addlet.2025.100276
+
+Bastida, G. A., Delgado-Aguilar, M., Julian, F., Alcalà, M., Herbst, G., Aguado, R. J., Carrasco, F., & Tarrés, Q. (2026). Printability versus durability in 3D-printed biocomposites: Unraveling the distinct roles of flax and hemp fibers in PLA-based filaments. *Journal of Materials Research and Technology*, *42*, 1125-1135. https://doi.org/10.1016/j.jmrt.2026.03.120
+
+Beg, M. D. H., Pickering, K. L., Akindoyo, J. O., & Gauss, C. (2024). Recyclable hemp hurd fibre-reinforced PLA composites for 3D printing. *Journal of Materials Research and Technology*, *33*, 4439-4447. https://doi.org/10.1016/j.jmrt.2024.10.082
+
+Bermudo Gamboa, C., Martín-Béjar, S., Trujillo Vilches, J., & Sevilla Hurtado, L. (2023). Influence of printing parameters and short carbon fibre reinforcement on fatigue behaviour, dimensional accuracy and macrogeometrical deviations of polylactic acid in material extrusion. *Composites Science and Technology*, *242*, 110205. https://doi.org/10.1016/j.compscitech.2023.110205
+
+Bouguermouh, K., Habibi, M., Laperrière, L., & Monplaisir, D. (2026). Impact of hot water aging on the mechanical performance and shape memory behavior of 4D-printed flax fiber-reinforced PLA/PETG composites. *Composites Part B: Engineering*, *315*, 113477. https://doi.org/10.1016/j.compositesb.2026.113477
+
+Bourgogne, Q. C. P., Abida, M., & Bouchart, V. (2026). Influence of extrusion process on the physical and mechanical properties of short natural fibre reinforced PLA filaments. *Composites Part C: Open Access*, *21*, 100823. https://doi.org/10.1016/j.jcomc.2026.100823
+
+Dantas, H. G. M., Sousa, F. R. S., Rodrigues, T. A. C. S., Bonfim, R. L. P., da Cunha, R. B., Cavalcanti, S. N., Lira, M. C. D. A., de Sousa Filho, V. A., de Araújo, J. M., Pê, F. R., Agrawal, P., Brito, G. D. F., & Mélo, T. J. A. D. (2026). Multifunctional PLA/e-gma/cb conductive polymer composites exhibiting enhanced toughness, electrically triggered shape memory, and EMI shielding. *Composites Communications*, *64*, 102778. https://doi.org/10.1016/j.coco.2026.102778
+
+de Kergariou, C., Le Duigou, A., Perriman, A., & Scarpa, F. (2023). Design space and manufacturing of programmable 4D printed continuous flax fibre polylactic acid composite hygromorphs. *Materials & Design*, *225*, 111472. https://doi.org/10.1016/j.matdes.2022.111472
+
+Desole, M. P., Gisario, A., & Barletta, M. (2026). Cyclic loading and thermal activation on the shape memory performance of 3D-printed PLA cellular structures. *Materials Today Communications*, *53*, 115266. https://doi.org/10.1016/j.mtcomm.2026.115266
+
+Doostmohammadi, H., Kashmarizad, K., Baniassadi, M., Bodaghi, M., & Baghani, M. (2024). 4D printing and optimization of biocompatible poly lactic acid/poly methyl methacrylate blends for enhanced shape memory and mechanical properties. *Journal of the Mechanical Behavior of Biomedical Materials*, *160*, 106719. https://doi.org/10.1016/j.jmbbm.2024.106719
+
+Enarevba, D. R., Jaksic, N. I., & Haapala, K. R. (2025). A comparative life cycle assessment of hemp-based and polylactide (PLA) composite 3D printing filaments. *Procedia CIRP*, *135*, 267-272. https://doi.org/10.1016/j.procir.2025.01.049
+
+Enarevba, D. R., Jaksic, N. I., & Haapala, K. R. (2026). A comparative life cycle assessment of hemp straw polylactide (PLA) and pure PLA parts printed using fused filament fabrication. *Cleaner and Circular Bioeconomy*, *14*, 100216. https://doi.org/10.1016/j.clcb.2026.100216
+
+Faidallah, R. F., Abd-El Nabi, A. M., Hanon, M. M., Szakál, Z., & Oldal, I. (2024). Compressive and bending properties of 3D-printed wood/PLA composites with re-entrant honeycomb core. *Results in Engineering*, *24*, 103023. https://doi.org/10.1016/j.rineng.2024.103023
+
+Fereydoonpour, F., Dezianian, S., & Azadi, M. (2025). Shape memory recovery in polylactic acid and thermoplastic polyurethane bi-material metamaterials fabricated by additive manufacturing under fatigue testing. *Polymer Testing*, *147*, 108802. https://doi.org/10.1016/j.polymertesting.2025.108802
+
+Fijoł, N., & Mathew, A. P. (2023). Accelerated ageing of 3D printed water purification filters based on PLA reinforced with green nanofibers. *Polymer Testing*, *129*, 108270. https://doi.org/10.1016/j.polymertesting.2023.108270
+
+Gajjar, T., Panta, J., Yang, R. (., & Zhang, Y. X. (2026). Optimising the mechanical performance of short carbon fibre-polylactic acid composites fabricated using fused filament fabrication. *Journal of Materials Research and Technology*, *44*, 2016-2031. https://doi.org/10.1016/j.jmrt.2026.08.049
+
+Gharehbaghi, H., Shojaei, A., Sadeghzadeh, M., & Farrokhabadi, A. (2025). Residual stiffness and strength analysis of fatigue behavior in a 3D-printed honeycomb structure of continuous glass fiber-reinforced polylactic acid (PLA) composite. *Composites Part C: Open Access*, *16*, 100552. https://doi.org/10.1016/j.jcomc.2024.100552
+
+Golan, O., Granada, N., Lemesh, L., Azoulay-Ginsburg, S., Netti, F., Altobelli, V., Amir, R. J., Adler-Abramovich, L., & Lachman, N. (2026). Biocompatibility and degradation of PLA reinforced with tungsten disulfide nanotubes for 3D-printed bone scaffold. *Biomaterials Advances*, *183*, 214736. https://doi.org/10.1016/j.bioadv.2026.214736
+
+Hacıoğlu, A., Eryildiz, M., & Ozkat, E. C. (2026). Machine learning-driven multi-objective optimisation of shape-memory programming parameters in 4D-printed PLA. *Materials & Design*, *271*, 117160. https://doi.org/10.1016/j.matdes.2026.117160
+
+Hamat, S., Ishak, M. R., Salit, M. S., Yidris, N., Showkat Ali, S. A., & Hussin, M. S. (2025). Effect of polydopamine coating on the mechanical, thermal, and morphological properties of recycled PLA/kenaf fiber composites in fused deposition modelling. *Journal of Materials Research and Technology*, *36*, 4464-4475. https://doi.org/10.1016/j.jmrt.2025.04.075
+
+Hamidi, M. N., Abdullah, J., Mahmud, A. S., & Namazi, H. (2026). Effect of blend ratios and printing parameters on PLA/TPU shape memory polymer performance. *Polymer Testing*, *157*, 109157. https://doi.org/10.1016/j.polymertesting.2026.109157
+
+Honari, P., Rahmatabadi, D., Bayati, A., Rassi, E., Ghasemi, I., Baniassadi, M., Bodaghi, M., & Baghani, M. (2025). Simultaneous 4D printing and in-situ foaming for tailoring shape memory behaviors in polylactic acid foams. *Manufacturing Letters*, *43*, 33-36. https://doi.org/10.1016/j.mfglet.2024.11.005
+
+Huang, J., Chen, P., Tham, C. L., Vellayappan, M. V., Goh, G. D., Yang, J., Qi, X., Rosen, D. W., & Sharon Nai, M. L. (2025). Optimizing shape memory performance in 4D-printed PLA hinges: An integrated study on geometry and process parameter effects. *Materials & Design*, *260*, 114879. https://doi.org/10.1016/j.matdes.2025.114879
+
+Huang, T., Zhang, F., Cui, Z., Yin, X., Wang, Z., & Jin, P. (2026). Multi-nozzle impregnation and parameter optimization of continuous carbon fiber/PLA prepreg filaments. *Materials Today Communications*, *53*, 115256. https://doi.org/10.1016/j.mtcomm.2026.115256
+
+Jain, N., Czasny, M., Butzmann, T., Kober, D., Karl, D., Schmiedjell, D., Hild, S., & Gurlo, A. (2025). Additive manufacturing of continuous regenerated cellulose fiber reinforced polylactic acid composites using in-situ impregnation material extrusion technique. *Composites Part C: Open Access*, *17*, 100594. https://doi.org/10.1016/j.jcomc.2025.100594
+
+Javadian, M., Dadashi, A., Bagheri, A., & Azadi, M. (2025). Fatigue behavior and failure mechanism of 3D-printed continuous glass fiber-reinforced PLA composites under rotating bending fatigue. *Composites Part C: Open Access*, *17*, 100623. https://doi.org/10.1016/j.jcomc.2025.100623
+
+Jeevan, T. P., Sharath, B. N., Anand, A., Divya, H. V., Manjunath, G. A., & Rajesh, T. N. (2026). Mechanical, thermal, and microstructural properties of FFF-printed graphene-reinforced PLA composites. *Next Materials*, *13*, 103207. https://doi.org/10.1016/j.nxmate.2026.103207
+
+Kacem, M. A., Guebailia, M., Dezaki, M. L., Abdi, S., Sabba, N., Zolfagharian, A., & Bodaghi, M. (2025). Development and 3D printing of PLA bio-composites reinforced with short yucca fibers and enhanced thermal and dynamic mechanical performance. *Journal of Materials Research and Technology*, *36*, 1243-1258. https://doi.org/10.1016/j.jmrt.2025.03.184
+
+Kardos, K., Paari-Molnar, E., Told, R., Abdel-Fattah Qa'dan, W. N., Szabo, P., Steinerbrunner-Nagy, A., Schlegl, A. T., Pongracz, J. E., & Maroti, P. (2026). Comprehensive study of mechanical, structural, magnetic, and biological properties of magnetic PLA composites for 3D and 4D printing applications. *Journal of Materials Research and Technology*, *44*, 3386-3397. https://doi.org/10.1016/j.jmrt.2026.07.320
+
+Karimipour, A., Mouli, K. V. V. C., & Karimipour, A. (2026). PCL/nano-hardystonite electrospun nanofiber coating on cellulose nanocrystal-reinforced PLA 3D-printed dental implants. *Carbohydrate Polymer Technologies and Applications*, *14*, 101157. https://doi.org/10.1016/j.carpta.2026.101157
+
+Kumar, G. S. P., Keshavamurthy, R., Panigrahi, S. P., Thomas, S., Thejaraju, R., Hebbar, G. S., Prasad, C. D., & Aden, A. A. (2025). Enhanced mechanical properties of CNT/graphene reinforced PLA-based composites fabricated via fused deposition modelling. *Results in Engineering*, *25*, 104472. https://doi.org/10.1016/j.rineng.2025.104472
+
+Liu, W., Zhang, S., Yang, K., Yu, W., Shi, J., & Zheng, Q. (2022). Preparation of graphene-modified PLA/PBAT composite monofilaments and its degradation behavior. *Journal of Materials Research and Technology*, *20*, 3784-3795. https://doi.org/10.1016/j.jmrt.2022.08.125
+
+Maleki, H., Asadi, P., Sedghi, A., Choupani, N., Moghanian, A., & Elamy, M. I. (2024). (Alumina and graphene)/ PLA nanocomposites manufactured by digital light processing 3D printer. *Journal of Materials Research and Technology*, *32*, 3120-3134. https://doi.org/10.1016/j.jmrt.2024.08.147
+
+Mehaba, H., Toubal, L., & Belouadah, Z. (2025). Advantages of in-situ impregnation 3D printing in continuous flax/PLA biocomposites for optimized mechanical properties in structural applications. *Journal of Materials Research and Technology*, *39*, 355-367. https://doi.org/10.1016/j.jmrt.2025.09.042
+
+Moradi, M., Lalegani Dezaki, M., Kheyri, E., Rasouli, S. A., Aghaee Attar, M., & Bodaghi, M. (2023). Simultaneous FDM 4D printing and magnetizing of iron-filled polylactic acid polymers. *Journal of Magnetism and Magnetic Materials*, *568*, 170425. https://doi.org/10.1016/j.jmmm.2023.170425
+
+Muhammad, A., Valero, C., De Angelis, P., Koutroumanis, N., Semitekolos, D., Jiménez, B., Rivera, R., Sáenz Ezquerro, C., Srivastava, R., Pappas, P.-N., Galiotis, C., Charitidis, C. A., Chiavazzo, E., Asinari, P., Laspalas, M., Chiminelli, A., & Fasano, M. (2025). From nanoscale to printed products: Multiscale modeling and experimental characterization of graphene-enhanced polylactic acid composites for 3D printing. *Composites Part B: Engineering*, *298*, 112354. https://doi.org/10.1016/j.compositesb.2025.112354
+
+Muthe, L. P., Pickering, K., & Gauss, C. (2022). A review of 3D/4D printing of poly-lactic acid composites with bio-derived reinforcements. *Composites Part C: Open Access*, *8*, 100271. https://doi.org/10.1016/j.jcomc.2022.100271
+
+Quereilhac, D., Caillault, T., Terekhina, S., Bar, M., Morel, G., Fazzini, M., Abida, M., De Luycker, E., & Ouagne, P. (2025). Development of a custom commingled flax/PLA wrapped yarn for additive manufacturing of long-fibre biocomposites. *Materials & Design*, *258*, 114628. https://doi.org/10.1016/j.matdes.2025.114628
+
+Rahmani, K., Ravanbod, S., Dezaki, M. L., Branfoot, C., & Bodaghi, M. (2026). Pellet-fed continuous-silk-fibre 3D/4D printing of PLA/bamboo-charcoal bio-composites with shape recovery and thermomechanical stability. *Materials & Design*, *264*, 115704. https://doi.org/10.1016/j.matdes.2026.115704
+
+Rahmatabadi, D., Khajepour, M., Bayati, A., Mirasadi, K., Amin Yousefi, M., Shegeft, A., Ghasemi, I., Baniassadi, M., Abrinia, K., Bodaghi, M., & Baghani, M. (2024). Advancing sustainable shape memory polymers through 4D printing of polylactic acid-polybutylene adipate terephthalate blends. *European Polymer Journal*, *216*, 113289. https://doi.org/10.1016/j.eurpolymj.2024.113289
+
+Rezaieyan, E., Taban, E., Berardi, U., Mortazavi, S. B., Faridan, M., & Mahmoudi, E. (2024). Acoustic properties of natural fiber reinforced composite micro-perforated panel (nfrc-mpp) made from cork fiber and polylactic acid (PLA) using 3D printing. *Journal of Building Engineering*, *84*, 108491. https://doi.org/10.1016/j.jobe.2024.108491
+
+Robsan Abebe, A., Lemu, H. G., Palani, I. A., & Mosisa, E. G. (2026). Analysis and characterization of influence of PLA printing parameters on 4D printing retention time under thermal stimulus. *Polymer*, *358*, 130199. https://doi.org/10.1016/j.polymer.2026.130199
+
+Roy, S. M., Ramachandran, V., & Krishnapillai, S. (2026). Impact properties and fracture toughness of continuous fiber-reinforced PLA-graphene composites developed for material extrusion-based additive manufacturing. *Defence Technology*. https://doi.org/10.1016/j.dt.2026.09.019
+
+Saleh, M., Anwar, S., AlFaify, A. Y., Al-Ahmari, A. M., & Abd Elgawad, A. E. E. (2024). Development of PLA/recycled-desized carbon fiber composites for 3D printing: Thermal, mechanical, and morphological analyses. *Journal of Materials Research and Technology*, *29*, 2768-2780. https://doi.org/10.1016/j.jmrt.2024.01.267
+
+Sankar, M. A., Velu, R., Kumar, S. A., & Thomas, S. (2025). Development and characterisation of PLA-MWCNT filaments for multifunctional hybrid composites reinforced with continuous carbon fibre via 3D printing. *Manufacturing Letters*, *44*, 1139-1148. https://doi.org/10.1016/j.mfglet.2025.07.004
+
+Selvamani, S. K., Clint, K. S., Samykano, M., Kadirgama, K., Beg, M. D. H., Pickering, K. L., & Megalingam, A. (2026). Tensile and flexural performance of FDM 3D printed harakeke (NZ flax) fiber -PLA composites for lightweight structural applications. *Results in Engineering*, *30*, 110675. https://doi.org/10.1016/j.rineng.2026.110675
+
+Shahar, F. S., Hameed Sultan, M. T., Safri, S. N. A., Jawaid, M., Abu Talib, A. R., Basri, A. A., & Md Shah, A. U. (2022). Fatigue and impact properties of 3D printed PLA reinforced with kenaf particles. *Journal of Materials Research and Technology*, *16*, 461-470. https://doi.org/10.1016/j.jmrt.2021.12.023
+
+Song, M., Li, S., Zhu, G., & Guo, J. (2023). Compatibilised and toughened of PLA/PCL blends via modified-chitosan linking amorphous regions: 4D printing and shape memory processes. *Polymer Testing*, *125*, 108105. https://doi.org/10.1016/j.polymertesting.2023.108105
+
+Tolcha, M. A., Derese, M. M., Altenbach, H., Lemu, H. G., & Naumenko, K. (2026). Development and characterization of enset and sisal fiber-reinforced PLA composites for FDM 3D printing. *Materials Today Advances*, *29*, 100720. https://doi.org/10.1016/j.mtadv.2026.100720
+
+Toprak, İ. B., Batur, C., & Dogdu, N. (2026). Energy consumption, process stability, and tensile anisotropy of FFF-printed PLA and carbon fiber-reinforced PLA: Effects of build orientation and chamber conditions. *Next Materials*, *13*, 102611. https://doi.org/10.1016/j.nxmate.2026.102611
+
+Umayanga, U. G. E., Appuhamillage, G. A., Ambagaspitiya, S. S., Bandara, T. A. R. W. M. M. C. G., & Abeygunawardane, G. A. (2026). Polylactic acid/cellulose nanocrystals/polyethylene glycol-based shape memory composite for a 4D printed thermoresponsive gripper system. *Next Materials*, *13*, 103448. https://doi.org/10.1016/j.nxmate.2026.103448
+
+Vigneshwaran, K., Venkateshwaran, N., Shanthi, R., Kannan, G., Kumar, B. R., Shanmugam, V., & Das, O. (2024). The acoustic properties of FDM printed wood/PLA-based composites. *Composites Part C: Open Access*, *15*, 100532. https://doi.org/10.1016/j.jcomc.2024.100532
+
+Vălean, E., Foti, P., Berto, F., & Marșavina, L. (2024b). Static and fatigue behavior of 3D printed smooth and notched PLA and short carbon fibers reinforced PLA. *Theoretical and Applied Fracture Mechanics*, *131*, 104417. https://doi.org/10.1016/j.tafmec.2024.104417
+
+Vălean, E., Foti, P., Razavi, S. M. J., Marșavina, L., & Berto, F. (2024a). Effect of the notch opening angle on the quasi-static behavior of PLA and carbon fibers reinforced PLA realized through fused deposition modelling. *Procedia Structural Integrity*, *56*, 58-64. https://doi.org/10.1016/j.prostr.2024.02.037
+
+Vălean, E., Marșavina, L., Galațanu, S.-V., Foti, P., & Berto, F. (2025). Effect of notches on static and dynamic bending of 3D printed PLA and PLA reinforced with short carbon fiber. *Procedia Structural Integrity*, *68*, 955-961. https://doi.org/10.1016/j.prostr.2025.06.156
+
+Wan Ishak, W. H., Ahmad, I., Rosli, N. A., Dufresne, A., Ahmad, S., Sajab, M. S., & Md Zain, A. R. (2025). Fabrication of 3D-Printed PLA/liquid natural rubber/cellulose nanocrystals bionanocomposite for advanced biomedical applications. *Journal of Materials Research and Technology*, *39*, 5164-5177. https://doi.org/10.1016/j.jmrt.2025.10.147
+
+Yang, B., Yang, S., Zuo, X., Zhao, L., Yang, M., Zhang, T., Dai, F., & Shao, J. (2026). 3D-printed continuous silk fiber/PLA composites with high strength, modulus, and impact resistance. *Journal of Materials Research and Technology*, *44*, 2394-2406. https://doi.org/10.1016/j.jmrt.2026.07.287
+
+Zarna, C., Chinga-Carrasco, G., & Echtermeyer, A. T. (2023). Bending properties and numerical modelling of cellular panels manufactured from wood fibre/PLA biocomposite by 3D printing. *Composites Part A: Applied Science and Manufacturing*, *165*, 107368. https://doi.org/10.1016/j.compositesa.2022.107368
+
+Zhang, X., Malekahmadi, O., Mohammad Sajadi, S., Li, Z., Abu-Hamdeh, N. H., Rawa, M. J. H., Al-Ebrahim, M. A., Karimipour, A., & Viet, H. (2023). Thermomechanical properties of coated PLA-3d-printed orthopedic plate with PCL/akermanite nano-fibers: Experimental procedure and AI optimization. *Journal of Materials Research and Technology*, *27*, 1307-1316. https://doi.org/10.1016/j.jmrt.2023.09.215

@@ -1,0 +1,3082 @@
+[
+  {
+    "doi": "10.1016/j.matdes.2022.111472",
+    "title": "Design space and manufacturing of programmable 4D printed continuous flax fibre polylactic acid composite hygromorphs",
+    "year": 2023,
+    "journal": "Materials & Design",
+    "volume": "225",
+    "issue": "",
+    "page": "111472",
+    "authors": [
+      {
+        "family": "de Kergariou",
+        "given": "Charles"
+      },
+      {
+        "family": "Le Duigou",
+        "given": "Antoine"
+      },
+      {
+        "family": "Perriman",
+        "given": "Adam"
+      },
+      {
+        "family": "Scarpa",
+        "given": "Fabrizio"
+      }
+    ],
+    "cited_by_count": 32,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 15,
+    "role": "sme",
+    "tags": [
+      "fiber",
+      "pla",
+      "process",
+      "sme"
+    ],
+    "abstract": "The work describes the exploration of the design space by fabrication, modelling and testing of bio-based and humidity-triggered 4D printed shape-changing biocomposites. The aim is to broaden the understanding of the control actuation via printing path tailoring and unlock new potential applications for biomaterials and autonomous actuator design. The composites are made with continuous flax yarns and polylactic acid matrix filaments and exhibit moisture-induced actuation. The actuation capability is first demonstrated by printing a calla lily flower-inspired configuration subjected to 98% relative humidity. This structure did not however achieve the anticlastic double curvature and large actuation targeted. To resolve these issues, cross-ply composite architectures with bent filaments deposited in one layer have then been developed. The amplitude for curvature control ranges obtained were 1.9*10−3mm−1 and 7.9*10−3mm−1 depending on the position on the specimen. Other cross-ply hygromorphs solutions are also proposed, with the orientation of their passive layers ([0°]2) tilted by α degrees (stacking sequence: [-α,α, 90°]). The largest actuation curvature was obtained when α=40°, which increased by 0.0072 mm−1 when compared to α = 0°. The hygromorphs presented in this work are modelled using in an in–house filament scale finite element model able to capture the complexity of the printed hygromorphs architectures.",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0264127522010954-ga1_lrg.jpg",
+    "oa_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0264127522010954-ga1_lrg.jpg"
+  },
+  {
+    "doi": "10.1016/j.matdes.2026.115704",
+    "title": "Pellet-fed continuous-silk-fibre 3D/4D printing of PLA/bamboo-charcoal bio-composites with shape recovery and thermomechanical stability",
+    "year": 2026,
+    "journal": "Materials & Design",
+    "volume": "264",
+    "issue": "",
+    "page": "115704",
+    "authors": [
+      {
+        "family": "Rahmani",
+        "given": "Kaveh"
+      },
+      {
+        "family": "Ravanbod",
+        "given": "Shawn"
+      },
+      {
+        "family": "Dezaki",
+        "given": "Mohammadreza L."
+      },
+      {
+        "family": "Branfoot",
+        "given": "Callum"
+      },
+      {
+        "family": "Bodaghi",
+        "given": "Mahdi"
+      }
+    ],
+    "cited_by_count": 10,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 15,
+    "role": "sme",
+    "tags": [
+      "fiber",
+      "pla",
+      "process",
+      "sme"
+    ],
+    "abstract": "A pellet-fed extrusion platform with integrated continuous-fibre co-deposition is presented, enabling 3D/4D printing of bio-composites directly from pellets, avoiding a separate filament-making step, thereby reducing time, energy, and material waste. A polylactic acid/bamboo-charcoal/continuous-silk-fibre (PLA/BC/CSF) system was formulated to overcome PLA’s low strength, thermal creep, and flammability. With 3 wt% BC, PLA tensile strength increased by 28%; with CSF, tensile strength reached 108 MPa (+213% vs PLA). Three-point bending strength rose + 247% over PLA (+200% vs PLA/BC; +40% vs PLA/CSF). The burning rate decreased by 41% relative to PLA, evidencing improved flame resistance. Under 70 °C and constant load, PLA/BC/CSF beams retained geometry whereas PLA sagged, confirming superior thermo-mechanical stability. Architected honeycomb and trapezium meta-composites printed from PLA/BC/CSF exhibited quasi-constant force, and quasi-zero stiffness plateaus with energy dissipation and shape recovery (full after 25% compression; 85% recovery after 45% upon heat activation), supporting reuse and overload protection. The approach delivers a low-cost, lower-energy route to continuous-fibre bio-composites and demonstrates printable, recoverable components for logistics and automotive use (e.g., pallets, chassis inserts, dashboard face-parts), advancing sustainable additive manufacturing and circular-economy goals.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.matdes.2026.115704"
+  },
+  {
+    "doi": "10.1016/j.nxmate.2026.103448",
+    "title": "Polylactic acid/cellulose nanocrystals/polyethylene glycol-based shape memory composite for a 4D printed thermoresponsive gripper system",
+    "year": 2026,
+    "journal": "Next Materials",
+    "volume": "13",
+    "issue": "",
+    "page": "103448",
+    "authors": [
+      {
+        "family": "Umayanga",
+        "given": "U.G.E."
+      },
+      {
+        "family": "Appuhamillage",
+        "given": "Gayan A."
+      },
+      {
+        "family": "Ambagaspitiya",
+        "given": "Sankalya S."
+      },
+      {
+        "family": "Bandara",
+        "given": "T.A.R.W.M.M.C.G."
+      },
+      {
+        "family": "Abeygunawardane",
+        "given": "Gayan A."
+      }
+    ],
+    "cited_by_count": 0,
+    "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 15,
+    "role": "sme",
+    "tags": [
+      "fiber",
+      "pla",
+      "process",
+      "sme"
+    ],
+    "abstract": "This work introduces a novel thermo-responsive 4D printable gripper system via polylactic acid (PLA), cellulose nanocrystals (CNC), and polyethylene glycol (PEG)-based shape memory composite. PEG, serving as a biocompatible plasticizer, and CNC, acting as a biodegradable reinforcing agent, were incorporated into PLA, a 3D printable shape memory thermoplastic matrix. Keeping CNC content the same, two series of shape memory composites (SMCs) were prepared with increasing weight percent (wt%) of PEG (1.25, 2.5, 5, 10, and 15 wt%) using PEG 40 and PEG 4000 via heat-press method. Thermal, mechanical, and shape memory properties of the as-prepared composites were analyzed with respect to neat PLA, the control. The glass transition temperature (T g ) and the activation temperature of the SMCs gradually decreased with increasing PEG content. Compared with the PEG 40 series, the PEG 4000 series exhibited a greater reduction in T g , decreasing from 49 ℃ to 40.5 ℃, accompanied by a reduction in the activation temperature from 49 ℃ to 40 ℃. Overall, an optimum balance between the mechanical and shape memory performance was achieved by the PLA/CNC/PEG(4000)-10 wt% composite. Furthermore, the composite was successfully 3D printed into a gripper w ith an activation temperature of 40.5 °C. To the best of our knowledge, this is the first reported 4D printed gripper to demonstrate excellent shape fixity and shape recovery ratios of ∼93% and ∼94%, respectively, at an activation temperature close to physiological conditions. Cyclic shape memory tests performed for the same composite evidenced ∼98% retention of the original shape recovery ratio even after the fifteenth cycle. This work paves the way for the future development of biodegradable, thermo-responsive, 4D printable shape memory devices for biomedical applications.",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2949822826018654/pdf",
+    "oa_url": "https://www.sciencedirect.com/science/article/pii/S2949822826018654/pdf"
+  },
+  {
+    "doi": "10.1016/j.jcomc.2022.100271",
+    "title": "A Review of 3D/4D Printing of Poly-Lactic Acid Composites with Bio-Derived Reinforcements",
+    "year": 2022,
+    "journal": "Composites Part C: Open Access",
+    "volume": "8",
+    "issue": "",
+    "page": "100271",
+    "authors": [
+      {
+        "family": "Muthe",
+        "given": "Lakshmi Priya"
+      },
+      {
+        "family": "Pickering",
+        "given": "Kim"
+      },
+      {
+        "family": "Gauss",
+        "given": "Christian"
+      }
+    ],
+    "cited_by_count": 82,
+    "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 14,
+    "role": "sme",
+    "tags": [
+      "pla",
+      "process",
+      "review",
+      "sme"
+    ],
+    "abstract": "Poly-lactic acid (PLA) has become a commonly used polymer for additive manufacturing because of its bio-derived nature, useful mechanical properties, and excellent processability. Reinforcing PLA with bio-derived materials has been shown to improve the physical, mechanical, and thermal properties of 3D printed composites and, in some cases, to produce active materials for shape-changing hygromorphic structures. PLA also displays shape memory as a response to changes in temperature, making it a popular choice for 4D printing. This review aims to present an overview of the current state of 3D/4D printing PLA composites with bio-derived reinforcements and highlight the recent progress and future opportunities. This comprehensive overview summarises the different forms of bio-derived reinforcements for PLA used in fused deposition modelling (FDM), factors influencing the resulting printed composites’ performance, and research gaps that need addressing. The current methods used before, during, and after printing to enhance the material properties and the impending need for innovative filament production and printing technologies have been brought to attention.",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "https://doi.org/10.1016/j.jcomc.2022.100271",
+    "oa_url": "https://doi.org/10.1016/j.jcomc.2022.100271"
+  },
+  {
+    "doi": "10.1016/j.eurpolymj.2024.113289",
+    "title": "Advancing sustainable shape memory polymers through 4D printing of polylactic acid-polybutylene adipate terephthalate blends",
+    "year": 2024,
+    "journal": "European Polymer Journal",
+    "volume": "216",
+    "issue": "",
+    "page": "113289",
+    "authors": [
+      {
+        "family": "Rahmatabadi",
+        "given": "Davood"
+      },
+      {
+        "family": "Khajepour",
+        "given": "Mahdi"
+      },
+      {
+        "family": "Bayati",
+        "given": "Abbas"
+      },
+      {
+        "family": "Mirasadi",
+        "given": "Kiandokht"
+      },
+      {
+        "family": "Amin Yousefi",
+        "given": "Mohammad"
+      },
+      {
+        "family": "Shegeft",
+        "given": "Atefeh"
+      },
+      {
+        "family": "Ghasemi",
+        "given": "Ismaeil"
+      },
+      {
+        "family": "Baniassadi",
+        "given": "Majid"
+      },
+      {
+        "family": "Abrinia",
+        "given": "Karen"
+      },
+      {
+        "family": "Bodaghi",
+        "given": "Mahdi"
+      },
+      {
+        "family": "Baghani",
+        "given": "Mostafa"
+      }
+    ],
+    "cited_by_count": 229,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 13,
+    "role": "sme",
+    "tags": [
+      "pla",
+      "process",
+      "sme"
+    ],
+    "abstract": "One of the major challenges in 4D printed Shape Memory Polymers (SMPs) is their slow response to thermal stimuli. Synthetic carbon fillers have been introduced to address this issue; however, their use comes with environmental concerns. On the other hand, Polylactic Acid (PLA) is commonly used for 3D/4D printing of SMPs, but it requires softening to achieve large deformations. This research paper introduces a sustainable solution through blending PLA with Polybutylene Adipate Terephthalate (PBAT) that not only addresses these challenges but also possesses environmental eco-friendliness due to PBAT’s high biodegradability rate. PBAT with weight percentages of 15 %, 30 %, and 45 % is utilized to soften PLA, and their composites are successfully 4D printed. Mechanical properties, shape memory effects, morphology, and thermal behaviors are comprehensively investigated. The results show that blending PLA with 45 % PBAT weight results in excellent features such as 220 % elongation and 93 % shape recovery in just a few seconds. The other two PLA-PBAT blends achieve complete shape recovery in less than 8 s. The PLA-PBAT contains 15 % PBAT, in addition to high strength (40 MPa), has 17 % elongation. This, coupled with the low melting temperature of PBAT, drives the high shape recovery rate. Scanning electron microscopy images finally confirm the high printability of all three blends, with the PLA-PBAT composite containing 30 % PBAT exhibiting the best quality in layer interfaces and the least porosity.",
+    "abstract_source": "openalex",
+    "oa_status": "hybrid",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.eurpolymj.2024.113289"
+  },
+  {
+    "doi": "10.1016/j.jmmm.2023.170425",
+    "title": "Simultaneous FDM 4D printing and magnetizing of iron-filled polylactic acid polymers",
+    "year": 2023,
+    "journal": "Journal of Magnetism and Magnetic Materials",
+    "volume": "568",
+    "issue": "",
+    "page": "170425",
+    "authors": [
+      {
+        "family": "Moradi",
+        "given": "Mahmoud"
+      },
+      {
+        "family": "Lalegani Dezaki",
+        "given": "Mohammadreza"
+      },
+      {
+        "family": "Kheyri",
+        "given": "Erfan"
+      },
+      {
+        "family": "Rasouli",
+        "given": "Seyyed Alireza"
+      },
+      {
+        "family": "Aghaee Attar",
+        "given": "Milad"
+      },
+      {
+        "family": "Bodaghi",
+        "given": "Mahdi"
+      }
+    ],
+    "cited_by_count": 46,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 13,
+    "role": "sme",
+    "tags": [
+      "pla",
+      "process",
+      "sme"
+    ],
+    "abstract": "4D printing magnetic structures with excellent strength activated with a low level of magnetic field are always desired but challenging. This work studies the influence of simultaneous magnetization on the magnetomechanical performance of 4D-printed active polymers. The main aim is to magnetise magnetic iron polylactic acid (PLA) material during 4D printing via fused deposition modelling (FDM) process. During the printing process, the magnetization of samples is performed in various magnetic field states. Specimens are printed in three states with two magnets around the printing area, magnets under the printing area, and without magnets, at three angles of 0, 45, and 90◦ to the applied magnetic field. Vibrating sample magnetometer (VSM), mechanical tests, and scanning electron microscope (SEM) are used to investigate the effects of the applied magnetic field on the magnetization with different printing conditions, mechanical properties of different printing angles, and the microstructure of printed samples. Results show that printed samples on the edge of the magnet are saturated in a higher specific magnetization compared to the printed samples with magnets around and without a magnetic field. The specific magnetization in the magnetic field in the direction of the sample deposition increases by 63.46% by applying a magnetic field. The strength increases 21.4% when a magnetic field is present, and the sample is printed at 0◦ angle along the tension direction. The printed sample has better mechanical properties when two magnets are used around the printing region rather than one under it, which is independent of the impact of the printing angle. Finally, the optimal printing mode for obtaining the appropriate magnetic and mechanical characteristics is 4D printing with magnets under the printing bed at 0◦ angle along the tension direction.",
+    "abstract_source": "openalex",
+    "oa_status": "hybrid",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.jmmm.2023.170425"
+  },
+  {
+    "doi": "10.1016/j.mfglet.2024.11.005",
+    "title": "Simultaneous 4D printing and In-Situ foaming for tailoring shape memory behaviors in polylactic acid foams",
+    "year": 2025,
+    "journal": "Manufacturing Letters",
+    "volume": "43",
+    "issue": "",
+    "page": "33-36",
+    "authors": [
+      {
+        "family": "Honari",
+        "given": "Pedram"
+      },
+      {
+        "family": "Rahmatabadi",
+        "given": "Davood"
+      },
+      {
+        "family": "Bayati",
+        "given": "Abbas"
+      },
+      {
+        "family": "Rassi",
+        "given": "Erfan"
+      },
+      {
+        "family": "Ghasemi",
+        "given": "Ismaeil"
+      },
+      {
+        "family": "Baniassadi",
+        "given": "Majid"
+      },
+      {
+        "family": "Bodaghi",
+        "given": "Mahdi"
+      },
+      {
+        "family": "Baghani",
+        "given": "Mostafa"
+      }
+    ],
+    "cited_by_count": 32,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 13,
+    "role": "sme",
+    "tags": [
+      "pla",
+      "process",
+      "sme"
+    ],
+    "abstract": "This study introduces an innovative 4D printing technique combined with in-situ foaming to enhance the shape memory properties of polylactic acid (PLA) foams. By melt mixing PLA with azodicarbonamide (AZO) below its decomposition temperature, followed by direct pellet printing, the research achieves uniform microporous structures and tailored shape memory behaviors. The findings demonstrate that higher AZO content improves shape fixity (∼96 %) but reduces shape recovery. Moreover, the programming temperature significantly influences performance, with hot programming enhancing shape fixity and cold programming boosting shape recovery. This novel approach offers potential applications in lightweight, thermally insulative, and shock-absorbing materials with programmable properties.",
+    "abstract_source": "openalex",
+    "oa_status": "hybrid",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.mfglet.2024.11.005"
+  },
+  {
+    "doi": "10.1016/j.polymertesting.2023.108105",
+    "title": "Compatibilised and toughened of PLA/PCL blends via modified-chitosan linking amorphous regions: 4D printing and shape memory processes",
+    "year": 2023,
+    "journal": "Polymer Testing",
+    "volume": "125",
+    "issue": "",
+    "page": "108105",
+    "authors": [
+      {
+        "family": "Song",
+        "given": "Minzimo"
+      },
+      {
+        "family": "Li",
+        "given": "Shenghua"
+      },
+      {
+        "family": "Zhu",
+        "given": "Guiyou"
+      },
+      {
+        "family": "Guo",
+        "given": "Jianwei"
+      }
+    ],
+    "cited_by_count": 23,
+    "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 13,
+    "role": "sme",
+    "tags": [
+      "pla",
+      "process",
+      "sme"
+    ],
+    "abstract": "It is valuable research to improve the compatibility and toughness of PLA/PCL blends while endowing them with shape memory & 4D printing capability. In this work, lactic acid/caprolactone-modified chitosan (mCS) was used to connect the amorphous region of PLA and PCL to achieve compatibilisation, toughening and 4D printing shape memory ability. The effects of different mCS additions on the morphology, crystalline behaviour, and thermal properties of PLA/PCL blends were observed to study the mechanism of compatibilisation and toughening. Adding 0.5 g mCS into 10 g PLA/PCL blends had the best compatibilisation and toughening effect. At the same time, the blends with this addition ratio had the best shape memory performance after 4D printing. The shape fixity and shape memory ratios of the 4D printing model were as high as 100% and 94.5%, respectively. This work provides a new way to fabricate biomedical devices and bionic components with 4D printing.",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.polymertesting.2023.108105"
+  },
+  {
+    "doi": "10.1016/j.polymertesting.2025.108802",
+    "title": "Shape memory recovery in polylactic acid and thermoplastic polyurethane bi-material metamaterials fabricated by additive manufacturing under fatigue testing",
+    "year": 2025,
+    "journal": "Polymer Testing",
+    "volume": "147",
+    "issue": "",
+    "page": "108802",
+    "authors": [
+      {
+        "family": "Fereydoonpour",
+        "given": "Farzad"
+      },
+      {
+        "family": "Dezianian",
+        "given": "Shokouh"
+      },
+      {
+        "family": "Azadi",
+        "given": "Mohammad"
+      }
+    ],
+    "cited_by_count": 12,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 13,
+    "role": "sme",
+    "tags": [
+      "pla",
+      "process",
+      "sme"
+    ],
+    "abstract": "4D printing is defined as 3D printing plus the time. In this way, by applying a type of stimulus to the part fabricated by the 3D printing method and deformed, the sample returns to its original shape over time. This study advances the field of additive manufacturing by enhancing the design and functionality of shape memory polymers , enabling smarter, more adaptable materials for applications in aerospace. It can be mentioned as folding wings, solar sails, and actuator parts. In this research, the characteristics of the shape memory of the parts printed using fused deposition modeling (FDM) under fatigue loading were discussed. The printed parts comprised two types of polylactic acid polymer (PLA) and thermoplastic polyurethane (TPU). Three different percentages of the material composition were considered PLA, PLA/25TPU, and PLA/50TPU. Initially, rotary bending fatigue test was performed at a frequency of 100 Hz, but the samples delaminated. As a result, a vibration simulation was conducted using Abaqus software. The results showed that the natural frequency of the samples was very close to 100 Hz. To avoid resonance, the tests were conducted at a frequency of 20 Hz to obtain their lifetimes. Then, the shape memory recovery was implemented under fatigue (cyclic) loading by applying the time and temperature stimuli. A statistical sensitivity analysis was also done for the obtained results. Finally, the fracture surface of the specimens was evaluated by field-emission scanning electron microscopy (FE-SEM). The results of the rotary bending fatigue test showed that the fatigue lifetime decreased with the increase in the TPU percentage. In addition, the results of shape memory properties illustrated that with the addition of 25 % of TPU, the rate of deformation increased by 40 %, on average. Moreover, it was concluded that the temperature had about 64 % more influence than the time on shape memory properties. In addition, fatigue (cyclic) loading was 137 % more effective than static (monotonic) loading. The results of the statistical analysis also demonstrated that the shape memory properties increased with the enhancement of the TPU percentage. The images of the fracture surface showed the separation of layers and cavities, which were the factors of failures. Beach marks indicating the failure under fatigue loadings were also seen.",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.polymertesting.2025.108802"
+  },
+  {
+    "doi": "10.1016/j.matdes.2025.114879",
+    "title": "Optimizing shape memory performance in 4D-printed PLA hinges: An integrated study on geometry and process parameter effects",
+    "year": 2025,
+    "journal": "Materials & Design",
+    "volume": "260",
+    "issue": "",
+    "page": "114879",
+    "authors": [
+      {
+        "family": "Huang",
+        "given": "Jiazhao"
+      },
+      {
+        "family": "Chen",
+        "given": "Pengyu"
+      },
+      {
+        "family": "Tham",
+        "given": "Chu Long"
+      },
+      {
+        "family": "Vellayappan",
+        "given": "Muthu Vignesh"
+      },
+      {
+        "family": "Goh",
+        "given": "Guo Dong"
+      },
+      {
+        "family": "Yang",
+        "given": "Jingyi"
+      },
+      {
+        "family": "Qi",
+        "given": "Xiaoying"
+      },
+      {
+        "family": "Rosen",
+        "given": "David William"
+      },
+      {
+        "family": "Sharon Nai",
+        "given": "Mui Ling"
+      }
+    ],
+    "cited_by_count": 10,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 13,
+    "role": "sme",
+    "tags": [
+      "pla",
+      "process",
+      "sme"
+    ],
+    "abstract": "• Optimized PLA hinge achieved 99.53 % recovery after first folding cycle. • Recovery ratio dropped to ∼25 % after 50 cycles at 65 °C. • Training temperature governs trade-off between actuation speed and lifespan. • Origami-inspired structure with optimized hinge design fully deployed within 8 s. 4D additive manufacturing (4D-AM) enables printed structures to undergo programmable deformations in response to external stimuli. However, the optimization of geometric and process parameters remains a key challenge in enhancing performance and reliability. This study investigates the shape memory behavior of foldable hinges made from polylactic acid (PLA) using fused deposition modeling (FDM), which are critical elements in deployable 4D structures. A Taguchi design of experiments was applied to examine the effects of hinge thickness, length, printing speed, and training temperature on the shape recovery ratio and durability. The optimal hinge configuration, with a thickness of 0.8 mm, length of 0.6 mm, printing speed of 50 mm/s, and training temperature of 65 °C, achieved an initial recovery ratio of 99.53 %. Hinges trained at higher temperatures between 75 and 85 °C exhibited faster recovery but reduced lifespan, indicating a trade-off between actuation speed and durability. An over-recovery exceeding 100 % was also observed, likely attributed to geometric nonlinearity and thermal effects near glass transition region. The optimized hinge design was successfully implemented in an origami-inspired deployable structure, achieving deployment within 8 s. These findings were expected to provide quantitative guidelines for balancing speed, fidelity, and lifespan in 4D-AM components for reconfigurable systems.",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.matdes.2025.114879"
+  },
+  {
+    "doi": "10.1016/j.polymer.2026.130199",
+    "title": "Analysis and characterization of influence of PLA printing parameters on 4D printing retention time under thermal stimulus",
+    "year": 2026,
+    "journal": "Polymer",
+    "volume": "358",
+    "issue": "",
+    "page": "130199",
+    "authors": [
+      {
+        "family": "Robsan Abebe",
+        "given": "A."
+      },
+      {
+        "family": "Lemu",
+        "given": "Hirpa G."
+      },
+      {
+        "family": "Palani",
+        "given": "I.A."
+      },
+      {
+        "family": "Mosisa",
+        "given": "Endalkachew G."
+      }
+    ],
+    "cited_by_count": 0,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 13,
+    "role": "sme",
+    "tags": [
+      "pla",
+      "process",
+      "sme"
+    ],
+    "abstract": "The precise recovery of 4D printed smart materials to their permanent shape requires effort and time due to limitations in post-printing characterization. Several studies have used matrices of different fillers and artifact designs to address this, but these approaches restrict the potential of smart morphology. This paper focuses on combining a preprogrammed model with characterization study of different 4D printed polylactic acid (PLA) materials under thermal stimuli that can address the brittleness, toughness, and rigidity of PLA. In parallel, the study pursues the influence of predesigned printing thickness parameters for a mechanical engine thermostat valve, used as a case study. The dynamic structural behavior of PLA was first examined using a predesigned model subjected to a time-dependent thermal stimulus. The samples were prepared from pure PLA classified as Tough black, Faster white and Creality blue PLA. Independent of filament color, the investigation was intended to clarify how a layer architecture constrains deformation magnitude and application range. Mechanical tests showed that the three PLA variants achieved a tensile strength of 33.48 MPa, 29.13 MPa, and 33.45 MPa, respectively while conventional PLA has an allowable tensile strength of 60 MPa. Differential Scanning Calorimetry (DSC) analysis revealed an endothermic peak of 9.09 J/g and an exothermic peak of 6.41 J/g. The thermal actuation tests demonstrated a shape recovery of 6 mm within 2 s under thermal stimulation, confirming thermally driven rapid deformation behavior. Scanning Electron Microscopy indicated that CR-PLA possessed the highest pores/void, followed by Tough PLA. However, optical microscopy conducted after DSC thermal cycling showed interlayer erosion, particularly in Faster PLA and Tough PLA, suggesting reduced interlayer bonding after heat exposure. Overall, Faster PLA showed the best interlayer adhesion and dynamic response without post-processing, whereas CR-PLA required post-printing adjustment due to increased rigidity.",
+    "abstract_source": "openalex",
+    "oa_status": "hybrid",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.polymer.2026.130199"
+  },
+  {
+    "doi": "10.1016/j.matdes.2026.117160",
+    "title": "Machine learning-driven multi-objective optimisation of shape-memory programming parameters in 4D-printed PLA",
+    "year": 2026,
+    "journal": "Materials & Design",
+    "volume": "271",
+    "issue": "",
+    "page": "117160",
+    "authors": [
+      {
+        "family": "Hacıoğlu",
+        "given": "Ayhan"
+      },
+      {
+        "family": "Eryildiz",
+        "given": "Meltem"
+      },
+      {
+        "family": "Ozkat",
+        "given": "Erkan Caner"
+      }
+    ],
+    "cited_by_count": 0,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 13,
+    "role": "sme",
+    "tags": [
+      "pla",
+      "process",
+      "sme"
+    ],
+    "abstract": "4D printing extends additive manufacturing by introducing time-dependent functionality through stimuli-responsive feedstocks such as shape-memory polymers (SMPs). In 4D-printed PLA, performance is governed by programming temperature, holding time, and recovery temperature, whose effects are reflected in recovery time, shape fixity ratio, and shape recovery ratio. This study combines a replicated 49-condition Latin-square design, machine-learning surrogate models, NSGA-II multi-objective optimisation, and experimental validation to identify a Pareto-optimal process window. Eight regression models were evaluated using leave-one-condition-out (LOCO) cross-validation with nested hyperparameter selection. The surrogates achieved LOCO R 2 values of 0.973 (RMSE 7.29 s) for recovery time, 0.874 (1.17 percentage points, pp) for the shape fixity ratio, and 0.975 (4.31 pp) for the shape recovery ratio. The shape fixity ratio increased from 90.2% to 98.8% between 50 and 55 °C before plateauing, with no significant additional effect of holding time. NSGA-II identified a knee point at 67.5 °C programming temperature, 2.0 min holding time, and 80.0 °C recovery temperature, predicting a recovery time of 3.14 s, shape fixity ratio of 99.72%, and shape recovery ratio of 91.70%. Across five validation points, maximum absolute deviations were 0.36 s, 0.75 pp, and 3.82 pp for recovery time, shape fixity ratio, and shape recovery ratio",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0264127526017363/pdf",
+    "oa_url": "https://www.sciencedirect.com/science/article/pii/S0264127526017363/pdf"
+  },
+  {
+    "doi": "10.1016/j.polymertesting.2026.109157",
+    "title": "Effect of blend ratios and printing parameters on PLA/TPU shape memory polymer performance",
+    "year": 2026,
+    "journal": "Polymer Testing",
+    "volume": "157",
+    "issue": "",
+    "page": "109157",
+    "authors": [
+      {
+        "family": "Hamidi",
+        "given": "Muhammad Nafiz"
+      },
+      {
+        "family": "Abdullah",
+        "given": "Jamaluddin"
+      },
+      {
+        "family": "Mahmud",
+        "given": "Abdus Samad"
+      },
+      {
+        "family": "Namazi",
+        "given": "Hamidreza"
+      }
+    ],
+    "cited_by_count": 6,
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 12,
+    "role": "sme",
+    "tags": [
+      "pla",
+      "sme"
+    ],
+    "abstract": "The advancement in soft robotics and intelligent systems has triggered interest in PLA/TPU shape memory polymer, due to their promising combined properties and the coupling effects that enable the development of flexible and dynamic robotic systems. Additive manufacturing (AM) printing parameters are known to directly affects shape memory performance of PLA/TPU. The effect of AM printing parameters on shape memory performance, commonly measured from the shape recovery ratio (Rr%) and shape fixity ratio (Rf%), has not be extensively studied and thus, not well understood. This study investigates the combined effects of TPU content and key printing parameters on both shape memory performances. Six blend ratios comprising pure PLA, and PLA/TPU ratio by weight of 90/10, 80/20, 70/30, 60/40 and 50/50 were selected and evaluated. Taguchi L9 orthogonal array experimental design was employed and four printing parameters which are printing speed, raster angle, layer thickness and printing temperature were selected. The results show that increasing TPU content reduces both Rr% and Rf% and pure PLA exhibits the highest value for both cases. Next, among the printing parameters, layer thickness and printing temperature were found to be most and least influential factors for Rr% respectively. In terms of Rf%, the parameters with highest and lowest impact are raster angle and printing speed respectively. However, ANOVA analysis results confirmed that the printing parameters had minimal and statistically insignificant effects on Rf%. Confirmation experiments using optimized parameters revealed that the specimens printed using the generated printing parameters can mainly enhance the Rr% values with the highest increment of 3.975%. This work provides insight and guidance on the influence of AM printing parameters on shape memory performance of PLA/TPU shape memory polymer, which is critical in robotics and intelligent systems.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.polymertesting.2026.109157"
+  },
+  {
+    "doi": "10.1016/j.compositesb.2026.113477",
+    "title": "Impact of hot water aging on the mechanical performance and shape memory behavior of 4D-printed flax fiber-reinforced PLA/PETG composites",
+    "year": 2026,
+    "journal": "Composites Part B: Engineering",
+    "volume": "315",
+    "issue": "",
+    "page": "113477",
+    "authors": [
+      {
+        "family": "Bouguermouh",
+        "given": "Karima"
+      },
+      {
+        "family": "Habibi",
+        "given": "Mohamed"
+      },
+      {
+        "family": "Laperrière",
+        "given": "Luc"
+      },
+      {
+        "family": "Monplaisir",
+        "given": "Daniel"
+      }
+    ],
+    "cited_by_count": 11,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 15,
+    "role": "sme",
+    "tags": [
+      "fiber",
+      "pla",
+      "process",
+      "sme"
+    ],
+    "abstract": "This work investigates how hot-water aging affects the mechanical and shape-memory properties of flax fibre-reinforced PLA/PETG composites for 4D printing. While flax reinforcement increases stiffness (Young’s modulus from 3.6 GPa to ≈ 4.0 GPa at 15 wt%), it also markedly increases water uptake because of fibre hygroscopicity: the neat PLA/PETG absorbed < 2 % at saturation, whereas the 15 wt% composite reached ≈ 20 % after 67 days. Aging at 45 °C caused pronounced stiffness and strength losses (up to 44 % and 69 %, respectively), consistent with SEM evidence of fibre swelling, interfacial debonding, matrix fragmentation and increased porosity. FTIR revealed intensified O–H bands and XRD revealed structural reorganization, including secondary recrystallization in PLA, corroborating hydrolytic degradation. Despite these degradation phenomena, the shape-memory functionality remained largely preserved, with high initial performance (fixity ≈ 100 % and recovery ≈ 100 % for the neat blend) and only a moderate reduction in shape fixity (S f ≈ 90 % at 15 wt%), accompanied by a slight decrease in shape recovery (S r ) after aging. These results demonstrate that shape-memory performance can be maintained even under severe hydrothermal exposure, addressing a critical knowledge gap in the functional durability of 4D-printed natural fiber–reinforced composites and providing a foundation for the development of more robust structures operating in humid environments. • First study linking hydrothermal aging to shape memory in flax/PLA-PETG 4D prints. • Novel FFF fabrication of bio-based 4D composites with 5–15 wt% flax reinforcement. • Hydrothermal aging (45 °C) caused up to 69 % strength loss, 44 % modulus loss. • Shape fixity stayed ≈ 90 % after aging; recovery ≈ 97 % for 15 wt% flax composites. • FTIR/XRD + SEM revealed hydrolysis, recrystallization and fiber–matrix debonding.",
+    "abstract_source": "openalex",
+    "oa_status": "hybrid",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.compositesb.2026.113477"
+  },
+  {
+    "doi": "10.1016/j.jmbbm.2024.106719",
+    "title": "4D printing and optimization of biocompatible poly lactic acid/poly methyl methacrylate blends for enhanced shape memory and mechanical properties",
+    "year": 2024,
+    "journal": "Journal of the Mechanical Behavior of Biomedical Materials",
+    "volume": "160",
+    "issue": "",
+    "page": "106719",
+    "authors": [
+      {
+        "family": "Doostmohammadi",
+        "given": "Hossein"
+      },
+      {
+        "family": "Kashmarizad",
+        "given": "Kamyab"
+      },
+      {
+        "family": "Baniassadi",
+        "given": "Majid"
+      },
+      {
+        "family": "Bodaghi",
+        "given": "Mahdi"
+      },
+      {
+        "family": "Baghani",
+        "given": "Mostafa"
+      }
+    ],
+    "cited_by_count": 24,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 13,
+    "role": "sme",
+    "tags": [
+      "pla",
+      "process",
+      "sme"
+    ],
+    "abstract": "This study introduces a novel approach to 4D printing of biocompatible Poly lactic acid (PLA)/poly methyl methacrylate (PMMA) blends using Artificial Neural Network (ANN) and Response Surface Methodology (RSM). The goal is to optimize PMMA content, nozzle temperature, raster angle, and printing speed to enhance shape memory properties and mechanical strength. The materials, PLA and PMMA, are melt-blended and 4D printed using a pellet-based 3D printer. Differential Scanning Calorimetry (DSC) and Dynamic Mechanical Thermal Analysis (DMTA) assess the thermal behavior and compatibility of the blends. The ANN model demonstrates superior prediction accuracy and generalization capability compared to the RSM model. Experimental results show a shape recovery ratio of 100% and an ultimate tensile strength of 65.2 MPa, significantly higher than pure PLA. A bio-screw, 4D printed with optimized parameters, demonstrates excellent mechanical properties and shape memory behavior, suitable for biomedical applications such as orthopaedics and dental implants. This research presents an innovative method for 4D printing PLA/PMMA blends, highlighting their potential in creating advanced, high-performance biocompatible materials for medical use. • First-time 4D printing of PLA/PMMA blends using pellet-based 3D printing technology. • Optimized PLA/PMMA blends show superior shape memory and mechanical properties. • ANN model outperforms RSM in predicting optimal 3D printing parameters. • PLA/PMMA blend with 40/60% ratio achieves 65.2 MPa tensile strength, 17% higher than PLA. • 3D printed bio-screw demonstrates excellent printability and biomedical applications.",
+    "abstract_source": "openalex",
+    "oa_status": "hybrid",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.jmbbm.2024.106719"
+  },
+  {
+    "doi": "10.1016/j.mtcomm.2026.115417",
+    "title": "3D/4D printing of PETG-PLA blends: Mechanical, thermal, morphological and shape memory properties",
+    "year": 2026,
+    "journal": "Materials Today Communications",
+    "volume": "53",
+    "issue": "",
+    "page": "115417",
+    "authors": [
+      {
+        "family": "Aljanabi",
+        "given": "Ali A.T."
+      },
+      {
+        "family": "Rahmatabadi",
+        "given": "Davood"
+      },
+      {
+        "family": "Baghani",
+        "given": "Mostafa"
+      },
+      {
+        "family": "Baniassadi",
+        "given": "Majid"
+      },
+      {
+        "family": "Riasi",
+        "given": "Alireza"
+      }
+    ],
+    "cited_by_count": 10,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 13,
+    "role": "sme",
+    "tags": [
+      "pla",
+      "process",
+      "sme"
+    ],
+    "abstract": "",
+    "abstract_source": "",
+    "oa_status": "hybrid",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.mtcomm.2026.115417"
+  },
+  {
+    "doi": "10.1016/j.jmrt.2026.07.320",
+    "title": "Comprehensive study of mechanical, structural, magnetic, and biological properties of magnetic PLA composites for 3D and 4D printing applications",
+    "year": 2026,
+    "journal": "Journal of Materials Research and Technology",
+    "volume": "44",
+    "issue": "",
+    "page": "3386-3397",
+    "authors": [
+      {
+        "family": "Kardos",
+        "given": "Kinga"
+      },
+      {
+        "family": "Paari-Molnar",
+        "given": "Emese"
+      },
+      {
+        "family": "Told",
+        "given": "Roland"
+      },
+      {
+        "family": "Abdel-Fattah Qa'dan",
+        "given": "Wa'el Nafith"
+      },
+      {
+        "family": "Szabo",
+        "given": "Peter"
+      },
+      {
+        "family": "Steinerbrunner-Nagy",
+        "given": "Alexandra"
+      },
+      {
+        "family": "Schlegl",
+        "given": "Adam Tibor"
+      },
+      {
+        "family": "Pongracz",
+        "given": "Judit E."
+      },
+      {
+        "family": "Maroti",
+        "given": "Peter"
+      }
+    ],
+    "cited_by_count": 1,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 13,
+    "role": "sme",
+    "tags": [
+      "pla",
+      "process",
+      "sme"
+    ],
+    "abstract": "Metal composites containing magnetic metals are popular materials for 3D printing using Fused Filament Fabrication (FFF) technology. The present study investigates the mechanical, structural, thermal, biological, and magnetic properties of three commercially available magnetic polylactic acid (PLA) composites and pure PLA 3D printed with FFF technology. In this research, a comprehensive array of mechanical testing methodologies was performed including tensile, flexural, Charpy impact and Shore D hardness tests. In addition, scanning electron microscopy imaging, electric resistance, magnetic deflection measurements and thermal conductivity measurements were conducted. Cytotoxicity was measured using the A549 cell viability assay. The results of the mechanical tests showed that the lowest flexural properties were measured in the case of ColorFabb SteelFill (flexural strength: 34.1 MPa ± 0.68 MPa and strain at maximal flexural stress: 1.46% ± 0.06%). It also had the lowest tensile modulus (19.2 MPa ± 0.24 MPa). None of the composites investigated had a cytotoxic effect in short-term contact, and interestingly none of them was electrically conductive. Furthermore, two of the composites (ColorFabb SteelFill and ProtoPasta Iron-filled) have deflected under the influence of homogenous magnetic field. These findings suggest that the examined materials have potential for external biomedical application, along with the possibility of their use in 4D printing.",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2238785426020521/pdf",
+    "oa_url": "https://www.sciencedirect.com/science/article/pii/S2238785426020521/pdf"
+  },
+  {
+    "doi": "10.1016/j.mtcomm.2026.115266",
+    "title": "Cyclic loading and thermal activation on the shape memory performance of 3D-printed PLA cellular structures",
+    "year": 2026,
+    "journal": "Materials Today Communications",
+    "volume": "53",
+    "issue": "",
+    "page": "115266",
+    "authors": [
+      {
+        "family": "Desole",
+        "given": "Maria Pia"
+      },
+      {
+        "family": "Gisario",
+        "given": "Annamaria"
+      },
+      {
+        "family": "Barletta",
+        "given": "Massimiliano"
+      }
+    ],
+    "cited_by_count": 0,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 13,
+    "role": "sme",
+    "tags": [
+      "pla",
+      "process",
+      "sme"
+    ],
+    "abstract": "This study investigates the cyclic behavior and thermally activated recovery of FDM-printed PLA cellular structures, with a focus on the role of activation strategy in controlling short-term cyclic response and environmental impact. Seven architectures were initially screened, and Leaf_Spring and NS_Spring were selected based on energy absorption and structural integrity. These were tested over three loading–recovery cycles using hot water and localized hot air, with performance evaluated through Specific Energy Absorption (SEA). Results show that localized activation improves consistency of cyclic response: hot-air-treated samples exhibit a 9–11% increase in SEA across cycles compared to hot-water activation, while reducing geometric degradation induced by hydrostatic effects. For the Leaf_Spring structure, maximum force decreases from ~200–210 N (cycle I) to ~120–130 N (cycle III) yet maintains significantly higher energy absorption (~175 mJ/g initial value) than other configurations. In contrast, NS_Spring shows lower initial strength (~60 N) but smaller performance decay (~32% vs ~42%). Localized heating improves performance by preserving load-bearing regions and limiting damage through controlled softening. Life cycle assessment (LCA) shows reduced Human Health impact due to the smaller heated volume (~14%), with trade-offs depending on energy efficiency and scale. Overall, the results demonstrate that thermal activation mode, structural architecture, and relative density act as coupled design variables governing short-term cyclic behaviour and sustainability in 4D-printed shape memory metamaterials. These findings provide quantitative preliminary design insights for the design of reusable and energy-efficient lattice structures.",
+    "abstract_source": "openalex",
+    "oa_status": "hybrid",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.mtcomm.2026.115266"
+  },
+  {
+    "doi": "10.1016/j.coco.2026.102778",
+    "title": "Multifunctional PLA/E-GMA/CB conductive polymer composites exhibiting enhanced toughness, electrically triggered shape memory, and EMI shielding",
+    "year": 2026,
+    "journal": "Composites Communications",
+    "volume": "64",
+    "issue": "",
+    "page": "102778",
+    "authors": [
+      {
+        "family": "Dantas",
+        "given": "Hennyk Gabriel Macario"
+      },
+      {
+        "family": "Sousa",
+        "given": "Fabricio Ravell Silva"
+      },
+      {
+        "family": "Rodrigues",
+        "given": "Túlio Arruda Câmara Suassuna"
+      },
+      {
+        "family": "Bonfim",
+        "given": "Ryan Lucas Pereira"
+      },
+      {
+        "family": "da Cunha",
+        "given": "Rafael Braga"
+      },
+      {
+        "family": "Cavalcanti",
+        "given": "Shirley Nóbrega"
+      },
+      {
+        "family": "Lira",
+        "given": "Marcela Cristine de Alencar"
+      },
+      {
+        "family": "de Sousa Filho",
+        "given": "Válmer Azevedo"
+      },
+      {
+        "family": "de Araújo",
+        "given": "Jaini Miscilene"
+      },
+      {
+        "family": "Pê",
+        "given": "Filipe Rodrigues"
+      },
+      {
+        "family": "Agrawal",
+        "given": "Pankaj"
+      },
+      {
+        "family": "Brito",
+        "given": "Gustavo de Figueiredo"
+      },
+      {
+        "family": "Mélo",
+        "given": "Tomás Jeferson Alves de"
+      }
+    ],
+    "cited_by_count": 9,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 12,
+    "role": "sme",
+    "tags": [
+      "pla",
+      "sme"
+    ],
+    "abstract": "Conductive polymer composites (CPCs) capable of combining electrical functionality with high impact resistance remain relatively unexplored, since the incorporation of conductive fillers typically reduces the toughness of polymeric matrices. Here, we report multifunctional polylactic acid/ethylene-glycidyl methacrylate/carbon black (PLA/E-GMA/CB) composites in which a selectively localized CB network within the E-GMA phase simultaneously enhances toughness, imparts tunable electrical conductivity, and enables electrically triggered shape memory response. The co-continuous PLA/E-GMA morphology was preserved across all CB loadings, while filler confinement in the elastomer-rich domains promoted efficient stress dissipation and reduced the percolation threshold. Impact strength increased from 150 J/m (blend) to 450 J/m at 12 phr CB, without compromising modulus. Electrical conductivity rose by seven orders of magnitude, reaching ∼10 −5 S/cm, sufficient for Joule-heating-induced actuation and powering LEDs. All formulations exhibited nearly complete shape fixity (∼100%) and recovery ratios above 78% under thermal activation, while electrically triggered specimens achieved recovery levels of approximately 90%. Moreover, the composites delivered electromagnetic interference (EMI) shielding effectiveness (SE) up to 25 dB in the 3.25–6 GHz band. These results demonstrate a synergistic design strategy for developing composites that integrate toughness, electrical functionality, shape memory activation, and EMI protection, enabling emerging applications in smart devices.",
+    "abstract_source": "openalex",
+    "oa_status": "hybrid",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.coco.2026.102778"
+  },
+  {
+    "doi": "10.1016/j.jmrt.2021.12.023",
+    "title": "Fatigue and impact properties of 3D printed PLA reinforced with kenaf particles",
+    "year": 2022,
+    "journal": "Journal of Materials Research and Technology",
+    "volume": "16",
+    "issue": "",
+    "page": "461-470",
+    "authors": [
+      {
+        "family": "Shahar",
+        "given": "Farah Syazwani"
+      },
+      {
+        "family": "Hameed Sultan",
+        "given": "Mohamed Thariq"
+      },
+      {
+        "family": "Safri",
+        "given": "Syafiqah Nur Azrie"
+      },
+      {
+        "family": "Jawaid",
+        "given": "Mohammad"
+      },
+      {
+        "family": "Abu Talib",
+        "given": "Abd. Rahim"
+      },
+      {
+        "family": "Basri",
+        "given": "Adi Azriff"
+      },
+      {
+        "family": "Md Shah",
+        "given": "Ain Umaira"
+      }
+    ],
+    "cited_by_count": 132,
+    "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "The increasing demand on the production of ankle-foot orthosis (AFO) leads to the implementation of 3D Printing technology into the manufacturing process, due to its fast production, good design optimization, and cost-effectiveness. Now, several research works were made to implement natural composite as the 3D Printer filament to increase the sustainability of the material, as well as reduce the AFO's weight and raw material cost. However, since this AFO will be used on a daily basis, it is significant to understand the weight, fatigue and impact strength of the orthosis since they affect the user's safety. The aim of this paper is to investigate the density, fatigue and impact strength of the printed kenaf/PLA composite for its possible usability for AFO. The filler within the kenaf/PLA composite was varied at 3, 5 and 7 wt. % and extruded to obtain the composite filament, which was used with 3D printer to print out the specimens used for density, impact, and fatigue test. As the amount of fillers increased, the density and impact resistance decreases while fatigue life increases. In conclusion, the results found in the density and fatigue tests show a positive perspective towards its usability for AFO.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2238785421014666/pdf",
+    "oa_url": "https://www.sciencedirect.com/science/article/pii/S2238785421014666/pdf"
+  },
+  {
+    "doi": "10.1016/j.jmrt.2024.01.267",
+    "title": "Development of PLA/recycled-desized carbon fiber composites for 3D printing: Thermal, mechanical, and morphological analyses",
+    "year": 2024,
+    "journal": "Journal of Materials Research and Technology",
+    "volume": "29",
+    "issue": "",
+    "page": "2768-2780",
+    "authors": [
+      {
+        "family": "Saleh",
+        "given": "Mustafa"
+      },
+      {
+        "family": "Anwar",
+        "given": "Saqib"
+      },
+      {
+        "family": "AlFaify",
+        "given": "Abdullah Yahia"
+      },
+      {
+        "family": "Al-Ahmari",
+        "given": "Abdulrahman M."
+      },
+      {
+        "family": "Abd Elgawad",
+        "given": "Abd Elaty E."
+      }
+    ],
+    "cited_by_count": 53,
+    "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "This study investigated the incorporation of desized short recycled carbon fiber (rCF) into polylactic acid (PLA) matrix for fused deposition modeling (FDM) printing. Composite filaments were produced by ball milling mixing and then melt extrusion, unlike the majority of the existing studies, which employed multi-cycle compounding/extrusion. Composite filaments with different loadings of rCF were produced. Tensile testing was carried out to evaluate the influence of rCF on mechanical properties. The morphology of the extruded filaments, as-printed, and fractured samples was assessed through scanning electron microscopy (SEM). The thermal properties of the produced filaments were also evaluated using differential scanning calorimetry (DSC) and thermogravimetric analysis (TGA). The SEM images demonstrated a homogeneous distribution of the rCF within the PLA matrix, with good adhesion between PLA and desized rCF. DSC showed lesser thermal alteration in the pure PLA filaments compared to PLA pellets due to the currently used mixing methodology. TGA results showed enhanced thermal stability with adding rCF into PLA. Incorporation of rCF increased tensile modulus up to 58.30 % compared to pure PLA. The tensile modulus of the PLA/15 %rCF composite was higher than that of the commercially available PLA/15 %vCF composite (19.64 % enhancement) while showing similar strength. In fractured specimens, the intra-layer failure mechanism was dominated, while no significant interlayer separation was observed. The study demonstrates the potential of employing eco-friendly desized rCF as a substitute for vCF in producing fiber-reinforced PLA for FDM printing.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.jmrt.2024.01.267"
+  },
+  {
+    "doi": "10.1016/j.jmrt.2022.08.125",
+    "title": "Preparation of graphene-modified PLA/PBAT composite monofilaments and its degradation behavior",
+    "year": 2022,
+    "journal": "Journal of Materials Research and Technology",
+    "volume": "20",
+    "issue": "",
+    "page": "3784-3795",
+    "authors": [
+      {
+        "family": "Liu",
+        "given": "Wenying"
+      },
+      {
+        "family": "Zhang",
+        "given": "Sitong"
+      },
+      {
+        "family": "Yang",
+        "given": "Kaijie"
+      },
+      {
+        "family": "Yu",
+        "given": "Wenwen"
+      },
+      {
+        "family": "Shi",
+        "given": "Jiangao"
+      },
+      {
+        "family": "Zheng",
+        "given": "Qiang"
+      }
+    ],
+    "cited_by_count": 48,
+    "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "The graphene-modified composite poly(lactic acid) (PLA)/poly(butylene adipate-co-terephthalate) (PBAT) monofilaments were prepared by melt spinning. The effects of graphene (GR) contents on the microstructural, thermal, dynamic mechanical, and mechanical properties and the degradation behavior of the graphene-modified composite PLA/PBAT monofilaments were studied. Scanning electron microscopy (SEM) confirmed the improved compatibility of the PLA particles in the PBAT matrix, while the transmission electron microscopy (TEM) demonstrated the size and morphology of the GR distribution in the polymer. As the GR content increased, dynamic mechanical analysis (DMA) clarified a decrease of the difference of glass transition temperature (Tg) between PLA and PBAT. In addition, the mechanical properties of the composite monofilaments were significantly enhanced at a GR content of 0.2 wt%. Weight loss rate of the composite monofilaments under soil and sea degradation conditions were obviously related to the GR content.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.jmrt.2022.08.125"
+  },
+  {
+    "doi": "10.1016/j.rineng.2025.104472",
+    "title": "Enhanced mechanical properties of CNT/Graphene reinforced PLA-based composites fabricated via fused deposition modelling",
+    "year": 2025,
+    "journal": "Results in Engineering",
+    "volume": "25",
+    "issue": "",
+    "page": "104472",
+    "authors": [
+      {
+        "family": "Kumar",
+        "given": "G S Pradeep"
+      },
+      {
+        "family": "Keshavamurthy",
+        "given": "R"
+      },
+      {
+        "family": "Panigrahi",
+        "given": "Sajna P"
+      },
+      {
+        "family": "Thomas",
+        "given": "Shijo"
+      },
+      {
+        "family": "R",
+        "given": "Thejaraju"
+      },
+      {
+        "family": "Hebbar",
+        "given": "Gurumoorthy S"
+      },
+      {
+        "family": "Prasad",
+        "given": "C. Durga"
+      },
+      {
+        "family": "Aden",
+        "given": "Adem Abdirkadir"
+      }
+    ],
+    "cited_by_count": 46,
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "This study addresses the mechanical properties of polylactic acid (PLA) composite materials reinforced by CNTs and graphene, produced using the Fused Deposition Modeling process. The collaborative impact of graphene and CNTs upon the primary mechanical attributes including UTS, yield strength, modulus of elasticity, and impact resistance has been investigated. Three distinct CNT's weight percentages of 0.5, 1, and 1.5 have been fabricated under constant graphene content at 0.5 wt%. These findings revealed that the UTS of pure PLA were 28 MPa, whereas for the composite with 1.5 wt% CNT and 0.5 wt% graphene, it was raised to 48 MPa. From 2.6 GPa to 4 GPa the young's modulus enhancement is seen and the yield strength enhancement is seen up to 28 MPa for the composite from 20 MPa of pure PLA. The impact strength was greatly enhanced from 1.2 J for pure PLA to as high as 4 J for the composite comprising 1.5 wt percentage CNT and 0.5 wt percentage graphene.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.rineng.2025.104472"
+  },
+  {
+    "doi": "10.1016/j.jmrt.2024.10.082",
+    "title": "Recyclable hemp hurd fibre-reinforced PLA composites for 3D printing",
+    "year": 2024,
+    "journal": "Journal of Materials Research and Technology",
+    "volume": "33",
+    "issue": "",
+    "page": "4439-4447",
+    "authors": [
+      {
+        "family": "Beg",
+        "given": "M.D.H."
+      },
+      {
+        "family": "Pickering",
+        "given": "K.L."
+      },
+      {
+        "family": "Akindoyo",
+        "given": "John O."
+      },
+      {
+        "family": "Gauss",
+        "given": "C."
+      }
+    ],
+    "cited_by_count": 32,
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "In this study, 3D printing filaments were produced from hemp hurd fibre-reinforced polylactide (PLA) composites. Hemp hurd microfibres were obtained through alkaline digestion followed by a bleaching treatment and were used to produce PLA-based composites with 20–40 wt% fibre content for fused deposition modelling. Tensile testing of 3D printed composites revealed a gradual increase of Young's modulus with the addition of fibres, reaching a maximum of 7.1 GPa for the 40 wt% composite - a two-fold increase to neat PLA. However, tensile strength was only improved for the 20 wt% formulation, with an increase of 8% in comparison with neat PLA. Nevertheless, the thermo-mechanical properties of the composites were significantly enhanced with the addition of fibres. In addition, physical objects were printed from the recycled filaments to assess their recyclability and printability. It was found that the recycled filaments maintained comparable mechanical properties and printability after three recycling cycles.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.jmrt.2024.10.082"
+  },
+  {
+    "doi": "10.1016/j.rineng.2024.103023",
+    "title": "Compressive and bending properties of 3D-printed wood/PLA composites with Re-entrant honeycomb core",
+    "year": 2024,
+    "journal": "Results in Engineering",
+    "volume": "24",
+    "issue": "",
+    "page": "103023",
+    "authors": [
+      {
+        "family": "Faidallah",
+        "given": "Rawabe Fatima"
+      },
+      {
+        "family": "Abd-El Nabi",
+        "given": "Ahmed Moustafa"
+      },
+      {
+        "family": "Hanon",
+        "given": "Muammel M."
+      },
+      {
+        "family": "Szakál",
+        "given": "Zoltán"
+      },
+      {
+        "family": "Oldal",
+        "given": "István"
+      }
+    ],
+    "cited_by_count": 26,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "This study investigates the mechanical behavior of sandwich structures comprising a re-entrant honeycomb core structure created using wood/polylactic acid (PLA) filaments via fused deposition modeling (FDM) technology. The sandwich structures were manufactured with different face layer thicknesses (0 mm, 0.8 mm, and 1.6 mm) and various core topologies. Material characterizations included bending tests, compressive tests, and finite element analysis (FEA) to identify stress concentration areas. In-plane and out-of-plane re-entrant honeycomb core structure specimens were tested to examine the bending properties. In addition, flatwise and edgewise compressive tests were performed to investigate the structures' compressive properties. Furthermore, the modulus of elasticity for each specimen was determined using the finite element technique (FEM). The results reveal that increasing the thickness of the face layer significantly enhances the structure's resistance to bending forces. Furthermore, specimens with an in-plane orientation demonstrated better bending strength compared to those with an out-of-plane orientation due to increased material underloading. In flatwise compressive tests, specimens without a face layer exhibited the highest strength, attributed to their greater displacement. In contrast, edgewise compressive tests showed significant buckling behavior of the face sheet, the maximum stress increased proportionally with the thickness of the face layer, reaching its peak at a skin thickness of 1.6 mm. The findings are validated by ANSYS analysis, which closely mirrors the experimental results, providing insight into flexural modulus, modulus of elasticity, and stress concentration. These findings indicate that architected core structures could be efficiently utilized to improve bending/compressive characteristics and failure mechanisms, providing valuable insights into the mechanical response of sandwich structures for different industrial applications.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.rineng.2024.103023"
+  },
+  {
+    "doi": "10.1016/j.jcomc.2024.100552",
+    "title": "Residual stiffness and strength analysis of fatigue behavior in a 3D-printed honeycomb structure of continuous glass fiber-reinforced polylactic acid (PLA) composite",
+    "year": 2025,
+    "journal": "Composites Part C: Open Access",
+    "volume": "16",
+    "issue": "",
+    "page": "100552",
+    "authors": [
+      {
+        "family": "Gharehbaghi",
+        "given": "Hussain"
+      },
+      {
+        "family": "Shojaei",
+        "given": "AmirMohammad"
+      },
+      {
+        "family": "Sadeghzadeh",
+        "given": "Mohammad"
+      },
+      {
+        "family": "Farrokhabadi",
+        "given": "Amin"
+      }
+    ],
+    "cited_by_count": 16,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "This study investigates the fatigue behavior of composite honeycomb structures fabricated using the fused filament fabrication (FFF) technique with a polylactic acid (PLA) matrix and continuous glass fiber reinforcement. Fatigue testing was conducted at stress levels of 55 %, 65 %, and 75 % of the ultimate tensile strength (UTS) to develop S-N curves. All samples were fatigue tested in cyclic tension with a load ratio of R = 0.05. Additionally, the residual stiffness and residual strength of the honeycombs were evaluated at 30 %, 60 %, and 90 % of their average fatigue life. Results indicate that incorporating continuous glass fibers significantly enhances the fatigue life of the PLA honeycomb structures under cyclic tension loading. The fracture surfaces of the specimens were analyzed using scanning electron microscopy (SEM), revealing failure modes similar to those of traditionally manufactured composite honeycombs. The study underscores the potential of FFF in producing engineered composite honeycombs with superior fatigue properties, making them suitable for various high-load applications. The findings also highlight the importance of understanding the residual mechanical properties to predict the long-term performance and reliability of these materials in practical applications.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.jcomc.2024.100552"
+  },
+  {
+    "doi": "10.1016/j.jcomc.2024.100532",
+    "title": "The acoustic properties of FDM printed wood/PLA-based composites",
+    "year": 2024,
+    "journal": "Composites Part C: Open Access",
+    "volume": "15",
+    "issue": "",
+    "page": "100532",
+    "authors": [
+      {
+        "family": "Vigneshwaran",
+        "given": "K."
+      },
+      {
+        "family": "Venkateshwaran",
+        "given": "N."
+      },
+      {
+        "family": "Shanthi",
+        "given": "R."
+      },
+      {
+        "family": "Kannan",
+        "given": "Gokul"
+      },
+      {
+        "family": "Kumar",
+        "given": "B.Rajesh"
+      },
+      {
+        "family": "Shanmugam",
+        "given": "Vigneshwaran"
+      },
+      {
+        "family": "Das",
+        "given": "Oisik"
+      }
+    ],
+    "cited_by_count": 14,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "The acoustic properties of the Fused Deposition Modelling (FDM) printed PLA wood composite was investigated. Initially tensile and flexural of wood PLA composite was studied with respect to varying layer thickness (0.15 mm, 0.20 mm, and 0.30 mm), infill density (30 %, 60 %, and 90 %), and pattern (Layer, Triangle, and Hexagon). The outcomes demonstrated that the specimen produced with a hexagonal pattern, 90% infill density, and 0.2 mm layer thickness had the highest tensile (16 MPa) and flexural strength (16 MPa). Utilizing this optimized parameter, micro-perforated panels were printed and acoustic properties were studied. Five specimens with a 3 mm thickness, various perforation diameters (5 mm, 4 mm, and 3 mm), and architecturally tapered perforations were fabricated. Using the impedance tube approach, the sound transmission loss and sound absorption coefficients were measured. The findings indicate that, in comparison to all the printed specimens, tapered type perforation with an exterior diameter of 5 mm and an internal diameter of 4.7 mm showed highest sound absorption coefficient of 0.60 Hz. A viscous loss is obtained by its convergent hole diameter reduction, which results in sound attenuations and is easily absorbed in the micro-perforated panel. Similar to this, the specimen printed with smaller perforation diameters (3 mm) had a high sound transmission loss of 79 dB. The small diameter of the perforations prevented the passage of sound waves. The current study is anticipated to lay the groundwork for extensive future research on these classes of materials, potentially serving as a catalyst for advancements in FDM based polymeric materials research and development.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.jcomc.2024.100532"
+  },
+  {
+    "doi": "10.1016/j.polymertesting.2023.108270",
+    "title": "Accelerated ageing of 3D printed water purification filters based on PLA reinforced with green nanofibers",
+    "year": 2023,
+    "journal": "Polymer Testing",
+    "volume": "129",
+    "issue": "",
+    "page": "108270",
+    "authors": [
+      {
+        "family": "Fijoł",
+        "given": "Natalia"
+      },
+      {
+        "family": "Mathew",
+        "given": "Aji P."
+      }
+    ],
+    "cited_by_count": 13,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "This study investigates the ageing behavior of polylactic acid (PLA) and PLA-based biocomposites reinforced with either 2,2,6,6-tetramethylpiperidine 1-oxyl radical (TEMPO) - oxidized cellulose nanofibers (TCNF) or chitin nanofibers (ChNF) in water. Fused deposition modeling (FDM) was used to create water filters, which underwent aging tests at various temperatures over 19 weeks. Thermomechanical results show that while the addition of TCNF and ChNF improves the mechanical performance of PLA-based filters in dry conditions, it has the opposite effect after exposure to water. The impact of prolonged water exposure on Young's modulus and toughness was more significant in biocomposites than in unmodified PLA filters. The TCNF/PLA and ChNF/PLA filters saw a substantial ∼10 °C drop in glass transition temperature (Tg) after 3 weeks, while pure PLA remained nearly unaffected for up to 7 weeks. The mechanical tests allowed to estimate the service life of the 3D printed filters using the Arrhenius model. It was shown that the TCNF/PLA and ChNF/PLA filters can be utilized at room temperature water for up to 8 and 5 months, respectively, until they lose 50 % of their initial ability to resist deformation. In the same conditions, PLA filters can serve for up to 3.5 years. In conclusion, this study highlights the importance of considering the degradation behaviour of biocomposites when developing sustainable materials for water treatment applications.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.polymertesting.2023.108270"
+  },
+  {
+    "doi": "10.1016/j.jmrt.2025.04.075",
+    "title": "Effect of polydopamine coating on the mechanical, thermal, and morphological properties of recycled PLA/kenaf fiber composites in fused deposition modelling",
+    "year": 2025,
+    "journal": "Journal of Materials Research and Technology",
+    "volume": "36",
+    "issue": "",
+    "page": "4464-4475",
+    "authors": [
+      {
+        "family": "Hamat",
+        "given": "Sanusi"
+      },
+      {
+        "family": "Ishak",
+        "given": "Mohamad Ridzwan"
+      },
+      {
+        "family": "Salit",
+        "given": "Mohd Sapuan"
+      },
+      {
+        "family": "Yidris",
+        "given": "Noorfaizal"
+      },
+      {
+        "family": "Showkat Ali",
+        "given": "Syamir Alihan"
+      },
+      {
+        "family": "Hussin",
+        "given": "Mohd Sabri"
+      }
+    ],
+    "cited_by_count": 13,
+    "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "This study examines the impact of self-polymerized polydopamine (PDA) coating on the mechanical, rheological, and microstructural properties of recycled polylactic acid (rPLA)/kenaf fiber (KF) composites fabricated via Fused Deposition Modeling (FDM). Biodegradable filaments were produced by reinforcing rPLA with 5–20 wt% bast kenaf fibers and coating them with dopamine prior to melt compounding. Mechanical tests (tensile, flexural, and compression) revealed that PDA treatment substantially enhances fiber–matrix adhesion, leading to significant improvements in tensile yield stress (up to 21.92 MPa) and ultimate tensile strength (44.5 MPa), far exceeding uncoated rPLA (14.42 MPa and 18.6 MPa, respectively). Flexural strength peaked at 54.7 MPa for the 5 wt% composite, while 20 wt% kenaf markedly boosted compression strength to 65.4 MPa roughly 74 % above neat rPLA. Rheological measurements indicated that moderate fiber loadings (≤10 wt%) and PDA coating stabilize melt flow, minimizing clogging risks and supporting uniform extrusion. By contrast, higher fiber contents induced particle agglomeration and viscous instabilities, complicating FDM processability. Microscopic analyses verified that PDA-mediated bonding reduces crack propagation, despite increased porosity from higher kenaf additions. Overall, this bioinspired surface modification strategy yields sustainable rPLA-based composites with notably enhanced mechanical and favorable rheological behavior, highlighting promising applications in 3D printing and related industries.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.jmrt.2025.04.075"
+  },
+  {
+    "doi": "10.1016/j.jmrt.2023.09.215",
+    "title": "Thermomechanical properties of coated PLA-3D-printed orthopedic plate with PCL/Akermanite nano-fibers: Experimental procedure and AI optimization",
+    "year": 2023,
+    "journal": "Journal of Materials Research and Technology",
+    "volume": "27",
+    "issue": "",
+    "page": "1307-1316",
+    "authors": [
+      {
+        "family": "Zhang",
+        "given": "Xiaohui"
+      },
+      {
+        "family": "Malekahmadi",
+        "given": "O."
+      },
+      {
+        "family": "Mohammad Sajadi",
+        "given": "S."
+      },
+      {
+        "family": "Li",
+        "given": "Z."
+      },
+      {
+        "family": "Abu-Hamdeh",
+        "given": "Nidal H."
+      },
+      {
+        "family": "Rawa",
+        "given": "Muhyaddin J.H."
+      },
+      {
+        "family": "Al-Ebrahim",
+        "given": "Meshari A."
+      },
+      {
+        "family": "Karimipour",
+        "given": "Aliakbar"
+      },
+      {
+        "family": "Viet",
+        "given": "HPM"
+      }
+    ],
+    "cited_by_count": 12,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "Nowadays, 3D printing has become a popular method among surgeons due to its merits in orthopedic treatments. In this method, polymeric biomaterials are deposited in a layer-by-layer manner to fabricate 3D objects that can be used as orthopedic implants and plates; however, 3D-printed implants or plates may lack properties required to bond with host tissue. Coating surface of plates with nano-fibers is an appropriate way to modify plates to overcome this challenge. In this study, first, an orthopedic plate was 3D printed with Polylactic acid (PLA) and coated with polycaprolactone (PCL)/Akermanite (AKT) nano-fibers. The composition included 8 wt% of PCL and 3 wt% of nAKT, while diameter of the PCL/AKT nano-fibers was approximately 253 nm ± 33 nm. Thermomechanical properties such as pressure, three-point bending flexural, and thermal conductivity of coated and non-coated specimens were examined and compared. In the next step, the bioactivity of the coated samples was evaluated following a 28-day immersion in simulated body fluid (SBF). Further, scanning electron microscope (SEM) images were taken to assess morphology of nanofibers and apatite formation on samples. By adding PCL to PLA, the maximum pressure force is enhanced by 16.83%. Further by adding nAKT to PLA + PCL sample, the maximum pressure force is enhanced by 4.72%. Further, by adding PCL to PLA, the maximum bending flexural force is enhanced by 21.06%. Further by adding nAKT to PLA + PCL sample, the maximum bending flexural force is enhanced by 21.39%. The results of this study are used to improve modeling of the orthopedic plates.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.jmrt.2023.09.215"
+  },
+  {
+    "doi": "10.1016/j.addlet.2025.100276",
+    "title": "Effect of raster orientation on large-scale robotic 3D printing of short carbon fiber-reinforced PLA composites",
+    "year": 2025,
+    "journal": "Additive Manufacturing Letters",
+    "volume": "13",
+    "issue": "",
+    "page": "100276",
+    "authors": [
+      {
+        "family": "Baharlou",
+        "given": "E."
+      },
+      {
+        "family": "Ma",
+        "given": "J."
+      }
+    ],
+    "cited_by_count": 10,
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "Additive manufacturing in building construction can be extended for mass customization of building components or even complex mold making. This study examines the process parameters of raster orientation of short carbon fiber-reinforced polylactic acid (SCF-PLA) and neat PLA in large-scale 3D printing. Three raster orientations—unidirectional, cross-ply, and quasi-isotropic layups—were printed using a pellet extruder assembled on an industrial robotic arm. Tensile and flexural tests were conducted to characterize the differences between SCF-PLA and neat PLA across all raster orientations. This study shows that neat PLA has higher tensile strength compared to SCF-PLA, and quasi-isotropic orientation can improve the week mechanical properties of both SCF-PLA and PLA. This research highlights the interface bonding challenges encountered with larger 3D printed filaments, which result in more significant pores. Furthermore, any factor that modifies rheological properties of the filament, such as carbon filling, can lead to a higher likelihood of material defects. To understand this discrepancy, microstructure analyses were conducted on intact and fractured 3D printed samples, including the analysis of micro voids, interlayer voids, and bonding between SCF and the PLA matrix. This suggests that the effects of quasi-isotropic layups can be applied to enhance 3D print large-scale polymer-based building components.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.addlet.2025.100276"
+  },
+  {
+    "doi": "10.1016/j.jmrt.2024.08.147",
+    "title": "(Alumina and graphene)/ PLA nanocomposites manufactured by digital light processing 3D printer",
+    "year": 2024,
+    "journal": "Journal of Materials Research and Technology",
+    "volume": "32",
+    "issue": "",
+    "page": "3120-3134",
+    "authors": [
+      {
+        "family": "Maleki",
+        "given": "Hossein"
+      },
+      {
+        "family": "Asadi",
+        "given": "Parviz"
+      },
+      {
+        "family": "Sedghi",
+        "given": "Arman"
+      },
+      {
+        "family": "Choupani",
+        "given": "Naghdali"
+      },
+      {
+        "family": "Moghanian",
+        "given": "Amirhossein"
+      },
+      {
+        "family": "Elamy",
+        "given": "Mamdouh I."
+      }
+    ],
+    "cited_by_count": 9,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "In this study, the variant effects of alumina and graphene reinforcing nanoparticle percentages on the tensile and wear properties of the nanocomposites, produced using digital light processing (DLP), were determined by employing SEM images of fracture and worn surfaces to introduce a hybrid (alumina + graphene)/PLA nanocomposite with desirable wear and mechanical properties. With the addition of alumina up to 2 wt%, the tensile strength was initially decreased exhibiting a rapid brittle fracture over the flat fracture surface. However, with a continued increase in the amount of reinforcing particles, the tensile strength eventually increased by 16% compared to the pure resin sample at 8 wt% of alumina while changing the fracture mode with plenty of cleavages accompanied by crack deflections. The specific wear rate in the 8 wt% alumina sample decreased by almost 62% compared to the pure resin sample. Graphene caused a significant drop in tensile strength due to the generation of cavities and porosities around the graphene agglomerates, but it greatly improved the wear properties, with the specific wear rate decreasing by almost 77% at just 1 wt%. Then hybrid nanocomposites of alumina and graphene reinforcements were produced with the aim of optimal tensile and wear properties. The 0.5% graphene +3.5% alumina improved the wear resistance and provided moderate tensile properties; however, the 1% graphene +3% alumina could not increase the wear resistance due to the weakening of graphene plates sticking to the polymer substrate.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.jmrt.2024.08.147"
+  },
+  {
+    "doi": "10.1016/j.jcomc.2025.100623",
+    "title": "Fatigue behavior and failure mechanism of 3D-printed continuous glass fiber-reinforced PLA composites under rotating bending fatigue",
+    "year": 2025,
+    "journal": "Composites Part C: Open Access",
+    "volume": "17",
+    "issue": "",
+    "page": "100623",
+    "authors": [
+      {
+        "family": "Javadian",
+        "given": "Mehrnoosh"
+      },
+      {
+        "family": "Dadashi",
+        "given": "Ali"
+      },
+      {
+        "family": "Bagheri",
+        "given": "Abbasali"
+      },
+      {
+        "family": "Azadi",
+        "given": "Mohammad"
+      }
+    ],
+    "cited_by_count": 8,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "This study investigates the fatigue behavior and failure mechanisms of 3D-printed polylactic acid (PLA) composites reinforced with continuous glass fibers under rotating bending fatigue. Composite specimens were fabricated using a modified fused deposition modeling (FDM) printer with fiber volume fractions of 16 %. Fatigue testing was conducted under fully reversed loading at room temperature, and fracture surfaces were analyzed using field-emission scanning electron microscopy (FE-SEM). Results indicate that fiber reinforcement significantly enhances fatigue resistance, with fiber orientation (+45/-45) and infill density playing critical roles in improving performance. A Poisson regression model confirmed the statistical significance of all main effects and two interactions, with print direction having the greatest influence. Fractographic analysis revealed void, fiber breakage, and fiber-matrix debonding as key failure modes. The study provides crucial insights for optimizing composite materials for applications involving cyclic loading.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.jcomc.2025.100623"
+  },
+  {
+    "doi": "10.1016/j.mtadv.2026.100720",
+    "title": "Development and characterization of enset and sisal fiber-reinforced PLA composites for FDM 3D printing",
+    "year": 2026,
+    "journal": "Materials Today Advances",
+    "volume": "29",
+    "issue": "",
+    "page": "100720",
+    "authors": [
+      {
+        "family": "Tolcha",
+        "given": "Mesay Alemu"
+      },
+      {
+        "family": "Derese",
+        "given": "Meklit Mengistu"
+      },
+      {
+        "family": "Altenbach",
+        "given": "Holm"
+      },
+      {
+        "family": "Lemu",
+        "given": "Hirpa Gelgele"
+      },
+      {
+        "family": "Naumenko",
+        "given": "Konstantin"
+      }
+    ],
+    "cited_by_count": 5,
+    "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "This study presents the development and characterization of false banana (enset) and sisal fiber-reinforced polylactic acid (PLA) composites for fused deposition modeling (FDM) 3D printing. The effects of fiber ratios (3 wt.% and 5 wt.%) combined with alkaline and acetylation chemical treatments on the thermal, structural, mechanical, and microstructural characterization of the composites were investigated. Thermal stability was evaluated using thermogravimetric analysis (TGA) and differential scanning calorimetry (DSC) over a temperature range of 10 to 800 °C. The results revealed that fiber addition enhanced PLA’s thermal stability by shifting the decomposition temperature from 348 °C to 386 °C and increasing the melting point from 150 °C to 171 °C. The structural and microstructural analysis of pure and fiber-reinforced PLA composites were analyzed using X-ray diffraction (XRD), Fourier-transform infrared spectroscopy (FT-IR), and scanning electron microscopy (SEM). FT-IR spectra confirmed enhanced cellulose content after alkali treatment of enset and sisal fibers, while XRD results showed increases crystallinity for both fibers after chemical treatment. Tensile testing showed that the addition of 3 wt.% untreated sisal fiber increased the tensile strength by 45% compared to pure PLA. In contrast, the alkali-treated 3 wt.% sisal fiber sample exhibited only a 9% increase relative to pure PLA. Similarly, the PLA composite reinforced with 3 wt% untreated enset–sisal hybrid fibers exhibited improvements in tensile and flexural strength of 36% and 43%, respectively. Furthermore, the SEM analysis provided insights into the surface roughness introduced by cellulose fibers, highlighting their impact on surface finish quality. Collectively, this study presents a novel approach that integrates natural fibers into advanced engineering applications, paving the way for green and sustainable composite materials in 3D printing.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.mtadv.2026.100720"
+  },
+  {
+    "doi": "10.1016/j.jmrt.2025.10.147",
+    "title": "Fabrication of 3D-Printed PLA/liquid natural rubber/cellulose nanocrystals bionanocomposite for advanced biomedical applications",
+    "year": 2025,
+    "journal": "Journal of Materials Research and Technology",
+    "volume": "39",
+    "issue": "",
+    "page": "5164-5177",
+    "authors": [
+      {
+        "family": "Wan Ishak",
+        "given": "Wan Hafizi"
+      },
+      {
+        "family": "Ahmad",
+        "given": "Ishak"
+      },
+      {
+        "family": "Rosli",
+        "given": "Noor Afizah"
+      },
+      {
+        "family": "Dufresne",
+        "given": "Alain"
+      },
+      {
+        "family": "Ahmad",
+        "given": "Sahrim"
+      },
+      {
+        "family": "Sajab",
+        "given": "Mohd Shaiful"
+      },
+      {
+        "family": "Md Zain",
+        "given": "Ahmad Rifqi"
+      }
+    ],
+    "cited_by_count": 5,
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "Three-dimensional (3D) has emerged as a promising approach for producing customized tissue engineering scaffolds. However, poly(lactic acid) (PLA), one of the most widely used biopolymers, is limited by its brittleness, poor toughness, and slow degradation, restricting its long-term functionality. This study synthesized and optimized a bionanocomposite consisting of PLA, liquid natural rubber (LNR), and cellulose nanocrystals (CNC) to overcome these limitations. The materials were prepared through melt compounding, with CNC content systematically varied to achieve an optimum mechanical and degradation properties balance. Adding 0.75 % CNC resulted in a 20 % improvement in degradation rate and significantly enhanced mechanical performance, including greater elongation at break, stiffness, and impact resistance compared to neat PLA and PLA/LNR blends. Scanning Electron Microscopy confirmed uniform CNC dispersion within the matrix, which improved interfacial adhesion and structural reinforcement. The optimized bionanocomposite was successfully processed into 3D-printed scaffolds, demonstrating interconnected porosity suitable for cell attachment and proliferation, mechanical stability for temporary tissue support, and cytocompatibility in accordance with ISO 10993–5:2009(E). Overall, this study establishes PLA/LNR/CNC bionanocomposites as promising materials for 3D-printed tissue scaffolds, offering enhanced mechanical resilience, accelerated degradation, and biocompatibility compared with conventional PLA-based systems.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.jmrt.2025.10.147"
+  },
+  {
+    "doi": "10.1016/j.jcomc.2025.100594",
+    "title": "Additive manufacturing of continuous regenerated cellulose fiber reinforced polylactic acid composites using in-situ impregnation material extrusion technique",
+    "year": 2025,
+    "journal": "Composites Part C: Open Access",
+    "volume": "17",
+    "issue": "",
+    "page": "100594",
+    "authors": [
+      {
+        "family": "Jain",
+        "given": "Nishant",
+        "collaboration": false
+      },
+      {
+        "family": "Czasny",
+        "given": "Mathias",
+        "collaboration": false
+      },
+      {
+        "family": "Butzmann",
+        "given": "Till",
+        "collaboration": false
+      },
+      {
+        "family": "Kober",
+        "given": "Delf",
+        "collaboration": false
+      },
+      {
+        "family": "Karl",
+        "given": "David",
+        "collaboration": false
+      },
+      {
+        "family": "Schmiedjell",
+        "given": "David",
+        "collaboration": false
+      },
+      {
+        "family": "Hild",
+        "given": "Sabine",
+        "collaboration": false
+      },
+      {
+        "family": "Gurlo",
+        "given": "Aleksander",
+        "collaboration": false
+      }
+    ],
+    "cited_by_count": 4,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "This study explores an innovative approach to additively manufacture 100 % bio-derived, biodegradable polylactic acid (PLA) reinforced with continuous regenerated cellulose fibres (RCFs) using an in-situ infiltration material extrusion technique. The impact of fiber crystallinity, surface properties, cross-sectional geometry and PLA's thermal and rheological behaviour is analysed. Single fiber pull-out test (SFPT) is utilised to evaluate fibre-matrix interactions, while tensile and flexural properties are assessed in conjunction with void analysis via optical and AFM micrographs. The results show that Biomid fibres, which exhibit ∼65 % crystallinity, demonstrate ∼31 % higher apparent interfacial shear strength (IFSS) compared to Cordenka fibres, which exhibit ∼42 % crystallinity. Furthermore, Biomid-PLA composites show a substantial increase in tensile strength, reaching ∼290 % higher and tensile modulus reaching ∼470 % higher than unreinforced PLA. In addition, the flexural strength and modulus of the Biomid-PLA composite increased by ∼71 % and ∼120 %, compared to unreinforced PLA.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.jcomc.2025.100594"
+  },
+  {
+    "doi": "10.1016/j.matdes.2025.114628",
+    "title": "Development of a custom commingled flax/PLA wrapped yarn for additive manufacturing of long-fibre biocomposites",
+    "year": 2025,
+    "journal": "Materials & Design",
+    "volume": "258",
+    "issue": "",
+    "page": "114628",
+    "authors": [
+      {
+        "family": "Quereilhac",
+        "given": "Delphine"
+      },
+      {
+        "family": "Caillault",
+        "given": "Thomas"
+      },
+      {
+        "family": "Terekhina",
+        "given": "Svetlana"
+      },
+      {
+        "family": "Bar",
+        "given": "Mahadev"
+      },
+      {
+        "family": "Morel",
+        "given": "Guillaume"
+      },
+      {
+        "family": "Fazzini",
+        "given": "Marina"
+      },
+      {
+        "family": "Abida",
+        "given": "Marwa"
+      },
+      {
+        "family": "De Luycker",
+        "given": "Emmanuel"
+      },
+      {
+        "family": "Ouagne",
+        "given": "Pierre"
+      }
+    ],
+    "cited_by_count": 3,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "Plant fibres are promising reinforcements for bio-composites in additive manufacturing, but their use as long fibres remains limited, often reduced to short particles that underuse their potential. This study presents a customised yarn design that not only maintains fibre alignment parallel to the yarn axis but also ensures core resin impregnation. Commingling and wrap spinning techniques were used to produce four flax/PLA yarns with varying compositions. The manufacturing process and printing of unidirectional composite specimens are detailed. Tomography revealed up to 3.3 times lower intra-yarn porosity thanks to commingling, and tensile tests showed a modulus increase by a factor of 2.1 compared to similar previous works using conventional twisted yarns. These results pave the way for broader use of long flax fibres in 3D printing.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.matdes.2025.114628"
+  },
+  {
+    "doi": "10.1016/j.nxmate.2026.102611",
+    "title": "Energy consumption, process stability, and tensile anisotropy of FFF-printed PLA and carbon fiber-reinforced PLA: Effects of build orientation and chamber conditions",
+    "year": 2026,
+    "journal": "Next Materials",
+    "volume": "13",
+    "issue": "",
+    "page": "102611",
+    "authors": [
+      {
+        "family": "Toprak",
+        "given": "İnayet Burcu"
+      },
+      {
+        "family": "Batur",
+        "given": "Cem"
+      },
+      {
+        "family": "Dogdu",
+        "given": "Nafel"
+      }
+    ],
+    "cited_by_count": 0,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "This study experimentally investigated the effects of build orientation and chamber conditions on the energy consumption, mechanical performance, and process stability of polylactic acid (PLA) and carbon fiber-reinforced PLA (PLA-CF) manufactured using Fused Filament Fabrication (FFF). Flat, on-edge, and Z build orientations were examined while maintaining constant processing parameters. Energy consumption was evaluated separately for the heating, printing, and cooling phases. The results showed that build orientation had a greater influence on energy consumption than material type. The printing phase was the dominant contributor to total energy consumption, whereas the heating and cooling phases exhibited relatively limited variation. Z-oriented specimens required substantially higher energy consumption than flat and on-edge specimens. Mechanical testing revealed pronounced anisotropy, with the highest tensile strength obtained in the on-edge orientation for both materials. In the on-edge orientation, PLA-CF exhibited approximately 26% higher tensile strength than neat PLA. In contrast, Z-oriented specimens showed significantly reduced mechanical performance. Under the investigated Z-oriented printing conditions, chamber configuration influenced both energy consumption and process stability. Prolonged PLA printing under closed-chamber conditions led to extruder clogging, whereas no comparable printing instability was observed for PLA-CF. Overall, the results demonstrated that build orientation was the dominant factor affecting both energy consumption and mechanical performance, while chamber conditions became important for process stability during prolonged Z-oriented printing.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.nxmate.2026.102611"
+  },
+  {
+    "doi": "10.1016/j.jcomc.2026.100823",
+    "title": "Influence of extrusion process on the physical and mechanical properties of short natural fibre reinforced PLA filaments",
+    "year": 2026,
+    "journal": "Composites Part C: Open Access",
+    "volume": "21",
+    "issue": "",
+    "page": "100823",
+    "authors": [
+      {
+        "family": "Bourgogne",
+        "given": "Quentin C.P."
+      },
+      {
+        "family": "Abida",
+        "given": "Marwa"
+      },
+      {
+        "family": "Bouchart",
+        "given": "Vanessa"
+      }
+    ],
+    "cited_by_count": 0,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "The aim of the study is to understand and evaluate the consequences of the extrusion process on the physical and mechanical properties of natural short fibre reinforced filament for 3D printing. A reliable experimental protocol was built to evaluate the monotonic and dynamic mechanical behaviour of the coil filament with a diameter of 1.75 mm, regardless of other printing parameters, while comparing it to the extruded filament, with a diameter of 0.4 mm. The physical behaviours were investigated with micro-tomography, TGA and DSC. The mechanical tests were carried out with DMA. In order to consider reinforcement nature and geometry, the tests were carried out on neat and reinforced PLA, with hemp, flax and wood fibres, all reinforced with 20%wt. The study showed that extrusion led to a modification of glass transition temperature of all grades and decreased the Young modulus from about 14% for the neat PLA, up to nearly 50% for PLA reinforced with hemp.",
+    "abstract_source": "doaj",
+    "oa_status": "gold",
+    "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2666682026001295/pdf",
+    "oa_url": "https://www.sciencedirect.com/science/article/pii/S2666682026001295/pdf"
+  },
+  {
+    "doi": "10.1016/j.compositesa.2022.107368",
+    "title": "Bending properties and numerical modelling of cellular panels manufactured from wood fibre/PLA biocomposite by 3D printing",
+    "year": 2023,
+    "journal": "Composites Part A: Applied Science and Manufacturing",
+    "volume": "165",
+    "issue": "",
+    "page": "107368",
+    "authors": [
+      {
+        "family": "Zarna",
+        "given": "Chiara"
+      },
+      {
+        "family": "Chinga-Carrasco",
+        "given": "Gary"
+      },
+      {
+        "family": "Echtermeyer",
+        "given": "Andreas T."
+      }
+    ],
+    "cited_by_count": 45,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "The major advantage of cellular structures is the saving of material, energy, cost, and weight. Biocomposites are strong, lightweight materials and offer a high degree of design freedom. The purpose of this study was to characterise and compare the bending properties of various cellular structures for utilisation in panels made of a wood fibre/PLA biocomposite. Material extrusion (MEX) 3D printing is a highly flexible manufacturing method and well-suited for prototyping. Hence, MEX was applied to manufacture five different cell configurations that were mechanically tested. Additionally, numerical simulations were carried out to present a tool for optimising the structures for future requirements. Two material modelling approaches, a hyperelastic and a linear elastic, bimodular model were created and validated based on 3-point-bending tests. It is shown that a linear elastic, bimodular and perfectly plastic material model can adequately capture the elastic/plastic bending behaviour of the corresponding 3D-printed sandwich panels.",
+    "abstract_source": "openalex",
+    "oa_status": "hybrid",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.compositesa.2022.107368"
+  },
+  {
+    "doi": "10.1016/j.jobe.2024.108491",
+    "title": "Acoustic properties of natural fiber reinforced composite micro-perforated panel (NFRC-MPP) made from cork fiber and polylactic acid (PLA) using 3D printing",
+    "year": 2024,
+    "journal": "Journal of Building Engineering",
+    "volume": "84",
+    "issue": "",
+    "page": "108491",
+    "authors": [
+      {
+        "family": "Rezaieyan",
+        "given": "Ehsan",
+        "collaboration": false
+      },
+      {
+        "family": "Taban",
+        "given": "Ebrahim",
+        "collaboration": false
+      },
+      {
+        "family": "Berardi",
+        "given": "Umberto",
+        "collaboration": false
+      },
+      {
+        "family": "Mortazavi",
+        "given": "Seyyed Bagher",
+        "collaboration": false
+      },
+      {
+        "family": "Faridan",
+        "given": "Mohammad",
+        "collaboration": false
+      },
+      {
+        "family": "Mahmoudi",
+        "given": "Elham",
+        "collaboration": false
+      }
+    ],
+    "cited_by_count": 40,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "The present study investigated the acoustic performance of biodegradable MPP absorbers made of natural fiber-reinforced composites (NFRC) using 3D printing. The novelty of this current research lies in the recent development of a methodology that aids industry professionals in optimizing the production of MPP (Micro Perforated Panel) at a competitive cost. This is achieved by addressing and eliminating various issues commonly faced in traditional manufacturing processes, such as manual preparation and pressing. The FDM technique was used to fabricate test samples utilizing the PLA/corkwood composite. Using an impedance tube device with two microphones, the acoustic absorption coefficients of MPPs with different perforation diameters, thicknesses, and perforation rates were measured. Maa's analytical model was used to predict the acoustic absorption performance. Moreover, considering the average sound absorption and total cost of fabricating the samples, RSM-CCD was employed to optimize these samples. In the end, the parallel arrangement of MPP double layer and the combination of MPP with kenaf porous material were tested in order to improve the sound absorption performance. The results showed that the average sound absorption coefficient of the NFRC-MPP sound absorber is 25 % more than that of conventional MPP sound absorbers. The sample with a perforation diameter of 0.70 mm, a panel thickness of 0.90 mm, and an 8 mm distance between the perforations was selected as the optimal sound absorber. The measurement and model data for NFRC-MPP panels do not correspond well. The parallel arrangement of two layers of MPP and the addition of an optimized kenaf layer behind the MPP significantly improved the sound absorption performance in the intended frequency range. The findings of this study, coupled with data available in the literature for other types of biocomposite Micro Perforated Panel (MPP), strongly indicate that Cork fiber-based MPP exhibits substantial promise for application, either independently or in conjunction with Kenaf materials, as a material for acoustic conditioning. Implementing smart manufacturing techniques for acoustic panels not only enhances engineering noise control efforts but also amplifies the overall effectiveness of Hearing Conservation Programs.",
+    "abstract_source": "openalex",
+    "oa_status": "hybrid",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.jobe.2024.108491"
+  },
+  {
+    "doi": "10.1016/j.jmrt.2025.03.184",
+    "title": "Development and 3D printing of PLA bio-composites reinforced with short yucca fibers and enhanced thermal and dynamic mechanical performance",
+    "year": 2025,
+    "journal": "Journal of Materials Research and Technology",
+    "volume": "36",
+    "issue": "",
+    "page": "1243-1258",
+    "authors": [
+      {
+        "family": "Kacem",
+        "given": "Mohamed Amine"
+      },
+      {
+        "family": "Guebailia",
+        "given": "Moussa"
+      },
+      {
+        "family": "Dezaki",
+        "given": "Mohammadreza Lalegani"
+      },
+      {
+        "family": "Abdi",
+        "given": "Said"
+      },
+      {
+        "family": "Sabba",
+        "given": "Nassila"
+      },
+      {
+        "family": "Zolfagharian",
+        "given": "Ali"
+      },
+      {
+        "family": "Bodaghi",
+        "given": "Mahdi"
+      }
+    ],
+    "cited_by_count": 30,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "Growing environmental pollution and resource limitations have led to intensified research into sustainable materials. This study introduces an innovative 3D printable bio-composite material crafted by reinforcing a polylactic acid (PLA) matrix with short yucca fibres. Fibers from Yucca treculeana leaves were extracted via water retting (WR) and traditional mechanical processing (T). They were then incorporated as powder into PLA to create filaments for 3D printing via fused deposition modeling. A comprehensive set of thermo-mechanical characterization was performed through tensile, compression, flexural, dynamic mechanical analyses, thermal stability, FTIR, SEM, thermogravimetric, fatigue, and water absorption tests. PLA-T category exhibited a 22 % increase in tensile strength (61 MPa) and a 20 % enhancement in compressive strength (89 MPa) over PLA-WR. Similarly, PLA-T achieved a 12 % higher flexural strength (56 MPa) and an extended fatigue life, surpassing PLA-WR by 66 % (40,185 cycles). These findings underscore the critical influence of fiber extraction processes on bio-composite performance and propose PLA-yucca composites as an excellent addition to the sustainable 3D printing material library. With potential applications across automotive, aerospace, and consumer products, this material represents a viable alternative to conventional plastics, advancing the goals of sustainable manufacturing and eco-friendly innovation.",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.jmrt.2025.03.184"
+  },
+  {
+    "doi": "10.1016/j.tafmec.2024.104417",
+    "title": "Static and fatigue behavior of 3D printed smooth and notched PLA and short carbon fibers reinforced PLA",
+    "year": 2024,
+    "journal": "Theoretical and Applied Fracture Mechanics",
+    "volume": "131",
+    "issue": "",
+    "page": "104417",
+    "authors": [
+      {
+        "family": "Vălean",
+        "given": "Estera"
+      },
+      {
+        "family": "Foti",
+        "given": "Pietro"
+      },
+      {
+        "family": "Berto",
+        "given": "Filippo"
+      },
+      {
+        "family": "Marșavina",
+        "given": "Liviu"
+      }
+    ],
+    "cited_by_count": 27,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "Additive manufacturing (AM) offers various advantages, such as geometrical design freedom and highly tailored components. Among the AM technologies, fused deposition modeling (FDM) is one of the most commonly used methods for polymers. In this work, we analyze the fracture behavior of both smooth and notched specimens made from two different materials: polylactic acid (PLA) and short carbon fiber (CF) reinforced PLA. The experimental research revealed poorer static and fatigue properties for the PLA-CF specimens, regardless of the geometry. These poorer mechanical properties could be attributed to several factors, including higher porosity and poorer adhesion between filament layers. To assess the static and fatigue behavior influenced by the component geometry, the averaged strain energy density (SED) method was considered. After determining the characteristic length, R0, for both static and fatigue conditions, the data has been summarized in terms of averaged SED values. This method predicts the critical loads for different geometries and materials considered with an average error of ± 7 %. Additionally, a SED-based fatigue curve, independent of the geometry, has been determined for both materials.",
+    "abstract_source": "openalex",
+    "oa_status": "hybrid",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.tafmec.2024.104417"
+  },
+  {
+    "doi": "10.1016/j.compositesb.2025.112354",
+    "title": "From nanoscale to printed products: Multiscale modeling and experimental characterization of graphene-enhanced polylactic acid composites for 3D printing",
+    "year": 2025,
+    "journal": "Composites Part B: Engineering",
+    "volume": "298",
+    "issue": "",
+    "page": "112354",
+    "authors": [
+      {
+        "family": "Muhammad",
+        "given": "Atta",
+        "collaboration": false
+      },
+      {
+        "family": "Valero",
+        "given": "Clara",
+        "collaboration": false
+      },
+      {
+        "family": "De Angelis",
+        "given": "Paolo",
+        "collaboration": false
+      },
+      {
+        "family": "Koutroumanis",
+        "given": "Nikolaos",
+        "collaboration": false
+      },
+      {
+        "family": "Semitekolos",
+        "given": "Dionisis",
+        "collaboration": false
+      },
+      {
+        "family": "Jiménez",
+        "given": "Bárbara",
+        "collaboration": false
+      },
+      {
+        "family": "Rivera",
+        "given": "Rubén",
+        "collaboration": false
+      },
+      {
+        "family": "Sáenz Ezquerro",
+        "given": "Carlos",
+        "collaboration": false
+      },
+      {
+        "family": "Srivastava",
+        "given": "Rajat",
+        "collaboration": false
+      },
+      {
+        "family": "Pappas",
+        "given": "Panagiotis-Nektarios",
+        "collaboration": false
+      },
+      {
+        "family": "Galiotis",
+        "given": "Costas",
+        "collaboration": false
+      },
+      {
+        "family": "Charitidis",
+        "given": "Costas A.",
+        "collaboration": false
+      },
+      {
+        "family": "Chiavazzo",
+        "given": "Eliodoro",
+        "collaboration": false
+      },
+      {
+        "family": "Asinari",
+        "given": "Pietro",
+        "collaboration": false
+      },
+      {
+        "family": "Laspalas",
+        "given": "Manuel",
+        "collaboration": false
+      },
+      {
+        "family": "Chiminelli",
+        "given": "Agustín",
+        "collaboration": false
+      },
+      {
+        "family": "Fasano",
+        "given": "Matteo",
+        "collaboration": false
+      }
+    ],
+    "cited_by_count": 13,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "Carbon-based nanoparticles can significantly enhance the specific characteristics of polymers, impacting mechanical, thermal, electrical, and magnetic properties . However, incorporating these enhancements into final products can be challenging due to the influences of subsequent processing steps required to transform the material into components. This is the case of nano-modifications of 3D printing thermoplastic filaments. The filament characteristics and the printing process’s resulting material microstructure affect the final properties of the material produced. The resulting material exhibits a hierarchical multiscale structure, necessitating a combination of various simulation approaches and methods to capture the relevant effects and influences across different scales, ultimately allowing for accurate prediction of the final material response in the product. This study focuses on predicting key thermal and mechanical properties of polymer nanocomposites and 3D printing materials. The analysis is based on coarse-grained molecular dynamics and continuum models across different scales, complemented by experimental characterization of the base material (filament) and micrographic analysis of the printed material. The findings demonstrate the potential of modeling to predict various material responses. The multiscale model reveals that with a modest addition of nanofiller (up to 2 wt%), the Young’s modulus and thermal conductivity show up to 11% enhancement. These predictions closely align with the experiments, exhibiting a maximum deviation of 2.3%. In conclusion, this study demonstrates that the combination of diverse modeling techniques and experimental validation provides valuable guidance for materials development and engineering, as well as a deeper understanding of the process/structure/properties relationships.",
+    "abstract_source": "openalex",
+    "oa_status": "hybrid",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.compositesb.2025.112354"
+  },
+  {
+    "doi": "10.1016/j.procir.2025.01.049",
+    "title": "A Comparative Life Cycle Assessment of Hemp-based and Polylactide (PLA) Composite 3D Printing Filaments",
+    "year": 2025,
+    "journal": "Procedia CIRP",
+    "volume": "135",
+    "issue": "",
+    "page": "267-272",
+    "authors": [
+      {
+        "family": "Enarevba",
+        "given": "Dolor R."
+      },
+      {
+        "family": "Jaksic",
+        "given": "Nebojsa I."
+      },
+      {
+        "family": "Haapala",
+        "given": "Karl R."
+      }
+    ],
+    "cited_by_count": 7,
+    "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "There is a growing interest in exploring the potential use of bio-based 3D printing filaments as sustainable substitutes for traditional polymer-based filaments. This study analyzes the environmental impacts of hemp materials (hemp straw, hemp hurd, and hemp fiber) when blended with pure PLA (Polylactic Acid) for 3D printing filaments. A comparative Life Cycle Assessment (LCA) was conducted using the ReCiPe 2016 method to evaluate midpoint and endpoint impact categories, along with two single-issue methods, Cumulative Energy Demand (CED) and IPCC Global Warming Potential (GWP100), to assess energy and carbon-related impacts of such filaments. The results indicate that hemp straw PLA filament has the lowest environmental impacts, followed by hemp hurd PLA, hemp fiber PLA, and pure PLA, with the last exhibiting the highest overall impacts in all endpoint categories (human health, ecosystems, and resources) using the ReCiPe 2016 method. Moreover, pure PLA demonstrates the highest global warming potential (GWP) across all filaments, while hemp fiber PLA displays higher impacts in energy consumption due to its higher density. Sensitivity analyses exploring the effects of varying the PLA blend ratio on environmental outcomes reveal that increased PLA content raises energy demand and carbon emissions across all filaments. Hemp-based PLA filaments, particularly hemp straw and hurd, hold promise as sustainable alternatives to pure PLA, especially for applications not requiring high-performance mechanical properties. Future research will focus on evaluating the use of treated biomass in filament production, specifically emphasizing hemp straw to enhance the sustainability performance of 3D printing filament materials.",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.procir.2025.01.049"
+  },
+  {
+    "doi": "10.1016/j.jmrt.2026.03.120",
+    "title": "Printability versus durability in 3D-printed biocomposites: Unraveling the distinct roles of flax and hemp fibers in PLA-based filaments",
+    "year": 2026,
+    "journal": "Journal of Materials Research and Technology",
+    "volume": "42",
+    "issue": "",
+    "page": "1125-1135",
+    "authors": [
+      {
+        "family": "Bastida",
+        "given": "Gabriela A."
+      },
+      {
+        "family": "Delgado-Aguilar",
+        "given": "Marc"
+      },
+      {
+        "family": "Julian",
+        "given": "Fernando"
+      },
+      {
+        "family": "Alcalà",
+        "given": "Manel"
+      },
+      {
+        "family": "Herbst",
+        "given": "Giulia"
+      },
+      {
+        "family": "Aguado",
+        "given": "Roberto J."
+      },
+      {
+        "family": "Carrasco",
+        "given": "Félix"
+      },
+      {
+        "family": "Tarrés",
+        "given": "Quim"
+      }
+    ],
+    "cited_by_count": 7,
+    "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "The expansion of Fused Deposition Modeling (FDM) towards low-volume industrial production and customized tooling requires bio-based materials that balance processability with long-term performance. This study addresses the critical trade-off between printability and environmental durability in polylactic acid (PLA) filaments reinforced with flax and hemp fibers (2.5–15 wt%). While both reinforcements improved the stiffness of the matrix, their distinct morphological and chemical characteristics led to divergent behaviors. Flax fibers, characterized by a smoother surface and lower lignin content, facilitated superior melt flow and interlayer adhesion, resulted in a tensile strength optimum at 10 wt%, followed by a slight decline likely due to fiber aggregation. A twofold increase in impact strength at 15 wt% was achieved, governed by energy dissipation during fiber pull-out and debonding mechanisms. Conversely, hemp fibers exhibited higher surface roughness and lignin content, which hindered interlayer fusion, evidenced by increased porosity in microstructural analysis, but provided exceptional resistance to degradation. Under accelerated weathering conditions, hemp-reinforced composites retained structural integrity significantly better than neat PLA and flax composites, attributed to the photoprotective and hydrophobic nature of lignin. These findings introduce a novel selection criterion for engineering biocomposites: flax for high-mechanical-performance components such as customized tooling or structural parts and hemp for applications requiring extended service life in harsh environments (e.g., outdoor fixtures and housing).",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.jmrt.2026.03.120"
+  },
+  {
+    "doi": "10.1016/j.compscitech.2023.110205",
+    "title": "Influence of printing parameters and short carbon fibre reinforcement on fatigue behaviour, dimensional accuracy and macrogeometrical deviations of polylactic acid in material extrusion",
+    "year": 2023,
+    "journal": "Composites Science and Technology",
+    "volume": "242",
+    "issue": "",
+    "page": "110205",
+    "authors": [
+      {
+        "family": "Bermudo Gamboa",
+        "given": "Carolina",
+        "collaboration": false
+      },
+      {
+        "family": "Martín-Béjar",
+        "given": "Sergio",
+        "collaboration": false
+      },
+      {
+        "family": "Trujillo Vilches",
+        "given": "Javier",
+        "collaboration": false
+      },
+      {
+        "family": "Sevilla Hurtado",
+        "given": "Lorenzo",
+        "collaboration": false
+      }
+    ],
+    "cited_by_count": 7,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "This paper evaluates the potential of short carbon fibres as a reinforcement material in order to improve the fatigue resistance of PLA. The fatigue behaviour has been analysed through rotational bending fatigue tests. The influence of printing parameters, such as layer thickness, printing temperature and printing speed, on the mechanical behaviour, dimensional accuracy and macrogeometrical deviations of printed parts have also been analysed as they can too interfere with the mechanical behaviour of the parts. The results show that there is no improvement on the mechanical behaviour of the printed parts with the incorporation of short carbon fibres. On the contrary, the fatigue behaviour worsens due to the poor adhesion between the short carbon fibres and the PLA matrix. Fatigue life is reduced by 6% compared to PLA. Focusing only on the printing parameters, it is shown that at the highest temperature allowed, the fatigue behaviour improves a 12%. The Printing speed is the least influential variable, with the layer thickness having the greatest influence, increasing fatigue life by 15% comparing 0.1 mm and 0.3 mm. Therefore, the best combination would be to print with the highest temperature and the highest layer thickness, for this case study. Finally, a parametric relationship is presented in order to relate the layer thickness with the fatigue behaviour.",
+    "abstract_source": "openalex",
+    "oa_status": "hybrid",
+    "pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0266353823002993-ga1_lrg.jpg",
+    "oa_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0266353823002993-ga1_lrg.jpg"
+  },
+  {
+    "doi": "10.1016/j.jmrt.2025.09.042",
+    "title": "Advantages of in-situ impregnation 3D printing in continuous flax/PLA biocomposites for optimized mechanical properties in structural applications",
+    "year": 2025,
+    "journal": "Journal of Materials Research and Technology",
+    "volume": "39",
+    "issue": "",
+    "page": "355-367",
+    "authors": [
+      {
+        "family": "Mehaba",
+        "given": "Hani"
+      },
+      {
+        "family": "Toubal",
+        "given": "Lotfi"
+      },
+      {
+        "family": "Belouadah",
+        "given": "Zouheyr"
+      }
+    ],
+    "cited_by_count": 6,
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "The in-situ impregnation 3D printing technique offers a unique advantage over traditional composite manufacturing methods: the ability to control fiber weight fraction within a single print. This study demonstrates this capability through the printing of continuous flax fiber-reinforced PLA biocomposites. A parametric study was conducted to determine the optimal printing parameters, including nozzle temperature and cooling fan usage. Subsequently, samples with four different fiber weight fractions (0, 30, 40, and 50 wt%) were printed using the optimized parameters. Tensile properties were evaluated through both tensile testing and acoustic impulse measurements, while Shore D hardness, density and porosity were also assessed. The results reveal a significant improvement in tensile properties and an increase in density with increasing fiber weight fraction, accompanied by a decrease in Shore D hardness. Additionally, the choice of printing pattern, influences the tensile properties and damage mechanisms. These findings highlight the potential of in situ impregnation for producing custom fiber-reinforced biocomposites with tailored mechanical properties at a low cost.",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.jmrt.2025.09.042"
+  },
+  {
+    "doi": "10.1016/j.compstruct.2025.119320",
+    "title": "Investigating mechanical enhancement and vibrational response of additive manufactured PLA scaffolds with carbon nanotube and graphene oxide: Fabrication and multi-scale simulation",
+    "year": 2025,
+    "journal": "Composite Structures",
+    "volume": "369",
+    "issue": "",
+    "page": "119320",
+    "authors": [
+      {
+        "family": "Angili",
+        "given": "Sajad Niazi"
+      },
+      {
+        "family": "Morovvati",
+        "given": "Mohammadreza"
+      },
+      {
+        "family": "Vatandoust",
+        "given": "Yashar"
+      },
+      {
+        "family": "Fotouhi",
+        "given": "Mohammad"
+      },
+      {
+        "family": "Bodaghi",
+        "given": "Mahdi"
+      }
+    ],
+    "cited_by_count": 5,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "This paper investigates the relationship between nanomaterials concentration, scaffold topologies, and mechanical and vibrational performance of additive manufactured Polylactic Acid (PLA) scaffolds reinforced with Graphene Oxide (GO) and Carbon Nanotube (CNT). Three different scaffold topologies namely Cube, Diamond, and Lattice Diamond were designed. Every scaffold comprised PLA reinforced with GO and CNT at different concentration levels of 0 wt%, 0.2 wt%, 0.4 wt%, and 0.6 wt%. The mechanical performance of scaffolds was evaluated via compressive testing. A representative volume element (RVE) model, evaluated using periodic boundary conditions, was developed and successfully validated against experimental results, with a deviation between 13.5 % to 23 %. The novelty of the work lies in incorporating GO and SWCNT agglomeration within the RVE models, enabling a more accurate comparison with 3D-printed composite test samples. Additionally, a comprehensive evaluation of scaffold shapes, geometry, vibrational response, and reinforcement concentration, provides valuable insights into their performance. Experimental and RVE results indicated that the PLAs reinforced with 0.6 wt% GO and 0.6 wt% CNT experience agglomerations. Finite element simulations using the Mooney-Rivlin hyperelastic model showed that the compressive strength of the structures followed this order: Diamond > Cube > Lattice Diamond. The results showed that increasing GO and CNT content from 0 wt% to 0.4 wt% led the Diamond scaffold to exhibit the greatest improvement in compressive strength and elastic modulus, with increases of 79.3 %, 26 %, 165.9 %, and 129 %, respectively. It was found that the additive manufactured modified PLA Diamond scaffold displays the best mechanical performance among the other scaffold topologies. The finite element analysis using the Lanczos Eigensolver revealed that mechanical enhancements and structural topology directly impact natural frequency variations, making them major parameters to consider for specific applications.",
+    "abstract_source": "openalex",
+    "oa_status": "hybrid",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.compstruct.2025.119320"
+  },
+  {
+    "doi": "10.1016/j.prostr.2025.06.156",
+    "title": "Effect of notches on static and dynamic bending of 3D printed PLA and PLA reinforced with short carbon fiber",
+    "year": 2025,
+    "journal": "Procedia Structural Integrity",
+    "volume": "68",
+    "issue": "",
+    "page": "955-961",
+    "authors": [
+      {
+        "family": "Vălean",
+        "given": "Estera"
+      },
+      {
+        "family": "Marșavina",
+        "given": "Liviu"
+      },
+      {
+        "family": "Galațanu",
+        "given": "Sergiu-Valentin"
+      },
+      {
+        "family": "Foti",
+        "given": "Pietro"
+      },
+      {
+        "family": "Berto",
+        "given": "Filippo"
+      }
+    ],
+    "cited_by_count": 4,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "Additive Manufacturing (AM) is a process that can produce parts with complex characteristics, in a short time and at a low cost. Fused Deposition Modeling (FDM) is currently one of the most popular AM technologies on the market. This work analyses the fracture behavior of both smooth and notched specimens of two different materials, Poly-lactic acid (PLA) and short carbon fibers (CF) reinforced PLA. The FDM technique was used to print the test parts; the three-point bending, and impact strength of the test parts were determined using the ISO 178 and ISO 179-1 test standards. The main objective of this research is the static and dynamic mechanical characterization of PLA and PLA-CF. Thus, three-point bending, and impact tests were performed, to make a comparison between mechanical properties of the reinforced and non-reinforced material. The experimental campaigns revealed poorer static and dynamic properties for the PLA-CF specimens regardless of the studied geometry compared with unfilled PLA.",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.prostr.2025.06.156"
+  },
+  {
+    "doi": "10.1016/j.rineng.2026.110675",
+    "title": "Tensile and flexural performance of FDM 3D printed Harakeke (NZ Flax) fiber -PLA composites for lightweight structural applications",
+    "year": 2026,
+    "journal": "Results in Engineering",
+    "volume": "30",
+    "issue": "",
+    "page": "110675",
+    "authors": [
+      {
+        "family": "Selvamani",
+        "given": "S.K."
+      },
+      {
+        "family": "Clint",
+        "given": "K.S."
+      },
+      {
+        "family": "Samykano",
+        "given": "M."
+      },
+      {
+        "family": "Kadirgama",
+        "given": "K."
+      },
+      {
+        "family": "Beg",
+        "given": "M.D.H."
+      },
+      {
+        "family": "Pickering",
+        "given": "K.L."
+      },
+      {
+        "family": "Megalingam",
+        "given": "A."
+      }
+    ],
+    "cited_by_count": 2,
+    "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "• A novel harakeke (New Zealand flax) fiber–reinforced PLA composite was developed and fabricated using FDM 3D printing, targeting lightweight and sustainable structural applications. • A Response Surface Methodology (RSM) framework (Central Composite Design) was employed to model and optimize the combined influence of fiber content (0–20 wt.%), raster angle (45–90°), and raster width (0.5–1.0 mm) on mechanical properties. • The optimal printing parameters were identified as 10 wt.% fiber content, 0.5 mm raster width, and a 45° raster angle, producing the best balance of stiffness and strength. • The optimized composite achieved a Young’s modulus of 4453.85 MPa and a flexural stress of 73.395 MPa, outperforming other parameter combinations. • Raster angle was found to be the most influential parameter, with a 45° orientation consistently improving load transfer and stress distribution. • Excessive fiber loading (>10 wt.%) reduced tensile and flexural performance due to fiber agglomeration, increased melt viscosity, and compromised fiber–matrix interfacial adhesion. • Narrow raster widths (0.5 mm) improved interlayer fusion and deposition density, contributing significantly to enhanced composite stiffness. • The study confirms that controlled fiber dispersion and optimized FDM settings are crucial for unlocking the structural potential of PLA–harakeke biocomposites. • Results establish a validated RSM-based predictive model (desirability = 0.91) to guide process optimization for sustainable, high-performance 3D-printed materials. Current research on the shift toward sustainable materials has intensified interest in biodegradable alternatives polymers, with poly-lactic acid (PLA) emerging as a leading candidate. With various advantages, including biodegradability and processability, PLA's tensile and flexural strength can be further enhanced to increase its use in lightweight structural applications. This study introduces a novel integration of harakeke (New Zealand flax) fibers into PLA, a material pairing that has not been comprehensively investigated for additive manufacturing-based components. The research uniquely employs a Response Surface Methodology (RSM)-based optimization framework to systematically analyze and model the combined effects of fiber content (0-20 wt.%), raster angle (45-90°), and raster width (0.5-1.0 mm) on the composite’s tensile and flexural performance. The findings reveal that a raster width of 0.5 mm, raster angle of 45°, and a flax infill of 10% by weight provide the best synergy of stiffness and strength. The maximum values ​​of Young's modulus are 4453.85 MPa, and the flexural stress is 73.395 MPa. Increased fiber loadings above 20 wt.% reduce performance due to fiber agglomeration. Among orientations, the 45° raster is preferable to 90° due to increased load transfer and stress distribution, and narrower raster widths facilitate greater interlayer bonding and deposition density.",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.rineng.2026.110675"
+  },
+  {
+    "doi": "10.1016/j.clcb.2026.100216",
+    "title": "A comparative life cycle assessment of hemp straw polylactide (PLA) and pure PLA parts printed using fused filament fabrication",
+    "year": 2026,
+    "journal": "Cleaner and Circular Bioeconomy",
+    "volume": "14",
+    "issue": "",
+    "page": "100216",
+    "authors": [
+      {
+        "family": "Enarevba",
+        "given": "Dolor Roy"
+      },
+      {
+        "family": "Jaksic",
+        "given": "Nebojsa I."
+      },
+      {
+        "family": "Haapala",
+        "given": "Karl R."
+      }
+    ],
+    "cited_by_count": 1,
+    "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "Biomaterials offer a promising alternative to nonrenewable engineering materials, and industrial hemp has garnered increasing interest due to its eco-friendly cultivation, short growth cycle, phytoremediation capabilities, and diverse industrial applications. While prior research has explored the use of hemp fiber and hurd in additive manufacturing, the use of low-cost hemp straw remains largely unexamined. In parallel, the brittleness of polylactic acid (PLA) limits its broader application in additive manufacturing, motivating the exploration of strategies to improve its ductility. This study investigates whether incorporating hemp straw powder into PLA can improve deformation capacity while reducing the environmental impacts of parts produced via fused filament fabrication. Hemp straw-PLA composite filaments and pure PLA filaments were extruded and used to produce tensile test specimens. Environmental impacts were evaluated using a gate-to-gate process-based life cycle assessment conducted in accordance with ISO 14,040:2006. Modeling was performed in SimaPro using the ecoinvent database, with impact assessment carried out using ReCiPe 2016, Cumulative Energy Demand, and IPCC 2021 methodologies. Sensitivity analyses examined transportation distances, impact assessment methods, specimen thickness, alternative proxies for filler material, and electricity mix scenarios. Results from ReCiPe 2016 indicate that the environmental impact of a pure PLA tensile test specimen (6.83 mPt) is approximately four times higher than that of a hemp straw-PLA specimen (1.63 mPt), with similar trends observed across other impact methods. These differences are primarily attributable to variations in material use, energy consumption, and emissions during filament production and fused filament fabrication. Exploratory tensile testing indicated that increasing specimen thickness can moderately increase elongation at break for pure PLA, although the improvement remained substantially lower than that observed for hemp straw-PLA composites. Overall, the study demonstrates that incorporating hemp straw filler into PLA can improve deformation capacity while reducing environmental impacts under the conditions examined.",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.clcb.2026.100216"
+  },
+  {
+    "doi": "10.1016/j.prostr.2024.02.037",
+    "title": "Effect of the notch opening angle on the quasi-static behavior of PLA and carbon fibers reinforced PLA realized through Fused Deposition Modelling",
+    "year": 2024,
+    "journal": "Procedia Structural Integrity",
+    "volume": "56",
+    "issue": "",
+    "page": "58-64",
+    "authors": [
+      {
+        "family": "Vălean",
+        "given": "Estera"
+      },
+      {
+        "family": "Foti",
+        "given": "Pietro"
+      },
+      {
+        "family": "Razavi",
+        "given": "Seyed Mohammad Javad"
+      },
+      {
+        "family": "Marșavina",
+        "given": "Liviu"
+      },
+      {
+        "family": "Berto",
+        "given": "Filippo"
+      }
+    ],
+    "cited_by_count": 1,
+    "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "Additive manufacturing provides significant advantages over conventional manufacturing. Among the others, the almost unconstrained freedom in the geometrical design for this technology can be pointed out. However, the geometrical complexness of such components requires for adequate tools to assess both their fracture behavior and fatigue life. A suitable solution for such a design challenge is to rely on the so-called local approaches whose main advantage is to consider a local parameter to evaluate the behavior of the entire component; besides, such methods have the advantage that their critical value can be assumed to be independent on both the overall geometry of the component and the loading conditions. With this purpose, the present work investigates the fracture behavior of notched specimens made of PLA and carbon fiber reinforced PLA realized through additive manufactured technique. The specimen's geometry considered is smooth and double notched while the notch opening angles varies between 30 and 120 degrees. The results of the experimental campaign have been summarized through the averaged strain energy density (SED) method, an energy-based local approach, widely proved to be a valid tool to investigate both fracture in static condition and fatigue failure. The critical value of SED has been obtained through the stress-strain curve of smooth specimens for the two studied materials. After the determination of the control volume characteristic length, R0, the data have been summarized in terms of averaged SED values. The critical loads for the different geometries and the different materials considered are predicted by the method with an average error of ±7%.",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.prostr.2024.02.037"
+  },
+  {
+    "doi": "10.1016/j.mfglet.2025.07.004",
+    "title": "Development and characterisation of PLA-MWCNT filaments for multifunctional hybrid composites reinforced with continuous carbon fibre via 3D printing",
+    "year": 2025,
+    "journal": "Manufacturing Letters",
+    "volume": "44",
+    "issue": "",
+    "page": "1139-1148",
+    "authors": [
+      {
+        "family": "Sankar",
+        "given": "M.Anand"
+      },
+      {
+        "family": "Velu",
+        "given": "Rajkumar"
+      },
+      {
+        "family": "Kumar",
+        "given": "S.Anand"
+      },
+      {
+        "family": "Thomas",
+        "given": "Sabu"
+      }
+    ],
+    "cited_by_count": 1,
+    "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "The demand for advanced composite materials in high-performance applications, especially within the aerospace and automotive industries, has driven the development of innovative 3D printing thermoplastic matrix materials. This study introduces and characterises PLA-based filaments reinforced with Multi-Wall Carbon Nanotubes (MWCNT) at different concentrations to 3D print continuous carbon fibre-reinforced polymer composites (CFRPCs). The effect of nanofiller loading on the mechanical, thermal, hydrophobic, and morphological properties of the fabricated nanocomposite matrix filaments was systematically investigated. The hydrophobic properties of the PLA/MWCNT nanocomposite improved compared to pure PLA, while the tensile properties of the fabricated filaments showed significant enhancement at 0.5 and 2 wt% MWCNT loading. The thermal properties were also enhanced at 2 wt% MWCNT loading and the melt flow index test were used to assess the extrudability of the nanocomposite for fabricating filaments used in 3D printing. Filaments with 2 and 4 wt% MWCNT were 3D printed with continuos carbon fibre (CCF) to evaluate the composite’s EMI shielding performance. The nanocomposites prepared herein can be characterised as multifunctional materials suitable for various industrial applications, such as sensor fabrication, health monitoring devices, etc.",
+    "abstract_source": "openalex",
+    "oa_status": "hybrid",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.mfglet.2025.07.004"
+  },
+  {
+    "doi": "10.1016/j.jmrt.2026.08.049",
+    "title": "Optimising the mechanical performance of short carbon fibre-polylactic acid composites fabricated using fused filament fabrication",
+    "year": 2026,
+    "journal": "Journal of Materials Research and Technology",
+    "volume": "44",
+    "issue": "",
+    "page": "2016-2031",
+    "authors": [
+      {
+        "family": "Gajjar",
+        "given": "Tushar"
+      },
+      {
+        "family": "Panta",
+        "given": "Jojibabu"
+      },
+      {
+        "family": "Yang",
+        "given": "Richard (Chunhui)"
+      },
+      {
+        "family": "Zhang",
+        "given": "Y.X."
+      }
+    ],
+    "cited_by_count": 1,
+    "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "Fused filament fabrication of short carbon fibre-reinforced polylactic acid composites offers a promising route for lightweight, sustainable structural components; however, their performance is strongly governed by complex interactions among processing parameters, interlayer bonding, and defect formation. In this study, a comprehensive multi-response optimisation framework is developed to simultaneously enhance the mechanical performance, surface quality, and manufacturing efficiency of short carbon fibre-reinforced polylactic acid composites. A Taguchi design of experiments combined with Grey Relational Analysis was employed to optimise tensile strength, elastic modulus, surface roughness, and material efficiency by varying key processing parameters, including layer thickness, raster angle, feed rate, nozzle temperature, and infill percentage. Unlike single-response optimisation, which identified different optimal conditions for individual properties, the Taguchi-GRA approach determined the processing parameters that provided the best overall balance across all responses. The optimal parameter combination was identified as 0.35 mm layer thickness, 0° raster angle, 70 mm/s feed rate, 220 °C nozzle temperature, and 100% infill, resulting in a tensile strength of 46.6 MPa, an elastic modulus of 1390.5 MPa, reduced surface roughness of 1.52 μm, and a material efficiency of 131.7 s/g. Confirmation experiments showed that the optimised condition improved tensile strength by 15.2% and elastic modulus by 50.8%, while reducing surface roughness by 34.2%, compared with the initial Taguchi optimum condition. The results reveal that infill percentage and raster angle are the dominant factors governing overall performance owing to their strong influence on structural continuity, void formation, and load-transfer efficiency. Microstructural analysis confirms that improved filament alignment, reduced porosity, and enhanced interlayer fusion are responsible for the observed performance enhancement. Thermal analysis using differential scanning calorimetry and thermogravimetric analysis, together with chemical analysis using Fourier transform infrared spectroscopy, indicates that processing conditions do not significantly alter the intrinsic molecular structure of polylactic acid. The observed improvements are primarily attributed to physical and interfacial mechanisms rather than chemical modification. The study establishes a robust process-structure-property relationship and provides a practical optimisation strategy for high-performance and efficient additive manufacturing of fibre-reinforced thermoplastics.",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.jmrt.2026.08.049"
+  },
+  {
+    "doi": "10.1016/j.nxmate.2026.103207",
+    "title": "Mechanical, thermal, and microstructural properties of FFF-printed graphene-reinforced PLA composites",
+    "year": 2026,
+    "journal": "Next Materials",
+    "volume": "13",
+    "issue": "",
+    "page": "103207",
+    "authors": [
+      {
+        "family": "Jeevan",
+        "given": "T.P."
+      },
+      {
+        "family": "Sharath",
+        "given": "B.N."
+      },
+      {
+        "family": "Anand",
+        "given": "A."
+      },
+      {
+        "family": "Divya",
+        "given": "H.V."
+      },
+      {
+        "family": "Manjunath",
+        "given": "G.A."
+      },
+      {
+        "family": "Rajesh",
+        "given": "T.N."
+      }
+    ],
+    "cited_by_count": 0,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "This study investigates the mechanical, thermal, and microstructural properties of pure PLA and 0.5 wt% graphene-reinforced PLA composites fabricated by fused fillament fabrication. Under optimized parameters of 0.16 mm layer height, 200 °C, and 90 mm/s, neat PLA exhibited an ultimate tensile strength of 28.86 MPa. The addition of graphene increased the ultimate tensile strength to 41 MPa, representing a 41% improvement, achieved at 0.18 mm layer height, 220 °C, and 60 mm/s. Flexural strength followed a similar trend, while impact strength remained at 2.5 kJ/m² but with significantly improved consistency. Scanning electron microscopy and energy-dispersive X-ray spectroscopy confirmed uniform graphene dispersion and good interfacial bonding. Differential scanning calorimetry analysis revealed a slight increase in glass transition temperature from approximately 59 °C to 60.04 °C, reduced crystallinity with crystallization enthalpy changing from −35.91 to −14.07 J/g, and a lower melting point decreasing from 177.9 °C to 154.35 °C, indicating restricted polymer chain mobility. Fourier-transform infrared spectroscopy suggested molecular interactions between PLA and graphene. These enhanced properties expand the potential of PLA-graphene composites for engineering applications.",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.nxmate.2026.103207"
+  },
+  {
+    "doi": "10.1016/j.jmrt.2026.07.287",
+    "title": "3D-printed continuous silk fiber/PLA composites with high strength, modulus, and impact resistance",
+    "year": 2026,
+    "journal": "Journal of Materials Research and Technology",
+    "volume": "44",
+    "issue": "",
+    "page": "2394-2406",
+    "authors": [
+      {
+        "family": "Yang",
+        "given": "Bang"
+      },
+      {
+        "family": "Yang",
+        "given": "Shu"
+      },
+      {
+        "family": "Zuo",
+        "given": "Xiuyue"
+      },
+      {
+        "family": "Zhao",
+        "given": "Liuzhi"
+      },
+      {
+        "family": "Yang",
+        "given": "Mengqing"
+      },
+      {
+        "family": "Zhang",
+        "given": "Tonghua"
+      },
+      {
+        "family": "Dai",
+        "given": "Fangyin"
+      },
+      {
+        "family": "Shao",
+        "given": "Jiaxing"
+      }
+    ],
+    "cited_by_count": 0,
+    "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": ": Silk fiber/polylactic acid (PLA) composites with tunable mechanical performance are gaining more and more attention for sustainable applications in the field of biomedical engineering and lightweight structures. However, the general preparation process for these composites utilizing short silk fibers or flat silk cocoon often encounter issues such as uncontrollable distribution of fiber orientation within the matrix. In this work, we developed a series of continuous silk fiber/PLA composites with precise control over fiber arrangement and content through 3D printing technology, and systematically revealed their synergistic regulation mechanisms, failure modes, and thermal characteristics. Results indicate that the mechanical performance of these composites can be effectively programmed by adjusting silk fiber content and ply orientation. Their tensile strength and modulus initially improve with increasing silk fiber content, reaching an optimum at 20 wt.%, followed by a marked decline. 0° fiber orientation provides the optimal tensile strength (86.60 MPa) and stiffness (3.06 GPa), while 45° fiber orientation maximizes their toughness and extensibility. Comparative analysis confirms that 3D-printed silk fiber/PLA composites in this work exhibit outstanding strength, modulus, and impact strength. These composites show a very low density of only 1.042 g/cm 3 and excellent energy absorption, with the specific impact strength up to 4.0 J·mm -1 ·cm 3 ·g -1 , which surpasses many conventional engineering materials. Failure analysis revealed three primary energy-dissipation mechanisms for these composites: fiber fracture, fiber pull-out, and matrix cracking. This work could provide an effective strategy and a foundational reference for developing lightweight and environmentally friendly natural fiber-reinforced composites with tunable mechanical performance.",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "https://www.sciencedirect.com/science/article/pii/S223878542602017X/pdf",
+    "oa_url": "https://www.sciencedirect.com/science/article/pii/S223878542602017X/pdf"
+  },
+  {
+    "doi": "10.1016/j.carpta.2026.101157",
+    "title": "PCL/nano-hardystonite electrospun nanofiber coating on cellulose nanocrystal-reinforced PLA 3D-printed dental implants",
+    "year": 2026,
+    "journal": "Carbohydrate Polymer Technologies and Applications",
+    "volume": "14",
+    "issue": "",
+    "page": "101157",
+    "authors": [
+      {
+        "family": "Karimipour",
+        "given": "Aliakbar"
+      },
+      {
+        "family": "Mouli",
+        "given": "Kotturu V.V.Chandra"
+      },
+      {
+        "family": "Karimipour",
+        "given": "Arash"
+      }
+    ],
+    "cited_by_count": 0,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "In today’s world, surgeons increasingly use 3D printing as a valuable approach for dental and orthopedic treatments. Moreover, elevated temperatures in novel dentistry surgeries are applied to both the surface and interior of the tooth, potentially resulting in tooth thermal pain (TTP). A promising solution to this challenge is to coat the surface of the implant with nanofibers to modify its surface properties. In this study, a customized FDM 3D printer was utilized to fabricate a dental implant made out of polylactic acid, PLA reinforced with cellulose nanocrystals (CNC) derived from cellulose, a carbohydrate polymer (polysaccharide), and then coated by poly (ε-caprolactone) (PCL)/nano-hardystonite (nHT) composite nanofibers. The coated and uncoated samples were compared in terms of thermomechanical properties, including compressive and tensile strength, and heat transfer properties. These mechanical properties were also experimentally evaluated. Simulated body fluid (SBF) was used to evaluate the implant’s bioactivity. In order to analyze the nanofibers’ morphology and the creation of apatite layer on the surface of the samples, scanning electron microscope (SEM) images were utilized. This study introduces a novel synergistic approach combining CNC-reinforced PLA substrates with PCL/nHT nanofiber coatings to simultaneously enhance thermomechanical properties, thermal insulation, and bioactivity of 3D-printed dental implants. Overall, the findings of this research can lead to the enhancement in the modeling and manufacturing of dental implants.",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.carpta.2026.101157"
+  },
+  {
+    "doi": "10.1016/j.bioadv.2026.214736",
+    "title": "Biocompatibility and degradation of PLA reinforced with tungsten disulfide nanotubes for 3D-printed bone scaffold",
+    "year": 2026,
+    "journal": "Biomaterials Advances",
+    "volume": "183",
+    "issue": "",
+    "page": "214736",
+    "authors": [
+      {
+        "family": "Golan",
+        "given": "Ofek"
+      },
+      {
+        "family": "Granada",
+        "given": "Noa"
+      },
+      {
+        "family": "Lemesh",
+        "given": "Lin"
+      },
+      {
+        "family": "Azoulay-Ginsburg",
+        "given": "Salome"
+      },
+      {
+        "family": "Netti",
+        "given": "Francesca"
+      },
+      {
+        "family": "Altobelli",
+        "given": "Vania"
+      },
+      {
+        "family": "Amir",
+        "given": "Roey J."
+      },
+      {
+        "family": "Adler-Abramovich",
+        "given": "Lihi"
+      },
+      {
+        "family": "Lachman",
+        "given": "Noa"
+      }
+    ],
+    "cited_by_count": 0,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "Advancements in bone tissue engineering have increased interest in 3D-printed scaffolds for bone regeneration. Polylactic acid (PLA), a biocompatible and biodegradable polyester, is a promising candidate for bone scaffold materials. Reinforcing PLA with inorganic nanotubes of tungsten disulfide (INT-WS 2 ) offers new possibilities for scaffold design. INT-WS 2 is an innovative material known for its chemical stability, non-toxicity, and favorable mechanical properties. Integrating PLA with INT-WS 2 marks a pioneering development in bone scaffold technology, providing a safer, more effective alternative to other nanofillers, such as TiO₂ nanoparticles and carbon nanotubes, which face challenges related to cytotoxicity and dispersion. This study adds an important aspect to the characterization of this material by investigating the cytocompatibility and hydrolytic degradation effects on 3D-printed samples of PLA reinforced with 0.5 wt% INT-WS 2 . The samples are proposed as structurally suitable candidate for load-bearing 3D-printed bone scaffolds, with the femur chosen as the upper-limit mechanical benchmark. Controlled hydrolytic degradation of PLA/INT-WS 2 samples was conducted over 12 weeks under human-body simulated conditions. Results demonstrated that the material underwent bulk degradation while maintaining mass and surface hardness. Although the ultimate tensile strength progressively decreased to two-thirds of its initial value, potentially allowing gradual loading of the growing bone, it remained significantly higher than the maximum stress experienced by the human femur during normal walking. Furthermore, the PLA/INT-WS 2 nanocomposite exhibited non-toxic behavior, promoting cell viability and proliferation. Despite the need for a longer experiment to fully assess the degradation rate, these findings support PLA/INT-WS 2 as a promising candidate for tailored 3D-printed bone scaffolds designed for individual patients.",
+    "abstract_source": "openalex",
+    "oa_status": "hybrid",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.bioadv.2026.214736"
+  },
+  {
+    "doi": "10.1016/j.prostr.2025.08.079",
+    "title": "Comparing Approaches for Predicting Critical Loads in 3D Printed Graphene-reinforced PLA Plates Containing Notches",
+    "year": 2025,
+    "journal": "Procedia Structural Integrity",
+    "volume": "72",
+    "issue": "",
+    "page": "97-104",
+    "authors": [
+      {
+        "family": "Arrieta",
+        "given": "Sergio"
+      },
+      {
+        "family": "Cicero",
+        "given": "Sergio"
+      },
+      {
+        "family": "Sánchez",
+        "given": "Marcos"
+      },
+      {
+        "family": "Calderón",
+        "given": "Juan Gil"
+      }
+    ],
+    "cited_by_count": 0,
+    "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "This work provides a comparison of different methodologies that may be used to estimate critical loads in notched components. The use of 3D-printed composites in structural applications, surpassing the current prototyping application, requires the definition of safe and robust methodologies for the determination of critical loads. Considering that notches (corners, holes, grooves, etc.) are unavoidable in structural components, these stress risers affect the corresponding load-carrying capacity. This study compares the results obtained by applying two different methodologies: the Theory of Critical Distances (TCD) and the Averaged Strain Energy Density (ASED) criterion. Additionally, in the case of TCD, the Line Method, combined with Failure Assessment Diagrams, are used. These methodologies are employed to assess the critical loads in graphene-reinforced polylactic acid (PLA-Gr) plates manufactured by Fused Filament Fabrication with a fixed raster orientation at 45/−45. Furthermore, the plates contain two different notch types (U-notches and V-notches), and comprise various thicknesses (from 5 mm up to 20 mm) and ratios of notch length to plate width (a/W= 0.25 and a/W = 0.50). The comparison between the obtained experimental critical loads and the corresponding estimations derived from the application of the TCD and the ASED reveals that both approaches generate reasonably accurate results, with most of the predictions being safe.",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.prostr.2025.08.079"
+  },
+  {
+    "doi": "10.1016/j.mtcomm.2026.115256",
+    "title": "Multi-nozzle impregnation and parameter optimization of continuous carbon fiber/PLA prepreg filaments",
+    "year": 2026,
+    "journal": "Materials Today Communications",
+    "volume": "53",
+    "issue": "",
+    "page": "115256",
+    "authors": [
+      {
+        "family": "Huang",
+        "given": "Tianyi"
+      },
+      {
+        "family": "Zhang",
+        "given": "Feng"
+      },
+      {
+        "family": "Cui",
+        "given": "Zhen"
+      },
+      {
+        "family": "Yin",
+        "given": "Xincheng"
+      },
+      {
+        "family": "Wang",
+        "given": "Zibo"
+      },
+      {
+        "family": "Jin",
+        "given": "Peng"
+      }
+    ],
+    "cited_by_count": 0,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "For fused deposition modeling (FDM) applications, high-quality continuous carbon fiber prepregs are essential to achieve enhanced mechanical performance in printed composites. Here, we present a novel cascaded multi-nozzle impregnation system that employs progressively decreasing orifice diameters (1.00 to 0.75 to 0.50 mm) to drive staged geometric constriction. This architecture significantly improves polylactic acid (PLA) penetration into the fiber tows while strictly mitigating shear-induced fiber damage. Nine processing conditions were systematically evaluated to decouple the effects of localized impregnation temperature (225–235 °C) and effective linear drawing speed (15.7–22.0 mm/s). Monofilament tensile testing and scanning electron microscopy (SEM) were coupled with quantitative physical metrics, specifically Unimpregnated Area Fraction (UAF) and nominal Fiber Volume Fraction ( FV F nom ), to comprehensively assess microstructural consolidation. Two-way ANOVA indicates that temperature is the dominant factor governing tensile performance, achieving a peak mean tensile load of 129.99 N at 235 °C and 15.7 mm/s. Microstructural analysis reveals that higher temperatures and extended residence times successfully eliminate internal macroscopic voids. Furthermore, the influence of drawing speed exhibits a temperature-dependent reversal, revealing a competing mechanism between preventing thermal/shear fiber damage and ensuring sufficient impregnation kinetics. With their optimized consolidation state and superior mechanical integrity, the prepared CCF/PLA filaments demonstrate strong potential for subsequent FDM-based additive manufacturing.",
+    "abstract_source": "openalex",
+    "oa_status": "hybrid",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.mtcomm.2026.115256"
+  },
+  {
+    "doi": "10.1016/j.dt.2026.09.019",
+    "title": "Impact Properties and Fracture Toughness of Continuous Fiber-Reinforced PLA-Graphene Composites Developed for Material Extrusion-Based Additive Manufacturing",
+    "year": 2026,
+    "journal": "Defence Technology",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "authors": [
+      {
+        "family": "Roy",
+        "given": "Sunil Mathew"
+      },
+      {
+        "family": "Ramachandran",
+        "given": "Velmurugan"
+      },
+      {
+        "family": "Krishnapillai",
+        "given": "Shankar"
+      }
+    ],
+    "cited_by_count": 0,
+    "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "The integration of continuous fibers into material extrusion-based additive manufacturing has the potential to enable the fabrication of high-strength components for structural and functional applications, extending its use beyond conventional prototyping. Among the available approaches, printing pre-impregnated fibers and polymer filaments through separate nozzles offers a distinct advantage over co-extrusion methods, where impregnation occurs prior to deposition, as it enables more effective and uniform fiber impregnation, thereby improving mechanical performance. In this context, this study investigates the potential of using graphene-modified polylactic acid (PLA) as a matrix for continuous glass fiber impregnation to develop a continuous fiber composite feedstock for material extrusion-based additive manufacturing. Glass fiber rovings are impregnated with PLA and graphene using a dedicated impregnation system and subsequently employed for fabricating filament-wound laminates for material characterization. Based on tensile and flexural performance, the developed composite demonstrates strong potential as a feedstock for material extrusion-based additive manufacturing applications. To evaluate the influence of graphene incorporation, the fabricated laminates are subjected to high-velocity impact testing, and mode I fracture toughness characterization. Minor graphene addition resulted in a marked increase in the apparent relative crystallinity index of the laminates, along with improved energy absorption and enhanced penetration resistance under high-velocity impact conditions. The results demonstrate the effectiveness of graphene-modified PLA as a matrix for continuous glass fiber composites and establish the mechanical performance of the developed feedstock through filament-wound laminate characterization, providing a basis for its future application in continuous fiber material extrusion-based additive manufacturing.",
+    "abstract_source": "openalex",
+    "oa_status": "gold",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.dt.2026.09.019"
+  },
+  {
+    "doi": "10.1016/j.seppur.2026.138708",
+    "title": "Additive manufacturing of graphene oxide-functionalized polylactic acid (PLA) adsorbent for diuron removal",
+    "year": 2026,
+    "journal": "Separation and Purification Technology",
+    "volume": "404",
+    "issue": "",
+    "page": "138708",
+    "authors": [
+      {
+        "family": "Gongora",
+        "given": "Gabriel Perina"
+      },
+      {
+        "family": "dos Santos",
+        "given": "Nicolle Ramos"
+      },
+      {
+        "family": "Cusioli",
+        "given": "Luís Fernando"
+      },
+      {
+        "family": "Bergamasco",
+        "given": "Rosângela"
+      },
+      {
+        "family": "Fávaro",
+        "given": "Silvia Luciana"
+      },
+      {
+        "family": "Lautenschlager",
+        "given": "Sandro Rogério"
+      }
+    ],
+    "cited_by_count": 0,
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Elsevier BV",
+    "score": 11,
+    "role": "process",
+    "tags": [
+      "fiber",
+      "pla",
+      "process"
+    ],
+    "abstract": "The presence of emerging contaminants, such as diuron, in water bodies demands the development of efficient treatment technologies. In this scenario, adsorption stands out for its high efficiency, especially with the use of graphene oxide (GO), a nanomaterial with exceptional adsorptive capacity for organic compounds. Although adsorption with graphene oxide (GO) is highly promising due to its high chemical affinity, the difficulty in recovering the powdered nanomaterial generates risks of secondary contamination. As a technological solution, this study proposes the immobilization of GO in a polylactic acid (PLA) matrix through Fused Granular Fabrication (FGF) additive manufacturing, aiming to combine high adsorptive performance with ease of handling. Four compositions (0.25 to 1.50% w /w of GO) were developed and characterized. The incorporation of the nanomaterial acted as a nucleating agent, increasing the crystallinity of PLA from 13.25% up to 46.62%, in addition to improving thermal stability. The composite with 0.50% GO exhibited the best mechanical balance (stiffness and strength). In the diuron removal tests, the sample with 0.25% GO stood out for its technical and economic efficiency, reaching over 70% removal and a capacity of 25.08 mg g −1 (pH 3; 2 h). The kinetics followed the Pseudo-First-Order model, and the equilibrium fitted the Sips isotherm (R 2 = 0,99 e 0,97, respectively), indicating a physisorption mechanism. The results confirm that the FGF technology overcomes the separation limitations of GO, providing structural stability to the composite. The material proves to be highly viable for water treatment, and future studies in fixed-bed systems are recommended to optimize operational parameters.",
+    "abstract_source": "openalex",
+    "oa_status": "hybrid",
+    "pdf_url": "",
+    "oa_url": "https://doi.org/10.1016/j.seppur.2026.138708"
+  }
+]
