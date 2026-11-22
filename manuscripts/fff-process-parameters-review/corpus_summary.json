@@ -1,0 +1,35 @@
+{
+  "n": 175,
+  "publishers": {
+    "Wiley": 45,
+    "Elsevier": 45,
+    "Springer Nature": 47,
+    "Taylor & Francis": 38
+  },
+  "years": {
+    "2022": 29,
+    "2023": 35,
+    "2024": 26,
+    "2025": 33,
+    "2026": 52
+  },
+  "oa": {
+    "bronze": 12,
+    "gold": 65,
+    "green": 16,
+    "hybrid": 70,
+    "diamond": 12
+  },
+  "themes": {
+    "mechanical": 58,
+    "thermal": 28,
+    "materials": 27,
+    "geometry": 20,
+    "optimization": 28,
+    "quality": 9,
+    "general": 4,
+    "kinematics": 1
+  },
+  "cited": 175,
+  "min_title_similarity": 0.905
+}
